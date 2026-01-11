@@ -157,6 +157,11 @@
             color: #F8C62F;
         }
 
+        .it-course-info-item-7 .it-course-info-icon {
+            background: linear-gradient(135deg, rgba(3, 89, 78, 0.1) 0%, rgba(3, 89, 78, 0.2) 100%);
+            color: #03594E;
+        }
+
         .it-course-info-icon {
             width: 60px;
             height: 60px;
@@ -175,6 +180,20 @@
 
         .it-course-info-content {
             flex: 1;
+            flex: 1;
+            position: relative;
+            z-index: 1;
+        }
+
+        .it-course-info-content a {
+            color: #03594E;
+            text-decoration: underline;
+            transition: color 0.3s ease;
+            cursor: pointer;
+        }
+
+        .it-course-info-content a:hover {
+            color: #F8C62F;
         }
 
         .it-course-info-label {
@@ -903,8 +922,7 @@
                                             </div>
                                             <div class="it-course-info-content">
                                                 <span class="it-course-info-label">Study pace</span>
-                                                <p class="mb-0">Flexible, you have up to 5 years to complete this course
-                                                </p>
+                                                <p class="mb-0">Flexible (no deadlines or timeframes)</p>
                                             </div>
                                         </div>
                                     </div>
@@ -922,8 +940,8 @@
                                             </div>
                                             <div class="it-course-info-content">
                                                 <span class="it-course-info-label">Qualifications</span>
-                                                <p class="mb-0">Level 4 OTHM diploma (120 credits) , Level 5 OTHM
-                                                    diploma (120 credits) or Level 4 & 5 OTHM diploma (240 credits)</p>
+                                                <p class="mb-0">Level 4 Qualifi diploma (120 credits) , Level 5 Qualifi
+                                                    diploma (120 credits) or Level 4 & 5 Qualifi diploma (240 credits)</p>
                                             </div>
                                         </div>
                                     </div>
@@ -959,7 +977,7 @@
                                             </div>
                                             <div class="it-course-info-content">
                                                 <span class="it-course-info-label">Includes</span>
-                                                <p class="mb-0">1-2-1 tutor support, FREE laptop*, all course materials
+                                                <p class="mb-0">1-2-1 tutor support, all course materials
                                                     and more</p>
                                             </div>
                                         </div>
@@ -971,16 +989,23 @@
                                                 <svg width="28" height="28" viewBox="0 0 24 24" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
-                                                        d="M9 12L11 14L15 10M21 12C21 16.9706 16.9706 21 12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3C16.9706 3 21 7.02944 21 12Z"
+                                                        d="M10 13C10.4295 13.5741 10.9774 14.0491 11.6066 14.3929C12.2357 14.7367 12.9315 14.9411 13.6466 14.9923C14.3618 15.0435 15.0796 14.9403 15.7513 14.6897C16.4231 14.4392 17.0331 14.047 17.54 13.54L20.54 10.54C21.4508 9.59695 21.9548 8.33394 21.9434 7.02296C21.932 5.71198 21.4061 4.45791 20.4791 3.53087C19.5521 2.60383 18.298 2.07799 16.987 2.0666C15.676 2.0552 14.413 2.55918 13.47 3.46997L11.75 5.17997"
+                                                        stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                                        stroke-linejoin="round" />
+                                                    <path
+                                                        d="M14 11C13.5705 10.4259 13.0226 9.95087 12.3934 9.60707C11.7643 9.26327 11.0685 9.05886 10.3534 9.00766C9.63824 8.95645 8.92037 9.05972 8.24863 9.31026C7.57689 9.5608 6.96688 9.95302 6.46 10.46L3.46 13.46C2.54921 14.403 2.04523 15.6661 2.05662 16.977C2.06802 18.288 2.59387 19.5421 3.52091 20.4691C4.44795 21.3962 5.70202 21.922 7.013 21.9334C8.32398 21.9448 9.58699 21.4408 10.53 20.53L12.24 18.82"
                                                         stroke="currentColor" stroke-width="2" stroke-linecap="round"
                                                         stroke-linejoin="round" />
                                                 </svg>
                                             </div>
                                             <div class="it-course-info-content">
                                                 <span class="it-course-info-label">Ofqual Link</span>
-                                                <p class="mb-0">Level 4  Diploma in Information Technology –
-                                                    610/0857/6<br>
-                                                    Level 5   Diploma in IT and  E-Commerce – 610/1527/1
+                                                <p class="mb-0">
+                                                    Level 4 Diploma in Information Technology –
+                                                    <a href="https://find-a-qualification.services.ofqual.gov.uk/qualifications/60347818" target="_blank">603/4781/8</a>
+                                                    <br>
+                                                    Level 5 Diploma in IT E-Commerce –
+                                                    <a href="https://find-a-qualification.services.ofqual.gov.uk/qualifications/60347946" target="_blank">603/4794/6</a>
                                                 </p>
                                             </div>
                                         </div>
@@ -1071,26 +1096,23 @@
                             </div>
                             <div class="it-course-intro-text">
                                 <p class="mb-25 fs-5">
-                                    Interested in building a career in technology and computing? Our IT and Computing
-                                    programme is ideal for learners
-                                    aiming to develop skills in software development, networking, IT support, or systems
-                                    administration.
-                                    This course provides a strong foundation for entering the tech industry or
-                                    progressing to higher education in computing.
+                                    With the number of people shopping online on the rise, and the number of online stores ever increasing, it's becoming more and more important for retailers and eCommerce stores to know how to optimise and promote their websites to increase site visitors and revenues.
+                                </p>
+
+                                <p class="mb-25">
+                                    The Level 4 modules and assignments of this course are equivalent to the first year of a university degree and the Level 5 modules and assignments are equivalent to the second year of a university degree.
+                                </p>
+
+                                <p class="mb-25">
+                                    The online Level 4 Diploma in Information Technology and the Level 5 Diploma in IT and E-Commerce are a 240-credit qualification, it includes 10 modules and 6 written assignments at Level 4 and 6 modules and 6 written assignments at Level 5.
+                                </p>
+
+                                <p class="mb-25">
+                                    The course is designed to equip you with the skills you need to top Up to a full undergraduate degree and go on to become an IT professional. While completing the course, students will have access to a variety of support services, including tutor support and webinars, a social learning forum, and additional materials to help in the completion of their diploma course.
                                 </p>
 
                                 <p class="mb-30">
-                                    Accredited by <strong>OTHM</strong>, the Level 4 Diploma covers essential IT
-                                    principles equivalent to the first year of a university degree,
-                                    while the Level 5 Diploma focuses on advanced modules and assignments corresponding
-                                    to the second year.
-                                    Completing both levels results in a <strong>240-credit qualification</strong>,
-                                    incorporating structured guided learning and practical assessments.
-                                    Students complete six modules and six written assignments at each level, gaining
-                                    hands-on and theoretical knowledge to advance in technology careers.
-                                    Learners also receive <strong>personalised one-to-one tutor support</strong>, access
-                                    to live webinars, collaborative online communities,
-                                    and extensive study resources designed to ensure success.
+                                    This course is eligible for ELCAS funding.
                                 </p>
                             </div>
 
@@ -1110,483 +1132,548 @@
         </section>
         <!-- course-intro-area-end -->
 
-        <!-- course-info-tabs-area-start -->
-        <section class="it-course-info-tabs-area pt-100 pb-100 position-relative">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-12">
-                        <div class="it-course-info-tabs-wrapper">
-                            <!-- Tab Navigation -->
-                            <ul class="nav nav-tabs it-course-info-nav-tabs" id="courseInfoTabs" role="tablist">
-                                <li class="nav-item" role="presentation">
-                                    <button class="nav-link active" id="how-it-works-tab" data-bs-toggle="tab"
-                                        data-bs-target="#how-it-works" type="button" role="tab"
-                                        aria-controls="how-it-works" aria-selected="true">
-                                        How it works
-                                    </button>
-                                </li>
-                                <li class="nav-item" role="presentation">
-                                    <button class="nav-link" id="sitting-exam-tab" data-bs-toggle="tab"
-                                        data-bs-target="#sitting-exam" type="button" role="tab"
-                                        aria-controls="sitting-exam" aria-selected="false">
-                                        Sitting The Exam
-                                    </button>
-                                </li>
-                                <li class="nav-item" role="presentation">
-                                    <button class="nav-link" id="entry-requirements-tab" data-bs-toggle="tab"
-                                        data-bs-target="#entry-requirements" type="button" role="tab"
-                                        aria-controls="entry-requirements" aria-selected="false">
-                                        Entry requirements
-                                    </button>
-                                </li>
-                                <li class="nav-item" role="presentation">
-                                    <button class="nav-link" id="cost-payments-tab" data-bs-toggle="tab"
-                                        data-bs-target="#cost-payments" type="button" role="tab"
-                                        aria-controls="cost-payments" aria-selected="false">
-                                        Cost & payments
-                                    </button>
-                                </li>
-                                <li class="nav-item" role="presentation">
-                                    <button class="nav-link" id="career-progression-tab" data-bs-toggle="tab"
-                                        data-bs-target="#career-progression" type="button" role="tab"
-                                        aria-controls="career-progression" aria-selected="false">
-                                        Career progression
-                                    </button>
-                                </li>
-                                <li class="nav-item" role="presentation">
-                                    <button class="nav-link" id="subject-content-tab" data-bs-toggle="tab"
-                                        data-bs-target="#subject-content" type="button" role="tab"
-                                        aria-controls="subject-content" aria-selected="false">
-                                        Subject Content
-                                    </button>
-                                </li>
-                            </ul>
+       <!-- course-info-tabs-area-start -->
+       <section class="it-course-info-tabs-area pt-100 pb-100 position-relative">
+        <div class="container">
+          <div class="row">
+            <div class="col-xl-12">
+              <div class="it-course-info-tabs-wrapper">
+                <!-- Tab Navigation -->
+                <ul
+                  class="nav nav-tabs it-course-info-nav-tabs"
+                  id="courseInfoTabs"
+                  role="tablist"
+                >
+                  <li class="nav-item" role="presentation">
+                    <button
+                      class="nav-link active"
+                      id="how-it-works-tab"
+                      data-bs-toggle="tab"
+                      data-bs-target="#how-it-works"
+                      type="button"
+                      role="tab"
+                      aria-controls="how-it-works"
+                      aria-selected="true"
+                    >
+                      How it works
+                    </button>
+                  </li>
+                  <li class="nav-item" role="presentation">
+                    <button
+                      class="nav-link"
+                      id="sitting-exam-tab"
+                      data-bs-toggle="tab"
+                      data-bs-target="#sitting-exam"
+                      type="button"
+                      role="tab"
+                      aria-controls="sitting-exam"
+                      aria-selected="false"
+                    >
+                      Course Modules
+                    </button>
+                  </li>
+                  <li class="nav-item" role="presentation">
+                    <button
+                      class="nav-link"
+                      id="entry-requirements-tab"
+                      data-bs-toggle="tab"
+                      data-bs-target="#entry-requirements"
+                      type="button"
+                      role="tab"
+                      aria-controls="entry-requirements"
+                      aria-selected="false"
+                    >
+                      Entry requirements
+                    </button>
+                  </li>
+                  <li class="nav-item" role="presentation">
+                    <button
+                      class="nav-link"
+                      id="cost-payments-tab"
+                      data-bs-toggle="tab"
+                      data-bs-target="#cost-payments"
+                      type="button"
+                      role="tab"
+                      aria-controls="cost-payments"
+                      aria-selected="false"
+                    >
+                      Cost & payments
+                    </button>
+                  </li>
+                  <li class="nav-item" role="presentation">
+                    <button
+                      class="nav-link"
+                      id="career-progression-tab"
+                      data-bs-toggle="tab"
+                      data-bs-target="#career-progression"
+                      type="button"
+                      role="tab"
+                      aria-controls="career-progression"
+                      aria-selected="false"
+                    >
+                      Career progression
+                    </button>
+                  </li>
+                  <li class="nav-item" role="presentation">
+                    <button
+                      class="nav-link"
+                      id="university-progression-tab"
+                      data-bs-toggle="tab"
+                      data-bs-target="#university-progression"
+                      type="button"
+                      role="tab"
+                      aria-controls="university-progression"
+                      aria-selected="false"
+                    >
+                      University options
+                    </button>
+                  </li>
+                  <li class="nav-item" role="presentation">
+                    <button
+                      class="nav-link"
+                      id="subject-content-tab"
+                      data-bs-toggle="tab"
+                      data-bs-target="#subject-content"
+                      type="button"
+                      role="tab"
+                      aria-controls="subject-content"
+                      aria-selected="false"
+                    >
+                      Sample Certificates
+                    </button>
+                  </li>
+                </ul>
 
-                            <!-- Tab Content -->
-                            <div class="tab-content it-course-info-tab-content" id="courseInfoTabsContent">
-                                <!-- How it works -->
-                                <div class="tab-pane fade show active" id="how-it-works" role="tabpanel"
-                                    aria-labelledby="how-it-works-tab">
-                                    <div class="it-course-info-content-box">
-                                        <h3 class="it-course-info-title mb-25">How it works</h3>
-                                        <div class="it-course-info-text">
-                                            <p class="mb-20">
-                                                Students enrolling in our IT and E-Commerce online programme can pursue a <strong>Level 4 Diploma (120 credits)</strong>, 
-                                                <strong>Level 5 Diploma (120 credits)</strong>, or a combined <strong>Level 4 & Level 5 qualification (240 credits)</strong>. 
-                                                This programme is designed to equip learners with the practical IT, e-commerce, and problem-solving skills needed to thrive in today’s technology-driven business environment.
-                                            </p>
-                                        
-                                            <p class="mb-20">
-                                                The course is delivered fully online, offering complete flexibility so learners can begin at any time and study around other commitments. 
-                                                Each module at Level 4 and Level 5 includes <strong>40 hours of guided online learning</strong>, supplemented by an additional <strong>30–50 hours</strong> of optional study materials such as practical exercises, recommended readings, digital tools, and self-assessment tasks to reinforce key IT and e-commerce concepts.
-                                            </p>
-                                        
-                                            <p class="mb-20">
-                                                Assessment is carried out through <strong>online written assignments</strong>, with <strong>six assignments at Level 4</strong> and <strong>six assignments at Level 5</strong>. 
-                                                Each assignment typically ranges from <strong>2,000 to 3,000 words</strong>. Successful completion awards learners with a <strong>Qualifi Diploma in IT and E-Commerce</strong>, which can support progression to <strong>bachelor’s degree top-up programmes</strong> at a variety of UK universities.
-                                            </p>
-                                        
-                                            <p class="mb-20">
-                                                Throughout the programme, learners benefit from <strong>personalised one-to-one tutor support</strong>, live interactive webinars, discussion forums, and a wide range of additional learning resources designed to ensure confident and successful course completion. 
-                                                Further details are available on our <a href="#" class="it-course-info-link">Student Resources page</a>.
-                                            </p>
-                                        
-                                            <p class="mb-30">
-                                                Learners can also explore the academic standards we maintain and the professional affiliations we are part of, ensuring a high-quality learning experience. 
-                                                Continuous guidance is provided throughout the programme to prepare learners for career progression or further study in IT and E-Commerce.
-                                            </p>
-                                        
-                                            <a href="#" class="it-course-info-cta-link">
-                                                <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                    <path d="M6 12L10 8L6 4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                                </svg>
-                                                Click here to view a Level 4 Sample Certificate & Transcript
-                                            </a>
-                                        
-                                            <a href="#" class="it-course-info-cta-link mt-10">
-                                                <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                    <path d="M6 12L10 8L6 4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                                </svg>
-                                                Click here to view a Level 5 Sample Certificate & Transcript
-                                            </a>
-                                        </div>
-                                        
+                <!-- Tab Content -->
+                <div
+                  class="tab-content it-course-info-tab-content"
+                  id="courseInfoTabsContent"
+                >
+                  <!-- How it works -->
+                  <div
+                    class="tab-pane fade show active"
+                    id="how-it-works"
+                    role="tabpanel"
+                    aria-labelledby="how-it-works-tab"
+                  >
+                    <div class="it-course-info-content-box">
+                      <h3 class="it-course-info-title mb-25">How this Diploma Works</h3>
+                      <div class="it-course-info-text">
+                        <p class="mb-20">
+                          Students on our IT and E-Commerce course can complete a Level 4 (120 credits), Level 5 (120 credits) or a combined Level 4 & 5 (240 credits) Qualifi diploma, designed to provide students with the skills needed to succeed in the IT industry.
+                        </p>
 
+                        <p class="mb-20">
+                          The course is completed online and you can start at any time, it's completely flexible. Each module (Level 4 & Level 5) consists of <strong>40 hours of guided online learning</strong>, with an additional <strong>30-50 hours</strong> worth of optional materials that include recommended exercises, readings, digital resources and self-test tasks.
+                        </p>
 
+                        <p class="mb-20">
+                          To complete the course you'll submit <strong>6 online assignments</strong> at each level, and assignments are approximately <strong>2,000-3,000 words</strong> each. Once you've passed your course, you'll be awarded with a Qualifi diploma and you'll be able to top up your qualification to a bachelor's degree at a range of UK universities.
+                        </p>
 
+                        <p class="mb-30">
+                          During this IT and E-Commerce course you'll have access to <strong>1-2-1 tutor support</strong> and webinars, social learning forums and additional materials to complete your diploma with ease. You can find out more about the support you'll have available on our Student Resources page. You can also read about the academic credentials we meet and associations we're part of to make sure you have the best learning experience.
+                        </p>
 
-
-
-
-
-
-
-                                    </div>
-                                </div>
-
-                                <!-- Sitting The Exam -->
-                                <div class="tab-pane fade" id="sitting-exam" role="tabpanel"
-                                    aria-labelledby="sitting-exam-tab">
-                                    <div class="it-course-info-content-box">
-                                        <h3 class="it-course-info-title mb-25">Sitting The Exam</h3>
-                                        <div class="it-course-info-text">
-                                            <p class="mb-20">To sit an IGCSE Biology examination, begin by finding an
-                                                approved exam centre in your country that accepts private candidates.
-                                                Once you've identified a suitable centre, complete the registration
-                                                process and pay any required examination fees.</p>
-
-                                            <p class="mb-20">Prior to your exams, carefully review your statement of
-                                                entry to ensure all details are correct. Remember to bring valid
-                                                identification to each examination session. Maintain regular
-                                                communication with your exam centre or provider regarding any
-                                                exam-related questions, including arrangements for special access
-                                                requirements.</p>
-
-                                            <p class="mb-20">After completing your examinations, inform the centre or
-                                                exam provider if you require any special consideration. Collect your
-                                                results and certificates from them when available. If needed, you can
-                                                request reviews of marking or appeals through your exam centre or
-                                                provider.</p>
-
-                                            <div class="it-course-info-highlight-box mt-30 mb-30">
-                                                <h5 class="mb-15">Online Business School Support</h5>
-                                                <p class="mb-15">We are committed to supporting you throughout the
-                                                    entire IGCSE exam process. Our team will assist you in locating an
-                                                    approved exam centre, help with registration procedures, and ensure
-                                                    you meet all requirements and deadlines.</p>
-                                                <p class="mb-15">We provide guidance on exam preparation strategies,
-                                                    verify your statement of entry accuracy, and clarify identification
-                                                    and access arrangement requirements.</p>
-                                                <p class="mb-0">Following your exams, we'll guide you through requesting
-                                                    special considerations, collecting results and certificates, and
-                                                    navigating the process for reviews of marking or appeals. Our
-                                                    comprehensive support ensures you have the necessary resources and
-                                                    assistance at every stage of your examination journey.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <!-- Entry requirements -->
-                                <div class="tab-pane fade" id="entry-requirements" role="tabpanel"
-                                    aria-labelledby="entry-requirements-tab">
-                                    <div class="it-course-info-content-box">
-                                        <h3 class="it-course-info-title mb-25">Am I eligible for this programme?</h3>
-                                        <div class="it-course-info-text">
-                                            <p class="mb-20">The IGCSE Biology course is typically completed by students
-                                                aged 14 to 16, however, anyone aged 14 or above is welcome to enrol.
-                                                This course is designed to be accessible to learners from diverse
-                                                educational backgrounds.</p>
-
-                                            <p class="mb-20">No prior qualifications are required to begin this course.
-                                                Whether you're looking to enhance your scientific knowledge, prepare for
-                                                further studies, or pursue a career in biology or related fields, this
-                                                program provides a solid foundation without requiring previous academic
-                                                achievements in the subject.</p>
-
-                                            <p class="mb-20">The course structure accommodates learners at various
-                                                levels, with comprehensive materials and support systems in place to
-                                                help you succeed regardless of your previous experience with biology.
-                                            </p>
-
-                                            <div class="it-course-info-feature-list mt-30">
-                                                <h5 class="mb-20">Course Accessibility Features:</h5>
-                                                <ul class="it-course-info-list">
-                                                    <li>No prerequisite qualifications needed</li>
-                                                    <li>Open to students aged 14 and above</li>
-                                                    <li>Flexible online learning format</li>
-                                                    <li>Comprehensive support materials included</li>
-                                                    <li>1-2-1 tutor guidance available</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <!-- Cost & payments -->
-                                <div class="tab-pane fade" id="cost-payments" role="tabpanel"
-                                    aria-labelledby="cost-payments-tab">
-                                    <div class="it-course-info-content-box">
-                                        <h3 class="it-course-info-title mb-25">Cost and payments</h3>
-                                        <div class="it-course-info-text">
-                                            <div class="it-course-price-box mb-30">
-                                                <h4 class="mb-10">IGCSE Biology: <span
-                                                        class="it-price-amount">£399</span></h4>
-                                                <p class="mb-0">Enrol with a <strong>£50 deposit</strong> and then
-                                                    <strong>£14.55 a month for 24 months</strong>, interest-free.
-                                                </p>
-                                            </div>
-
-                                            <p class="mb-20">We offer flexible payment options to make your education
-                                                accessible. Students can make payments using one of the following
-                                                convenient methods:</p>
-
-                                            <div class="it-payment-methods-list">
-                                                <ul class="it-course-info-list">
-                                                    <li>Credit or debit card</li>
-                                                    <li>Bank transfer</li>
-                                                    <li>Interest-free monthly instalments</li>
-                                                    <li>PayPal</li>
-                                                    <li>Western Union</li>
-                                                </ul>
-                                            </div>
-
-                                            <p class="mb-20 mt-30">Our flexible payment plans are designed to
-                                                accommodate different financial situations, allowing you to spread the
-                                                cost of your course over time without additional interest charges.</p>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <!-- Career progression -->
-                                <div class="tab-pane fade" id="career-progression" role="tabpanel"
-                                    aria-labelledby="career-progression-tab">
-                                    <div class="it-course-info-content-box">
-                                        <h3 class="it-course-info-title mb-25">Career Progression</h3>
-                                        <div class="it-course-info-text">
-                                            <p class="mb-20">Upon successful completion of the IGCSE Biology course,
-                                                you'll have acquired the essential foundations and fundamental knowledge
-                                                required to progress to A Levels or pursue a Level 3 qualification with
-                                                Online Business School.</p>
-
-                                            <p class="mb-20">This qualification serves as a stepping stone for various
-                                                educational and career pathways in the sciences. The knowledge and
-                                                skills you develop will prepare you for advanced studies in biology,
-                                                chemistry, medicine, environmental science, and other related
-                                                disciplines.</p>
-
-                                            <div class="it-career-pathways-box mt-30 mb-30">
-                                                <h5 class="mb-20">Potential Career Pathways:</h5>
-                                                <div class="row g-4">
-                                                    <div class="col-md-6">
-                                                        <div class="it-career-path-item">
-                                                            <h6 class="mb-10">Further Education</h6>
-                                                            <p class="mb-0">Progress to A Levels in Biology, Chemistry,
-                                                                or related sciences</p>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-6">
-                                                        <div class="it-career-path-item">
-                                                            <h6 class="mb-10">Higher Education</h6>
-                                                            <p class="mb-0">Foundation for university degrees in life
-                                                                sciences, medicine, or research</p>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-6">
-                                                        <div class="it-career-path-item">
-                                                            <h6 class="mb-10">Professional Careers</h6>
-                                                            <p class="mb-0">Pathway to careers in healthcare, research,
-                                                                environmental science, and biotechnology</p>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-6">
-                                                        <div class="it-career-path-item">
-                                                            <h6 class="mb-10">Level 3 Qualifications</h6>
-                                                            <p class="mb-0">Continue with advanced qualifications at
-                                                                Online Business School</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <!-- Subject Content -->
-                                <div class="tab-pane fade" id="subject-content" role="tabpanel"
-                                    aria-labelledby="subject-content-tab">
-                                    <div class="it-course-info-content-box">
-                                        <h3 class="it-course-info-title mb-25">Subject Content</h3>
-                                        <div class="it-course-info-text">
-                                            <div class="it-subject-content-list">
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">1. Characteristics and Classification of Living
-                                                        Organisms</h5>
-                                                    <p class="mb-0">This foundational section explores the fundamental
-                                                        characteristics that define living organisms and introduces the
-                                                        principles of biological classification. You'll learn about the
-                                                        diversity of life, classification systems, and how organisms are
-                                                        organized into groups based on shared characteristics and
-                                                        evolutionary relationships.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">2. Organisation of the Organism</h5>
-                                                    <p class="mb-0">Focus on cellular structure and function, examining
-                                                        how cells are organized into tissues, organs, and organ systems.
-                                                        This section covers cell biology, including cell structure,
-                                                        organelles, and their functions, providing essential knowledge
-                                                        for understanding how living organisms function at the cellular
-                                                        level.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">3. Movement In and Out of Cells</h5>
-                                                    <p class="mb-0">Explore the mechanisms of transport across cell
-                                                        membranes, including diffusion, osmosis, and active transport.
-                                                        This section covers how substances move into and out of cells,
-                                                        maintaining cellular homeostasis and supporting vital biological
-                                                        processes.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">4. Biological Molecules</h5>
-                                                    <p class="mb-0">Study the chemical basis of life, examining
-                                                        carbohydrates, proteins, lipids, and nucleic acids. Learn about
-                                                        their structure, function, and importance in biological systems,
-                                                        providing the foundation for understanding metabolism and
-                                                        cellular processes.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">5. Enzymes</h5>
-                                                    <p class="mb-0">Investigate the role of enzymes as biological
-                                                        catalysts, exploring enzyme structure, function, and factors
-                                                        affecting enzyme activity. This section covers how enzymes
-                                                        control metabolic reactions and maintain cellular processes
-                                                        essential for life.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">6. Plant Nutrition</h5>
-                                                    <p class="mb-0">Examine how plants obtain and utilize nutrients,
-                                                        covering photosynthesis, mineral nutrition, and plant growth
-                                                        requirements. Learn about the importance of plants in ecosystems
-                                                        and their role in supporting life on Earth.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">7. Human Nutrition</h5>
-                                                    <p class="mb-0">Study the human digestive system, nutritional
-                                                        requirements, and the role of different nutrients in maintaining
-                                                        health. This section covers digestion, absorption, and the
-                                                        importance of a balanced diet for human health and development.
-                                                    </p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">8. Transport in Plants</h5>
-                                                    <p class="mb-0">Explore how water, minerals, and organic compounds
-                                                        are transported throughout plants. Learn about xylem and phloem,
-                                                        transpiration, and the mechanisms that enable plants to
-                                                        distribute essential substances from roots to leaves and other
-                                                        parts.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">9. Transport in Animals</h5>
-                                                    <p class="mb-0">Investigate the circulatory system in animals,
-                                                        focusing on the human cardiovascular system. This section covers
-                                                        the heart, blood vessels, blood composition, and how oxygen,
-                                                        nutrients, and waste products are transported throughout the
-                                                        body.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">10. Diseases and Immunity</h5>
-                                                    <p class="mb-0">Examine the causes of disease, the body's defense
-                                                        mechanisms, and the immune system. Learn about pathogens, how
-                                                        diseases spread, and how the immune system protects against
-                                                        infection, including both specific and non-specific immune
-                                                        responses.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">11. Gas Exchange in Humans</h5>
-                                                    <p class="mb-0">Study the respiratory system, focusing on how humans
-                                                        obtain oxygen and remove carbon dioxide. This section covers
-                                                        lung structure, breathing mechanisms, and the process of gas
-                                                        exchange essential for cellular respiration.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">12. Respiration</h5>
-                                                    <p class="mb-0">Explore cellular respiration, the process by which
-                                                        cells release energy from food molecules. Learn about aerobic
-                                                        and anaerobic respiration, ATP production, and how organisms
-                                                        obtain the energy needed for life processes.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">13. Excretion in Humans</h5>
-                                                    <p class="mb-0">Examine how the human body removes waste products,
-                                                        focusing on the urinary system. This section covers kidney
-                                                        structure and function, urine formation, and the importance of
-                                                        excretion in maintaining homeostasis.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">14. Coordination and Response</h5>
-                                                    <p class="mb-0">Investigate how organisms detect and respond to
-                                                        changes in their environment. This section covers the nervous
-                                                        system, endocrine system, and how coordination enables organisms
-                                                        to maintain internal balance and respond to external stimuli.
-                                                    </p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">15. Drugs</h5>
-                                                    <p class="mb-0">Study the effects of drugs on the human body,
-                                                        including medicinal drugs and substances of abuse. Learn about
-                                                        how drugs affect the nervous system, the importance of
-                                                        responsible drug use, and the impact of drug abuse on health and
-                                                        society.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">16. Reproduction</h5>
-                                                    <p class="mb-0">Examine reproductive systems in plants and animals,
-                                                        covering both sexual and asexual reproduction. This section
-                                                        explores the processes of reproduction, development, and the
-                                                        continuation of species.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">17. Inheritance</h5>
-                                                    <p class="mb-0">Study the principles of genetics, including how
-                                                        characteristics are inherited from parents to offspring. Learn
-                                                        about genes, chromosomes, DNA, genetic variation, and the
-                                                        mechanisms of inheritance that determine traits in living
-                                                        organisms.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">18. Variation and Selection</h5>
-                                                    <p class="mb-0">Explore genetic variation, natural selection, and
-                                                        evolution. This section covers how variation arises, how
-                                                        selection acts on variation, and the processes that drive
-                                                        evolutionary change in populations over time.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">19. Organisms and Their Environment</h5>
-                                                    <p class="mb-0">Investigate how organisms interact with their
-                                                        environment and with each other. Learn about ecosystems, food
-                                                        chains, food webs, energy flow, and the relationships between
-                                                        organisms and their habitats.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-0">
-                                                    <h5 class="mb-15">20. Biotechnology and Genetic Engineering</h5>
-                                                    <p class="mb-0">Examine modern applications of biology, including
-                                                        genetic engineering, biotechnology, and their applications in
-                                                        medicine, agriculture, and industry. This section covers the
-                                                        techniques, benefits, and ethical considerations of
-                                                        biotechnological applications.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-
-                        </div>
+                        <!-- <a href="assets/img/course/OTHM-Level-3-Foundation-Diploma-Sample-Certificate.pdf" class="it-course-info-cta-link" target="_blank">
+                          <svg
+                            width="16"
+                            height="16"
+                            viewBox="0 0 16 16"
+                            fill="none"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <path
+                              d="M6 12L10 8L6 4"
+                              stroke="currentColor"
+                              stroke-width="2"
+                              stroke-linecap="round"
+                              stroke-linejoin="round"
+                            />
+                          </svg>
+                          Click Here to view a Sample Certificate
+                        </a> -->
+                      </div>
                     </div>
+                  </div>
+
+                  <!-- Course Modules -->
+                  <div
+                    class="tab-pane fade"
+                    id="sitting-exam"
+                    role="tabpanel"
+                    aria-labelledby="sitting-exam-tab"
+                  >
+                    <div class="it-course-info-content-box">
+                      <h3 class="it-course-info-title mb-25">Course Modules</h3>
+                      <div class="it-course-info-text">
+                        <p class="mb-25">Level 4 Module Listing</p>
+
+                        <div class="it-subject-content-list">
+                          <div class="it-subject-topic-item mb-30">
+                            <h5 class="mb-15">Computer systems and software</h5>
+                            <p class="mb-0">This module will develop learners' understanding of the integration of hardware and software components.</p>
+                          </div>
+
+                          <div class="it-subject-topic-item mb-30">
+                            <h5 class="mb-15">Computer programming</h5>
+                            <p class="mb-0">Learners will use different tools and techniques to design, implement and test programs, following the system life cycle.</p>
+                          </div>
+
+                          <div class="it-subject-topic-item mb-30">
+                            <h5 class="mb-15">Relational database systems</h5>
+                            <p class="mb-0">This unit will develop learners' understanding of database systems and data analysis and modelling.</p>
+                          </div>
+
+                          <div class="it-subject-topic-item mb-30">
+                            <h5 class="mb-15">Software engineering</h5>
+                            <p class="mb-0">Learners will gain an understanding of the need for software engineering and the different methods and techniques.</p>
+                          </div>
+
+                          <div class="it-subject-topic-item mb-30">
+                            <h5 class="mb-15">Systems analysis and design</h5>
+                            <p class="mb-0">This module provides an understanding of IS concepts and how they relate to organisation needs in respect of business processes and transformation of information.</p>
+                          </div>
+
+                          <div class="it-subject-topic-item mb-30">
+                            <h5 class="mb-15">E- commerce applications</h5>
+                            <p class="mb-0">This module explores the role of e-commerce in the modern world and in particular the identification of aims and objectives within a business and the design issues arising from the definition of requirements.</p>
+                          </div>
+
+                          <div class="it-subject-topic-item mb-30">
+                            <h5 class="mb-15">Human computer interaction</h5>
+                            <p class="mb-0">This module will develop students understanding of principles and models of human computer interaction and evaluate existing HCI design and principles and use this to help them plan their own prototype multimedia user interface.</p>
+                          </div>
+
+                          <div class="it-subject-topic-item mb-30">
+                            <h5 class="mb-15">IT and society</h5>
+                            <p class="mb-0">This module examines the impact of technology on society and explores trends and changes created. It will examine management issues and potential conflicts in terms of security and data management.</p>
+                          </div>
+
+                          <div class="it-subject-topic-item mb-30">
+                            <h5 class="mb-15">Information systems theory and practice</h5>
+                            <p class="mb-0">This module explores elements of project management key to successful development and implementation of specific IT projects.</p>
+                          </div>
+
+                          <div class="it-subject-topic-item mb-30">
+                            <h5 class="mb-15">Management information systems</h5>
+                            <p class="mb-0">This module focuses on understanding concepts of information systems and how they support business needs in terms of information processing and data processing.</p>
+                          </div>
+                        </div>
+
+                        <p class="mb-25">Level 5 module listing</p>
+
+                        <div class="it-subject-content-list">
+                          <div class="it-subject-topic-item mb-30">
+                            <h5 class="mb-15">Technopreneurship</h5>
+                            <p class="mb-0">The aim of this unit is to provide learners with the knowledge and skills needed to establish a new techno business. It includes understanding the characteristics of entrepreneurs, planning, marketing and finance.</p>
+                          </div>
+
+                          <div class="it-subject-topic-item mb-30">
+                            <h5 class="mb-15">Network Security</h5>
+                            <p class="mb-0">The aim of this unit is to provide learners with knowledge of network security issues in a networked environment and the process of preventing and detection common security incidents.</p>
+                          </div>
+
+                          <div class="it-subject-topic-item mb-30">
+                            <h5 class="mb-15">C.Net Programming</h5>
+                            <p class="mb-0">This unit aims to provide learners with the basic concepts and principles of ASP.NET programming using C#. This will enable learners to understand how to create dynamic web pages using server-side programming techniques.</p>
+                          </div>
+
+                          <div class="it-subject-topic-item mb-30">
+                            <h5 class="mb-15">System administration</h5>
+                            <p class="mb-0">The unit initially discusses the main aspects of system administration. The discussion begins with the description of the administrator role, and an analysis of the main elements of system administration.</p>
+                          </div>
+
+                          <div class="it-subject-topic-item mb-30">
+                            <h5 class="mb-15">Business to Business (B2B) E-commerce</h5>
+                            <p class="mb-0">This unit aims to provide learners with knowledge of Business to business (B2B) e-commerce. This includes Electronic Data Interchange (EDI), Electronic Funds Transfer (EFT), online transaction processing, inventory management systems and supply chain management.</p>
+                          </div>
+
+                          <div class="it-subject-topic-item mb-30">
+                            <h5 class="mb-15">Business to Consumer (B2C) E- Commerce</h5>
+                            <p class="mb-0">The aim of this unit is to provide learners with knowledge of business to consumer e-commerce. This includes the concepts and techniques used in mobile e-commerce and ticketing, the psychology of marketing, Artificial Intelligence (AI) in image recognition and social commerce.</p>
+                          </div>
+                        </div>
+
+                        <p class="mb-25">
+                          Assignment Unit titles:
+                        </p>
+
+                        <p class="mb-25">
+                          The assignment unit titles for the level 4 course are:
+                        </p>
+
+                        <ul class="it-course-info-list mb-25">
+                          <li>Information technology and IT ethics</li>
+                          <li>Mathematics and statistics for IT</li>
+                          <li>PC maintenance and operating systems</li>
+                          <li>Computer graphics editing and database concepts</li>
+                          <li>Logical IT Networking</li>
+                          <li>Web Design</li>
+                        </ul>
+
+                        <p class="mb-25">
+                          More information about the level 4 units can be found here <a href="https://qualifi.net/qualifi-level-4-diploma-in-information-technology/" class="it-course-info-link" target="_blank">https://qualifi.net/qualifi-level-4-diploma-in-information-technology/</a>
+                        </p>
+
+                        <p class="mb-25">
+                          The assignment unit titles for the level 5 course are:
+                        </p>
+
+                        <ul class="it-course-info-list mb-30">
+                          <li>Technopreneurship</li>
+                          <li>Network security</li>
+                          <li>C#.NET programming</li>
+                          <li>System administration</li>
+                          <li>Business to business (B2B) E-commerce</li>
+                          <li>Business to consumer (B2C) E-commerce</li>
+                        </ul>
+
+                        <p class="mb-30">
+                          More information about the level 5 units can be found here <a href="https://qualifi.net/qualifi-level-5-diploma-in-it-e-commerce/" class="it-course-info-link" target="_blank">https://qualifi.net/qualifi-level-5-diploma-in-it-e-commerce/</a>
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+
+                  <!-- Entry requirements -->
+                  <div
+                    class="tab-pane fade"
+                    id="entry-requirements"
+                    role="tabpanel"
+                    aria-labelledby="entry-requirements-tab"
+                  >
+                    <div class="it-course-info-content-box">
+                      <h3 class="it-course-info-title mb-25">
+                        Am I eligible for this programme?
+                      </h3>
+                      <div class="it-course-info-text">
+                        <p class="mb-20">
+                          To enrol on our Level 4 IT and Computing course, you must be at least 18 years old and have a full secondary education, meaning you must have a minimum of 2 A-levels or equivalent.
+                        </p>
+
+                        <p class="mb-30">
+                          If you don't have 2 A-levels or the equivalent, such as NVQ Level 3, you may also be able to enrol based on your work experience. To find out more, talk to one of our helpful team members at: <a href="tel:03337721158" class="it-course-info-link">0333 772 1158</a>
+                        </p>
+
+                        <p class="mb-30">
+                          To enrol on the Level 5 IT & E-Commerce course, you must have completed the Level 4 Qualifi diploma in IT and Computing.
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+
+                  <!-- Cost & payments -->
+                  <div
+                    class="tab-pane fade"
+                    id="cost-payments"
+                    role="tabpanel"
+                    aria-labelledby="cost-payments-tab"
+                  >
+                    <div class="it-course-info-content-box">
+                      <h3 class="it-course-info-title mb-25">Cost and payments</h3>
+                      <div class="it-course-info-text">
+                        <div class="it-course-price-box mb-25">
+                          <h4 class="mb-10">
+                            Level 4:
+                            <span class="it-price-amount">£2,900</span>
+                          </h4>
+                          <p class="mb-0">
+                            Enrol with a <strong>£20 deposit</strong> and then
+                            <strong>£120 a month for 24 months</strong>, interest free.
+                          </p>
+                        </div>
+
+                        <div class="it-course-price-box mb-25">
+                          <h4 class="mb-10">
+                            Level 5:
+                            <span class="it-price-amount">£2,900</span>
+                          </h4>
+                          <p class="mb-0">
+                            Enrol with a <strong>£20 deposit</strong> and then
+                            <strong>£120 a month for 24 months</strong>, interest free.
+                          </p>
+                        </div>
+
+                        <div class="it-course-price-box mb-30">
+                          <h4 class="mb-10">
+                            Level 4 & 5:
+                            <span class="it-price-amount">£3,500</span>
+                          </h4>
+                          <p class="mb-0">
+                            Enrol with a <strong>£20 deposit</strong> and then
+                            <strong>£145 a month for 24 months</strong>, interest free.
+                          </p>
+                        </div>
+
+                        <p class="mb-20">
+                          Students can make payment using one of the following
+                          methods:
+                        </p>
+
+                        <div class="it-payment-methods-list">
+                          <ul class="it-course-info-list">
+                            <li>Credit or debit card</li>
+                            <li>Bank transfer</li>
+                            <li>Interest-free monthly instalments</li>
+                            <li>PayPal</li>
+                            <li>Western Union</li>
+                            <li>ELCAS funding</li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <!-- Career progression -->
+                  <div
+                    class="tab-pane fade"
+                    id="career-progression"
+                    role="tabpanel"
+                    aria-labelledby="career-progression-tab"
+                  >
+                    <div class="it-course-info-content-box">
+                      <h3 class="it-course-info-title mb-25">
+                        Career Progression
+                      </h3>
+                      <div class="it-course-info-text">
+                        <p class="mb-25">
+                          A Level 4/5 Diploma in IT and E-commerce from Online Business School opens up a range of career opportunities in the digital and technology sectors. The programme focuses on practical skills and real-world business applications, preparing graduates for roles such as:
+                        </p>
+
+                        <ul class="it-course-info-list mb-25">
+                          <li>E-commerce Specialist</li>
+                          <li>Web Developer</li>
+                          <li>Digital Marketing Executive</li>
+                          <li>Data Analyst</li>
+                          <li>Business Analyst</li>
+                          <li>Online Store Manager</li>
+                        </ul>
+
+                        <p class="mb-30">
+                          Graduates can also progress to a full bachelor's degree through a top-up year at a university, or pursue industry-recognised certifications to further boost their employability. The Level 4/5 qualification provides a solid foundation for building a successful career in the fast-growing IT and e-commerce sectors.
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+
+                  <!-- University progression -->
+                  <div
+                    class="tab-pane fade"
+                    id="university-progression"
+                    role="tabpanel"
+                    aria-labelledby="university-progression-tab"
+                  >
+                    <div class="it-course-info-content-box">
+                      <h3 class="it-course-info-title mb-25">
+                        University progression
+                      </h3>
+                      <div class="it-course-info-text">
+                        <p class="mb-25">
+                          Once you've completed your online Level 4 & 5 IT and E-Commerce course you have the opportunity to complete a third-year top-up degree programme, known as a 'BA top up', from a wide range of UK universities.
+                        </p>
+                        <p class="mb-25">
+                          Students can apply to any university offering the BA top up and you can choose to study for your degree either online or in-person on campus.
+                        </p>
+                        <p class="mb-25">
+                          If you decide to top up to a full undergraduate degree through an accredited UK university, the costs are as follows.
+                        </p>
+
+                        <p class="mb-15"><strong>Middlesex University</strong></p>
+                        <p class="mb-20">
+                          <a
+                            href="https://www.mdx.ac.uk/courses/undergraduate/information-systems-top-up"
+                            class="it-course-info-link"
+                            target="_blank"
+                            >BSc Information Systems (Top-up)</a
+                          >
+                          – £6,000<br>
+                          <a
+                            href="https://www.mdx.ac.uk/courses/undergraduate/information-technology-and-business-information-systems-degree"
+                            class="it-course-info-link"
+                            target="_blank"
+                            >BSc (Hons) Information Technology and Business Information Systems (Top-up)</a
+                          >
+                          – <strong>ON CAMPUS</strong>– £9,250 (UK)/ £14,700 (INT/EU)
+                        </p>
+
+                        <p class="mb-15"><strong>University of Derby</strong></p>
+                        <p class="mb-20">
+                          <a
+                            href="https://www.derby.ac.uk/online/course/online-computing-information-technology-it-bsc-top-up-degree-course"
+                            class="it-course-info-link"
+                            target="_blank"
+                            >BSc (Hons) Computing and Information Technology</a
+                          >
+                          – £5,250
+                        </p>
+
+                        <p class="mb-15"><strong>University of Huddersfield</strong></p>
+                        <p class="mb-25">
+                          <a
+                            href="https://courses.hud.ac.uk/full-time/undergraduate/information-technology-top-up-bsc-hons#_ga=2.215255639.1342961060.1637655153-1481979239.1630401144"
+                            class="it-course-info-link"
+                            target="_blank"
+                            >BSc (Hons) Information Technology (Top-up)</a
+                          >
+                          – <strong>ON CAMPUS</strong>– £9,250
+                        </p>
+
+                        <p class="mb-30">
+                          <strong>NOTE:</strong> UK/EU students may be eligible for student loans for the top-up portion of their studies. Visit <a
+                            href="http://www.slc.co.uk/"
+                            class="it-course-info-link"
+                            target="_blank"
+                          >www.slc.co.uk</a> for more information.
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+
+                  <!-- Subject Content -->
+                  <div
+                    class="tab-pane fade"
+                    id="subject-content"
+                    role="tabpanel"
+                    aria-labelledby="subject-content-tab"
+                  >
+                    <div class="it-course-info-content-box">
+                      <h3 class="it-course-info-title mb-25">
+                        Sample Certificates
+                      </h3>
+                      <div class="it-course-info-text">
+                        <p class="mb-30">
+                          <strong> Level 4 Diploma in Information Technology</strong>
+                        </p>
+                        <p class="mb-30">
+                          Qualification Number: <a href="https://find-a-qualification.services.ofqual.gov.uk/qualifications/603/4781/8">603/4781/8</a> 
+                        </p>
+                        <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+                          <img src="assets/img/course/Qualifi-Level-4-Diploma-in-Information-Technology-Sample-Certificate-1-1-724x1024.png" alt="Sample Certificate" class="img-fluid" style="max-width: 400px; width: 100%; height: auto; flex: 1; min-width: 300px;">
+                          <img src="assets/img/course/Qualifi-Level-4-Diploma-in-Information-Technology-Sample-Certificate-2-724x1024.png" alt="Sample Certificate" class="img-fluid" style="max-width: 400px; width: 100%; height: auto; flex: 1; min-width: 300px;">
+                        </div>
+                      </div>
+                      <div class="it-course-info-text">
+                        <p class="mb-30">
+                          <strong> Level 5 Diploma in Information Technology</strong>
+                        </p>
+                        <p class="mb-30">
+                          Qualification Number: <a href="https://find-a-qualification.services.ofqual.gov.uk/qualifications/610/3477/0">610/3477/0</a> 
+                        </p>
+                        <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+                          <img src="assets/img/course/Qualifi-Level-5-Diploma-in-Information-1-1-724x1024.png" alt="Sample Certificate" class="img-fluid" style="max-width: 400px; width: 100%; height: auto; flex: 1; min-width: 300px;">
+                          <img src="assets/img/course/Qualifi-Level-5-Diploma-in-Information-2-724x1024.png" alt="Sample Certificate" class="img-fluid" style="max-width: 400px; width: 100%; height: auto; flex: 1; min-width: 300px;">
+                        </div>
+                      </div>
+                    </div>
+                  </div>
                 </div>
+              </div>
             </div>
-        </section>
-        <!-- course-info-tabs-area-end -->
+          </div>
+        </div>
+      </section>
+      <!-- course-info-tabs-area-end -->
 
         <!-- why-enrol-area-start -->
         <section class="it-why-enrol-area pt-120 pb-120 position-relative overflow-hidden">
@@ -1596,7 +1683,7 @@
                 <div class="row">
                     <div class="col-xl-12">
                         <div class="it-why-enrol-section-title text-center mb-70">
-                            <h2 class="it-why-enrol-main-title mb-20">Why Choose Our IGCSE IT and E-Commerce ?</h2>
+                            <h2 class="it-why-enrol-main-title mb-20">Why Choose Our IT and E-Commerce ?</h2>
                             <p class="it-why-enrol-subtitle">Join thousands of successful students who have transformed
                                 their understanding of life sciences with our comprehensive and flexible learning
                                 approach.</p>
