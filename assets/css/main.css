@@ -26095,7 +26095,8 @@ input[type=radio] {
     font-size: 15px;
   }
 }
-.it-signup-input input {
+.it-signup-input input,
+.it-signup-input select {
   height: 50px;
   line-height: 50px;
   padding: 0 30px;
@@ -26103,9 +26104,12 @@ input[type=radio] {
   border-radius: 5px;
   background-color: var(--it-gray-1);
   border: 1px solid rgba(9, 31, 46, 0.1);
+  width: 100%;
 }
-.it-signup-input input:focus {
+.it-signup-input input:focus,
+.it-signup-input select:focus {
   border-color: var(--it-theme-1);
+  outline: none;
 }
 .it-signup-input-icon {
   position: absolute;
@@ -31679,4 +31683,174 @@ input[type=radio] {
 
 .itoffcanvas__text{
   display: none;
+}
+
+/*----------------------------------------*/
+/*  Enrollment Form CSS
+/*----------------------------------------*/
+.it-enroll-area {
+  background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+  position: relative;
+}
+
+.it-enroll-form-wrapper {
+  background: #ffffff;
+  padding: 50px;
+  border-radius: 20px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.08);
+  border: 1px solid rgba(3, 89, 78, 0.1);
+}
+
+.it-enroll-form-header {
+  padding-bottom: 30px;
+  border-bottom: 2px solid rgba(3, 89, 78, 0.1);
+}
+
+.it-enroll-form-header p {
+  font-size: 16px;
+  color: #666;
+  margin: 0;
+}
+
+.it-enroll-form-section {
+  padding: 30px 0;
+  border-bottom: 1px solid rgba(3, 89, 78, 0.1);
+}
+
+.it-enroll-form-section:last-of-type {
+  border-bottom: none;
+}
+
+.it-enroll-section-title {
+  font-size: 24px;
+  font-weight: 700;
+  color: var(--it-common-black);
+  font-family: var(--it-ff-heading);
+  margin-bottom: 30px;
+  position: relative;
+  padding-bottom: 15px;
+}
+
+.it-enroll-section-title::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 60px;
+  height: 3px;
+  background: linear-gradient(90deg, var(--it-theme-1) 0%, var(--it-theme-2) 100%);
+  border-radius: 2px;
+}
+
+.it-enroll-select {
+  width: 100%;
+  height: 50px;
+  line-height: 50px;
+  padding: 0 30px;
+  font-size: 16px;
+  border-radius: 5px;
+  background-color: var(--it-gray-1);
+  border: 1px solid rgba(9, 31, 46, 0.1);
+  cursor: pointer;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg width='12' height='8' viewBox='0 0 12 8' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M1 1.5L6 6.5L11 1.5' stroke='%23333' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 20px center;
+  padding-right: 50px;
+  transition: all 0.3s ease;
+  position: relative;
+  z-index: 10;
+}
+
+.it-enroll-select:focus {
+  outline: none;
+  border-color: var(--it-theme-1);
+  box-shadow: 0 0 0 4px rgba(3, 89, 78, 0.1);
+}
+
+.it-enroll-select option {
+  padding: 10px;
+  background-color: #ffffff;
+  color: var(--it-common-black);
+}
+
+.it-signup-input {
+  position: relative;
+  z-index: 1;
+}
+
+.it-enroll-payment-options {
+  margin-top: 20px;
+}
+
+.it-enroll-checkbox {
+  margin-top: 20px;
+}
+
+.it-checkbox-label {
+  display: flex;
+  align-items: flex-start;
+  cursor: pointer;
+  padding: 15px 20px;
+  border: 2px solid #e0e0e0;
+  border-radius: 10px;
+  transition: all 0.3s ease;
+  background: #fff;
+  position: relative;
+}
+
+.it-checkbox-label:hover {
+  border-color: var(--it-theme-1);
+  background: rgba(3, 89, 78, 0.02);
+}
+
+.it-checkbox-label input[type="checkbox"] {
+  margin-right: 12px;
+  margin-top: 4px;
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+
+.it-checkbox-label span {
+  font-size: 15px;
+  color: #333;
+  line-height: 1.6;
+}
+
+.it-enroll-link {
+  color: var(--it-theme-1);
+  text-decoration: underline;
+  transition: color 0.3s ease;
+}
+
+.it-enroll-link:hover {
+  color: var(--it-theme-2);
+}
+
+.text-danger {
+  color: #dc3545;
+}
+
+@media (max-width: 991px) {
+  .it-enroll-form-wrapper {
+    padding: 40px 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .it-enroll-form-wrapper {
+    padding: 30px 20px;
+  }
+
+  .it-enroll-section-title {
+    font-size: 20px;
+  }
+
+  .it-enroll-form-section {
+    padding: 25px 0;
+  }
 }
