@@ -592,8 +592,8 @@ input[type=color] {
     - Spacing
 -----------------------------------------*/
 .it-btn-yellow {
-  font-size: 16px;
-  padding: 15.5px 29px;
+  font-size: 14px;
+  padding: 15.5px 24px;
   line-height: 1.1;
   font-weight: 500;
   text-align: center;
@@ -606,6 +606,7 @@ input[type=color] {
   color: var(--it-common-white);
   font-family: var(--it-ff-jost);
   background-color: var(--it-theme-2);
+  
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
   .it-btn-yellow {
@@ -10999,7 +11000,8 @@ input[type=radio] {
   background-color: var(--it-theme-1);
 }
 .it-header-right-action {
-  margin-left: -50px;
+  margin-left: -63px;
+  gap: 12px;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .it-header-right-action {
@@ -30717,6 +30719,7 @@ input[type=radio] {
   text-align: center;
   position: relative;
   z-index: 1;
+  display: none;
 }
 
 .recog-card-btn {
@@ -31672,4 +31675,8 @@ input[type=radio] {
   .it-course-option-card {
     margin-bottom: 30px;
   }
+}
+
+.itoffcanvas__text{
+  display: none;
 }
