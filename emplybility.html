@@ -157,6 +157,11 @@
             color: #F8C62F;
         }
 
+        .it-course-info-item-7 .it-course-info-icon {
+            background: linear-gradient(135deg, rgba(3, 89, 78, 0.1) 0%, rgba(3, 89, 78, 0.2) 100%);
+            color: #03594E;
+        }
+
         .it-course-info-icon {
             width: 60px;
             height: 60px;
@@ -175,6 +180,19 @@
 
         .it-course-info-content {
             flex: 1;
+            position: relative;
+            z-index: 1;
+        }
+
+        .it-course-info-content a {
+            color: #03594E;
+            text-decoration: underline;
+            transition: color 0.3s ease;
+            cursor: pointer;
+        }
+
+        .it-course-info-content a:hover {
+            color: #F8C62F;
         }
 
         .it-course-info-label {
@@ -924,7 +942,7 @@
 
                                             <div class="it-course-info-content">
                                                 <span class="it-course-info-label">Includes</span>
-                                                <p class="mb-0">1-2-1 tutor support, FREE laptop*, all course materials
+                                                <p class="mb-0">1-2-1 tutor support, all course materials
                                                     and more</p>
                                             </div>
                                             
@@ -966,24 +984,33 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- <div class="col-md-6">
+                                    <div class="col-md-6">
                                         <div
                                             class="it-course-info-item it-course-info-item-7 d-flex align-items-center">
                                             <div class="it-course-info-icon">
                                                 <svg width="28" height="28" viewBox="0 0 24 24" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
-                                                        d="M9 12L11 14L15 10M21 12C21 16.9706 16.9706 21 12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3C16.9706 3 21 7.02944 21 12Z"
+                                                        d="M10 13C10.4295 13.5741 10.9774 14.0491 11.6066 14.3929C12.2357 14.7367 12.9315 14.9411 13.6466 14.9923C14.3618 15.0435 15.0796 14.9403 15.7513 14.6897C16.4231 14.4392 17.0331 14.047 17.54 13.54L20.54 10.54C21.4508 9.59695 21.9548 8.33394 21.9434 7.02296C21.932 5.71198 21.4061 4.45791 20.4791 3.53087C19.5521 2.60383 18.298 2.07799 16.987 2.0666C15.676 2.0552 14.413 2.55918 13.47 3.46997L11.75 5.17997"
+                                                        stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                                        stroke-linejoin="round" />
+                                                    <path
+                                                        d="M14 11C13.5705 10.4259 13.0226 9.95087 12.3934 9.60707C11.7643 9.26327 11.0685 9.05886 10.3534 9.00766C9.63824 8.95645 8.92037 9.05972 8.24863 9.31026C7.57689 9.5608 6.96688 9.95302 6.46 10.46L3.46 13.46C2.54921 14.403 2.04523 15.6661 2.05662 16.977C2.06802 18.288 2.59387 19.5421 3.52091 20.4691C4.44795 21.3962 5.70202 21.922 7.013 21.9334C8.32398 21.9448 9.58699 21.4408 10.53 20.53L12.24 18.82"
                                                         stroke="currentColor" stroke-width="2" stroke-linecap="round"
                                                         stroke-linejoin="round" />
                                                 </svg>
                                             </div>
                                             <div class="it-course-info-content">
                                                 <span class="it-course-info-label">Ofqual Link</span>
-                                                <p class="mb-0">Level 3 Foundation Diploma in Employability and Workplace Skills – 603/7031/2</p>
+                                                <p class="mb-0">
+                                                    Level 3 Foundation Diploma in Employability and Workplace Skills –<a
+                                                        href="https://find-a-qualification.services.ofqual.gov.uk/qualifications/60370312"
+                                                        target="_blank"
+                                                    >603/7031/2</a>
+                                                </p>
                                             </div>
                                         </div>
-                                    </div> -->
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -1069,17 +1096,35 @@
                                     and workplace skills?</h4>
                             </div>
                             <div class="it-course-intro-text">
-                                <p class="mb-25 fs-5">This course is equivalent to 24 UCAS Tariff Points, making it an
-                                    excellent pathway for university entry. Employability skills are the essential skills,
-                                    personal qualities and values that enable you to thrive in any workplace. Our Level 3
-                                    foundation diploma in Employability and Workplace Skills has been developed to provide
-                                    learners with a range of knowledge, understanding, personal skills and attributes essential
-                                    for successful performance in working life.</p>
-                                <p class="mb-30">This course has been designed to support you in successfully gaining a job,
-                                    progressing in a chosen field, or preparing you for further study. Through structured
-                                    learning and practical application, students will develop the essential employability
-                                    skills that are crucial for workplace success, preparing them for a successful career in
-                                    various professional settings.</p>
+                                <p class="mb-25 fs-5">This course is equivalent to 24 UCAS Tariff Points.</p>
+                                <p class="mb-25">Employability skills are the essential skills, personal qualities and
+                                    values that enable you to thrive in any workplace. Our level 3 foundation diploma in
+                                    Employability and Workplace skills has been developed to provide learners with a range
+                                    of knowledge, understanding, personal skills and attributes essential for successful
+                                    performance in working life.
+                                </p>
+                                <p class="mb-25">This course has been designed to support you in successfully gaining a
+                                    job, progressing in a chosen field, or preparing you for further study.
+                                </p>
+                                <p class="mb-20">The learners will:</p>
+                                <ul class="it-course-info-list mb-25">
+                                    <li>Develop a body of knowledge about workplace employment and employability in a
+                                        range of sectors.
+                                    </li>
+                                    <li>Develop a range of knowledge, facts, theories, ideas, skills, materials,
+                                        terminology, practices and techniques associated with workplace skills, employment
+                                        and employability.
+                                    </li>
+                                    <li>Develop self-confidence and interpersonal skills required for the working
+                                        environment and employment.
+                                    </li>
+                                    <li>Be able to improve communication skills and promote personal effectiveness.
+                                    </li>
+                                </ul>
+                                <p class="mb-25">Successful completion of this qualification will equip learners with the
+                                    underpinning knowledge and skills required to succeed in employment or further studies.
+                                </p>
+                                <p class="mb-30">This course is eligible for ELCAS funding.</p>
                             </div>
                         </div>
                     </div>
@@ -1088,451 +1133,464 @@
         </section>
         <!-- course-intro-area-end -->
 
-        <!-- course-info-tabs-area-start -->
-        <section class="it-course-info-tabs-area pt-100 pb-100 position-relative">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-12">
-                        <div class="it-course-info-tabs-wrapper">
-                            <!-- Tab Navigation -->
-                            <ul class="nav nav-tabs it-course-info-nav-tabs" id="courseInfoTabs" role="tablist">
-                                <li class="nav-item" role="presentation">
-                                    <button class="nav-link active" id="how-it-works-tab" data-bs-toggle="tab"
-                                        data-bs-target="#how-it-works" type="button" role="tab"
-                                        aria-controls="how-it-works" aria-selected="true">
-                                        How it works
-                                    </button>
-                                </li>
-                                <li class="nav-item" role="presentation">
-                                    <button class="nav-link" id="sitting-exam-tab" data-bs-toggle="tab"
-                                        data-bs-target="#sitting-exam" type="button" role="tab"
-                                        aria-controls="sitting-exam" aria-selected="false">
-                                        Sitting The Exam
-                                    </button>
-                                </li>
-                                <li class="nav-item" role="presentation">
-                                    <button class="nav-link" id="entry-requirements-tab" data-bs-toggle="tab"
-                                        data-bs-target="#entry-requirements" type="button" role="tab"
-                                        aria-controls="entry-requirements" aria-selected="false">
-                                        Entry requirements
-                                    </button>
-                                </li>
-                                <li class="nav-item" role="presentation">
-                                    <button class="nav-link" id="cost-payments-tab" data-bs-toggle="tab"
-                                        data-bs-target="#cost-payments" type="button" role="tab"
-                                        aria-controls="cost-payments" aria-selected="false">
-                                        Cost & payments
-                                    </button>
-                                </li>
-                                <li class="nav-item" role="presentation">
-                                    <button class="nav-link" id="career-progression-tab" data-bs-toggle="tab"
-                                        data-bs-target="#career-progression" type="button" role="tab"
-                                        aria-controls="career-progression" aria-selected="false">
-                                        Career progression
-                                    </button>
-                                </li>
-                                <li class="nav-item" role="presentation">
-                                    <button class="nav-link" id="subject-content-tab" data-bs-toggle="tab"
-                                        data-bs-target="#subject-content" type="button" role="tab"
-                                        aria-controls="subject-content" aria-selected="false">
-                                        Subject Content
-                                    </button>
-                                </li>
-                            </ul>
+      <!-- course-info-tabs-area-start -->
+      <section class="it-course-info-tabs-area pt-100 pb-100 position-relative">
+        <div class="container">
+          <div class="row">
+            <div class="col-xl-12">
+              <div class="it-course-info-tabs-wrapper">
+                <!-- Tab Navigation -->
+                <ul
+                  class="nav nav-tabs it-course-info-nav-tabs"
+                  id="courseInfoTabs"
+                  role="tablist"
+                >
+                  <li class="nav-item" role="presentation">
+                    <button
+                      class="nav-link active"
+                      id="how-it-works-tab"
+                      data-bs-toggle="tab"
+                      data-bs-target="#how-it-works"
+                      type="button"
+                      role="tab"
+                      aria-controls="how-it-works"
+                      aria-selected="true"
+                    >
+                      How it works
+                    </button>
+                  </li>
+                  <li class="nav-item" role="presentation">
+                    <button
+                      class="nav-link"
+                      id="sitting-exam-tab"
+                      data-bs-toggle="tab"
+                      data-bs-target="#sitting-exam"
+                      type="button"
+                      role="tab"
+                      aria-controls="sitting-exam"
+                      aria-selected="false"
+                    >
+                      Course Modules
+                    </button>
+                  </li>
+                  <li class="nav-item" role="presentation">
+                    <button
+                      class="nav-link"
+                      id="entry-requirements-tab"
+                      data-bs-toggle="tab"
+                      data-bs-target="#entry-requirements"
+                      type="button"
+                      role="tab"
+                      aria-controls="entry-requirements"
+                      aria-selected="false"
+                    >
+                      Entry requirements
+                    </button>
+                  </li>
+                  <li class="nav-item" role="presentation">
+                    <button
+                      class="nav-link"
+                      id="cost-payments-tab"
+                      data-bs-toggle="tab"
+                      data-bs-target="#cost-payments"
+                      type="button"
+                      role="tab"
+                      aria-controls="cost-payments"
+                      aria-selected="false"
+                    >
+                      Cost & payments
+                    </button>
+                  </li>
+                  <li class="nav-item" role="presentation">
+                    <button
+                      class="nav-link"
+                      id="career-progression-tab"
+                      data-bs-toggle="tab"
+                      data-bs-target="#career-progression"
+                      type="button"
+                      role="tab"
+                      aria-controls="career-progression"
+                      aria-selected="false"
+                    >
+                      Career progression
+                    </button>
+                  </li>
+                  <li class="nav-item" role="presentation">
+                    <button
+                      class="nav-link"
+                      id="university-progression-tab"
+                      data-bs-toggle="tab"
+                      data-bs-target="#university-progression"
+                      type="button"
+                      role="tab"
+                      aria-controls="university-progression"
+                      aria-selected="false"
+                    >
+                      University options
+                    </button>
+                  </li>
+                  <li class="nav-item" role="presentation">
+                    <button
+                      class="nav-link"
+                      id="subject-content-tab"
+                      data-bs-toggle="tab"
+                      data-bs-target="#subject-content"
+                      type="button"
+                      role="tab"
+                      aria-controls="subject-content"
+                      aria-selected="false"
+                    >
+                      Sample Certificates
+                    </button>
+                  </li>
+                </ul>
 
-                            <!-- Tab Content -->
-                            <div class="tab-content it-course-info-tab-content" id="courseInfoTabsContent">
-                                <!-- How it works -->
-                                <div class="tab-pane fade show active" id="how-it-works" role="tabpanel"
-                                    aria-labelledby="how-it-works-tab">
-                                    <div class="it-course-info-content-box">
-                                        <h3 class="it-course-info-title mb-25">How it works</h3>
-                                        <div class="it-course-info-text">
-                                            <p class="mb-20">Students on our Employability and Workplace Skills course can complete a Level 3 (60 credits) OTHM diploma, designed to provide students with the skills needed to succeed in the career industry. This comprehensive program offers complete flexibility, enabling you to start your studies at any time and learn entirely online.</p>
+                <!-- Tab Content -->
+                <div
+                  class="tab-content it-course-info-tab-content"
+                  id="courseInfoTabsContent"
+                >
+                  <!-- How it works -->
+                  <div
+                    class="tab-pane fade show active"
+                    id="how-it-works"
+                    role="tabpanel"
+                    aria-labelledby="how-it-works-tab"
+                  >
+                    <div class="it-course-info-content-box">
+                      <h3 class="it-course-info-title mb-25">How it works</h3>
+                      <div class="it-course-info-text">
+                        <p class="mb-20">
+                          Students on our Employability and Workplace Skills course
+                          can complete a Level 3 (60 credits) OTHM diploma, designed
+                          to provide students with the skills needed to succeed in
+                          the career industry.
+                        </p>
 
-                                            <p class="mb-20">The course is completed online and you can start at any time, it's completely flexible. Each module consists of <strong>40 hours of guided online learning</strong>, with an additional <strong>30-50 hours</strong> worth of optional materials that include recommended exercises, suggested readings, interactive digital resources, and self-test tasks to strengthen your understanding of essential employability and workplace skills principles.</p>
+                        <p class="mb-20">
+                          The course is completed online and you can start at any
+                          time, it's completely flexible. Each module consists of
+                          <strong>40 hours of guided online learning</strong>, with
+                          an additional <strong>30-50 hours</strong> worth of
+                          optional materials that include recommended exercises,
+                          readings, digital resources and self-test tasks.
+                        </p>
 
-                                            <p class="mb-20">To complete the course you'll submit <strong>6 online assignments</strong> at each level, and assignments are approximately <strong>2,000-3,000 words</strong> each. Once you've passed your course, you'll be awarded with an OTHM diploma and you'll be able to top up your qualification to a bachelor's degree at a range of UK universities.</p>
+                        <p class="mb-20">
+                          To complete the course you'll submit
+                          <strong>6 online assignments</strong> at each level, and
+                          assignments are approximately <strong>2,000-3,000 words</strong>
+                          each. Once you've passed your course, you'll be awarded
+                          with an OTHM diploma and you'll be able to top up your
+                          qualification to a bachelor's degree at a range of UK
+                          universities.
+                        </p>
 
-                                            <p class="mb-20">During this Employability and Workplace Skills course you'll have access to dedicated <strong>1-2-1 tutor support</strong> and all necessary course materials. You'll benefit from webinars, social learning forums, and additional materials designed to complete your diploma with ease. You can find out more about the support you'll have available on our <a href="#" class="it-course-info-link">Student Resources page</a>.</p>
+                        <p class="mb-30">
+                          During this Employability and Workplace Skills course
+                          you'll have access to <strong>1-2-1 tutor support</strong>
+                          and webinars, social learning forums and additional
+                          materials to complete your diploma with ease. You can find
+                          out more about the support you'll have available on our
+                          Student Resources page. You can also read about the
+                          academic credentials we meet and associations we're part of
+                          to make sure you have the best learning experience.
+                        </p>
 
-                                            <p class="mb-30">You can also read about the academic credentials we meet and associations we're part of to make sure you have the best learning experience. Throughout your learning journey, you'll have access to various support resources designed to enhance your studies and prepare you for a successful career in employability and workplace skills.</p>
-
-                                            <a href="#" class="it-course-info-cta-link">
-                                                <svg width="16" height="16" viewBox="0 0 16 16" fill="none"
-                                                    xmlns="http://www.w3.org/2000/svg">
-                                                    <path d="M6 12L10 8L6 4" stroke="currentColor" stroke-width="2"
-                                                        stroke-linecap="round" stroke-linejoin="round" />
-                                                </svg>
-                                                Click Here to view a Sample Certificate
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <!-- Sitting The Exam -->
-                                <div class="tab-pane fade" id="sitting-exam" role="tabpanel"
-                                    aria-labelledby="sitting-exam-tab">
-                                    <div class="it-course-info-content-box">
-                                        <h3 class="it-course-info-title mb-25">Sitting The Exam</h3>
-                                        <div class="it-course-info-text">
-                                            <p class="mb-20">To sit an IGCSE Biology examination, begin by finding an
-                                                approved exam centre in your country that accepts private candidates.
-                                                Once you've identified a suitable centre, complete the registration
-                                                process and pay any required examination fees.</p>
-
-                                            <p class="mb-20">Prior to your exams, carefully review your statement of
-                                                entry to ensure all details are correct. Remember to bring valid
-                                                identification to each examination session. Maintain regular
-                                                communication with your exam centre or provider regarding any
-                                                exam-related questions, including arrangements for special access
-                                                requirements.</p>
-
-                                            <p class="mb-20">After completing your examinations, inform the centre or
-                                                exam provider if you require any special consideration. Collect your
-                                                results and certificates from them when available. If needed, you can
-                                                request reviews of marking or appeals through your exam centre or
-                                                provider.</p>
-
-                                            <div class="it-course-info-highlight-box mt-30 mb-30">
-                                                <h5 class="mb-15">Online Business School Support</h5>
-                                                <p class="mb-15">We are committed to supporting you throughout the
-                                                    entire IGCSE exam process. Our team will assist you in locating an
-                                                    approved exam centre, help with registration procedures, and ensure
-                                                    you meet all requirements and deadlines.</p>
-                                                <p class="mb-15">We provide guidance on exam preparation strategies,
-                                                    verify your statement of entry accuracy, and clarify identification
-                                                    and access arrangement requirements.</p>
-                                                <p class="mb-0">Following your exams, we'll guide you through requesting
-                                                    special considerations, collecting results and certificates, and
-                                                    navigating the process for reviews of marking or appeals. Our
-                                                    comprehensive support ensures you have the necessary resources and
-                                                    assistance at every stage of your examination journey.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <!-- Entry requirements -->
-                                <div class="tab-pane fade" id="entry-requirements" role="tabpanel"
-                                    aria-labelledby="entry-requirements-tab">
-                                    <div class="it-course-info-content-box">
-                                        <h3 class="it-course-info-title mb-25">Am I eligible for this programme?</h3>
-                                        <div class="it-course-info-text">
-                                            <p class="mb-20">The IGCSE Biology course is typically completed by students
-                                                aged 14 to 16, however, anyone aged 14 or above is welcome to enrol.
-                                                This course is designed to be accessible to learners from diverse
-                                                educational backgrounds.</p>
-
-                                            <p class="mb-20">No prior qualifications are required to begin this course.
-                                                Whether you're looking to enhance your scientific knowledge, prepare for
-                                                further studies, or pursue a career in biology or related fields, this
-                                                program provides a solid foundation without requiring previous academic
-                                                achievements in the subject.</p>
-
-                                            <p class="mb-20">The course structure accommodates learners at various
-                                                levels, with comprehensive materials and support systems in place to
-                                                help you succeed regardless of your previous experience with biology.
-                                            </p>
-
-                                            <div class="it-course-info-feature-list mt-30">
-                                                <h5 class="mb-20">Course Accessibility Features:</h5>
-                                                <ul class="it-course-info-list">
-                                                    <li>No prerequisite qualifications needed</li>
-                                                    <li>Open to students aged 14 and above</li>
-                                                    <li>Flexible online learning format</li>
-                                                    <li>Comprehensive support materials included</li>
-                                                    <li>1-2-1 tutor guidance available</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <!-- Cost & payments -->
-                                <div class="tab-pane fade" id="cost-payments" role="tabpanel"
-                                    aria-labelledby="cost-payments-tab">
-                                    <div class="it-course-info-content-box">
-                                        <h3 class="it-course-info-title mb-25">Cost and payments</h3>
-                                        <div class="it-course-info-text">
-                                            <div class="it-course-price-box mb-30">
-                                                <h4 class="mb-10">IGCSE Biology: <span
-                                                        class="it-price-amount">£399</span></h4>
-                                                <p class="mb-0">Enrol with a <strong>£50 deposit</strong> and then
-                                                    <strong>£14.55 a month for 24 months</strong>, interest-free.
-                                                </p>
-                                            </div>
-
-                                            <p class="mb-20">We offer flexible payment options to make your education
-                                                accessible. Students can make payments using one of the following
-                                                convenient methods:</p>
-
-                                            <div class="it-payment-methods-list">
-                                                <ul class="it-course-info-list">
-                                                    <li>Credit or debit card</li>
-                                                    <li>Bank transfer</li>
-                                                    <li>Interest-free monthly instalments</li>
-                                                    <li>PayPal</li>
-                                                    <li>Western Union</li>
-                                                </ul>
-                                            </div>
-
-                                            <p class="mb-20 mt-30">Our flexible payment plans are designed to
-                                                accommodate different financial situations, allowing you to spread the
-                                                cost of your course over time without additional interest charges.</p>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <!-- Career progression -->
-                                <div class="tab-pane fade" id="career-progression" role="tabpanel"
-                                    aria-labelledby="career-progression-tab">
-                                    <div class="it-course-info-content-box">
-                                        <h3 class="it-course-info-title mb-25">Career Progression</h3>
-                                        <div class="it-course-info-text">
-                                            <p class="mb-20">Upon successful completion of the IGCSE Biology course,
-                                                you'll have acquired the essential foundations and fundamental knowledge
-                                                required to progress to A Levels or pursue a Level 3 qualification with
-                                                Online Business School.</p>
-
-                                            <p class="mb-20">This qualification serves as a stepping stone for various
-                                                educational and career pathways in the sciences. The knowledge and
-                                                skills you develop will prepare you for advanced studies in biology,
-                                                chemistry, medicine, environmental science, and other related
-                                                disciplines.</p>
-
-                                            <div class="it-career-pathways-box mt-30 mb-30">
-                                                <h5 class="mb-20">Potential Career Pathways:</h5>
-                                                <div class="row g-4">
-                                                    <div class="col-md-6">
-                                                        <div class="it-career-path-item">
-                                                            <h6 class="mb-10">Further Education</h6>
-                                                            <p class="mb-0">Progress to A Levels in Biology, Chemistry,
-                                                                or related sciences</p>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-6">
-                                                        <div class="it-career-path-item">
-                                                            <h6 class="mb-10">Higher Education</h6>
-                                                            <p class="mb-0">Foundation for university degrees in life
-                                                                sciences, medicine, or research</p>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-6">
-                                                        <div class="it-career-path-item">
-                                                            <h6 class="mb-10">Professional Careers</h6>
-                                                            <p class="mb-0">Pathway to careers in healthcare, research,
-                                                                environmental science, and biotechnology</p>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-6">
-                                                        <div class="it-career-path-item">
-                                                            <h6 class="mb-10">Level 3 Qualifications</h6>
-                                                            <p class="mb-0">Continue with advanced qualifications at
-                                                                Online Business School</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <!-- Subject Content -->
-                                <div class="tab-pane fade" id="subject-content" role="tabpanel"
-                                    aria-labelledby="subject-content-tab">
-                                    <div class="it-course-info-content-box">
-                                        <h3 class="it-course-info-title mb-25">Subject Content</h3>
-                                        <div class="it-course-info-text">
-                                            <div class="it-subject-content-list">
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">1. Characteristics and Classification of Living
-                                                        Organisms</h5>
-                                                    <p class="mb-0">This foundational section explores the fundamental
-                                                        characteristics that define living organisms and introduces the
-                                                        principles of biological classification. You'll learn about the
-                                                        diversity of life, classification systems, and how organisms are
-                                                        organized into groups based on shared characteristics and
-                                                        evolutionary relationships.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">2. Organisation of the Organism</h5>
-                                                    <p class="mb-0">Focus on cellular structure and function, examining
-                                                        how cells are organized into tissues, organs, and organ systems.
-                                                        This section covers cell biology, including cell structure,
-                                                        organelles, and their functions, providing essential knowledge
-                                                        for understanding how living organisms function at the cellular
-                                                        level.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">3. Movement In and Out of Cells</h5>
-                                                    <p class="mb-0">Explore the mechanisms of transport across cell
-                                                        membranes, including diffusion, osmosis, and active transport.
-                                                        This section covers how substances move into and out of cells,
-                                                        maintaining cellular homeostasis and supporting vital biological
-                                                        processes.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">4. Biological Molecules</h5>
-                                                    <p class="mb-0">Study the chemical basis of life, examining
-                                                        carbohydrates, proteins, lipids, and nucleic acids. Learn about
-                                                        their structure, function, and importance in biological systems,
-                                                        providing the foundation for understanding metabolism and
-                                                        cellular processes.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">5. Enzymes</h5>
-                                                    <p class="mb-0">Investigate the role of enzymes as biological
-                                                        catalysts, exploring enzyme structure, function, and factors
-                                                        affecting enzyme activity. This section covers how enzymes
-                                                        control metabolic reactions and maintain cellular processes
-                                                        essential for life.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">6. Plant Nutrition</h5>
-                                                    <p class="mb-0">Examine how plants obtain and utilize nutrients,
-                                                        covering photosynthesis, mineral nutrition, and plant growth
-                                                        requirements. Learn about the importance of plants in ecosystems
-                                                        and their role in supporting life on Earth.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">7. Human Nutrition</h5>
-                                                    <p class="mb-0">Study the human digestive system, nutritional
-                                                        requirements, and the role of different nutrients in maintaining
-                                                        health. This section covers digestion, absorption, and the
-                                                        importance of a balanced diet for human health and development.
-                                                    </p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">8. Transport in Plants</h5>
-                                                    <p class="mb-0">Explore how water, minerals, and organic compounds
-                                                        are transported throughout plants. Learn about xylem and phloem,
-                                                        transpiration, and the mechanisms that enable plants to
-                                                        distribute essential substances from roots to leaves and other
-                                                        parts.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">9. Transport in Animals</h5>
-                                                    <p class="mb-0">Investigate the circulatory system in animals,
-                                                        focusing on the human cardiovascular system. This section covers
-                                                        the heart, blood vessels, blood composition, and how oxygen,
-                                                        nutrients, and waste products are transported throughout the
-                                                        body.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">10. Diseases and Immunity</h5>
-                                                    <p class="mb-0">Examine the causes of disease, the body's defense
-                                                        mechanisms, and the immune system. Learn about pathogens, how
-                                                        diseases spread, and how the immune system protects against
-                                                        infection, including both specific and non-specific immune
-                                                        responses.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">11. Gas Exchange in Humans</h5>
-                                                    <p class="mb-0">Study the respiratory system, focusing on how humans
-                                                        obtain oxygen and remove carbon dioxide. This section covers
-                                                        lung structure, breathing mechanisms, and the process of gas
-                                                        exchange essential for cellular respiration.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">12. Respiration</h5>
-                                                    <p class="mb-0">Explore cellular respiration, the process by which
-                                                        cells release energy from food molecules. Learn about aerobic
-                                                        and anaerobic respiration, ATP production, and how organisms
-                                                        obtain the energy needed for life processes.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">13. Excretion in Humans</h5>
-                                                    <p class="mb-0">Examine how the human body removes waste products,
-                                                        focusing on the urinary system. This section covers kidney
-                                                        structure and function, urine formation, and the importance of
-                                                        excretion in maintaining homeostasis.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">14. Coordination and Response</h5>
-                                                    <p class="mb-0">Investigate how organisms detect and respond to
-                                                        changes in their environment. This section covers the nervous
-                                                        system, endocrine system, and how coordination enables organisms
-                                                        to maintain internal balance and respond to external stimuli.
-                                                    </p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">15. Drugs</h5>
-                                                    <p class="mb-0">Study the effects of drugs on the human body,
-                                                        including medicinal drugs and substances of abuse. Learn about
-                                                        how drugs affect the nervous system, the importance of
-                                                        responsible drug use, and the impact of drug abuse on health and
-                                                        society.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">16. Reproduction</h5>
-                                                    <p class="mb-0">Examine reproductive systems in plants and animals,
-                                                        covering both sexual and asexual reproduction. This section
-                                                        explores the processes of reproduction, development, and the
-                                                        continuation of species.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">17. Inheritance</h5>
-                                                    <p class="mb-0">Study the principles of genetics, including how
-                                                        characteristics are inherited from parents to offspring. Learn
-                                                        about genes, chromosomes, DNA, genetic variation, and the
-                                                        mechanisms of inheritance that determine traits in living
-                                                        organisms.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">18. Variation and Selection</h5>
-                                                    <p class="mb-0">Explore genetic variation, natural selection, and
-                                                        evolution. This section covers how variation arises, how
-                                                        selection acts on variation, and the processes that drive
-                                                        evolutionary change in populations over time.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">19. Organisms and Their Environment</h5>
-                                                    <p class="mb-0">Investigate how organisms interact with their
-                                                        environment and with each other. Learn about ecosystems, food
-                                                        chains, food webs, energy flow, and the relationships between
-                                                        organisms and their habitats.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-0">
-                                                    <h5 class="mb-15">20. Biotechnology and Genetic Engineering</h5>
-                                                    <p class="mb-0">Examine modern applications of biology, including
-                                                        genetic engineering, biotechnology, and their applications in
-                                                        medicine, agriculture, and industry. This section covers the
-                                                        techniques, benefits, and ethical considerations of
-                                                        biotechnological applications.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-
-                        </div>
+                        <!-- <a href="assets/img/course/OTHM-Level-3-Foundation-Diploma-Sample-Certificate.pdf" class="it-course-info-cta-link" target="_blank">
+                          <svg
+                            width="16"
+                            height="16"
+                            viewBox="0 0 16 16"
+                            fill="none"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <path
+                              d="M6 12L10 8L6 4"
+                              stroke="currentColor"
+                              stroke-width="2"
+                              stroke-linecap="round"
+                              stroke-linejoin="round"
+                            />
+                          </svg>
+                          Click Here to view a Sample Certificate
+                        </a> -->
+                      </div>
                     </div>
+                  </div>
+
+                  <!-- Course Modules -->
+                  <div
+                    class="tab-pane fade"
+                    id="sitting-exam"
+                    role="tabpanel"
+                    aria-labelledby="sitting-exam-tab"
+                  >
+                    <div class="it-course-info-content-box">
+                      <h3 class="it-course-info-title mb-25">
+                        Course Modules
+                      </h3>
+                      <div class="it-course-info-text">
+                        <p class="mb-25">
+                          The Level 3 foundation diploma in Employability and
+                          Workplace Skills has 6 modules:
+                        </p>
+
+                        <ul class="it-course-info-list mb-25">
+                          <li>Career planning and development</li>
+                          <li>Managing own performance</li>
+                          <li>Personal and professional development</li>
+                          <li>Employment skills</li>
+                          <li>Working in a business environment</li>
+                          <li>Managing resources</li>
+                        </ul>
+
+                        <p class="mb-25">
+                          Each module consists of 40 guided learning hours of
+                          material with an additional 30-50 hour's worth of optional
+                          materials that comprise of recommended exercises,
+                          recommended readings, Internet resources, and self-testing
+                          exercises.
+                        </p>
+
+                        <p class="mb-25">
+                          The Level 3 foundation diploma in Employability and
+                          Workplace skills has 6 written assignments. The assignments
+                          are approximately 2,000-3,000 words each. Students are
+                          provided support on the modules and assignments via the
+                          'Tutor' section of the learning platform.
+                        </p>
+
+                        <p class="mb-25">
+                          The Assignment Unit titles that students need to complete
+                          for the level 3 course are:
+                        </p>
+
+                        <ul class="it-course-info-list mb-25">
+                          <li>Career planning and development</li>
+                          <li>Managing own performance</li>
+                          <li>Personal and professional development</li>
+                          <li>Employment skills</li>
+                          <li>Working in a business environment</li>
+                          <li>Managing resources</li>
+                        </ul>
+
+                        <p class="mb-30">
+                          More information about the level 3 units can be found
+                          here:
+                          <a
+                            href="https://www.othm.org.uk/doc/specification-jan21/OTHM_L3_Foundation_Diploma_in_Employability_and_Workplace_Skills_spec_2021_01.pdf"
+                            class="it-course-info-link"
+                            target="_blank"
+                            >OTHM_L3_Foundation_Diploma_in_Employability_and_Workplace_Skills_spec_2021_01.pdf</a
+                          >
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+
+                  <!-- Entry requirements -->
+                  <div
+                    class="tab-pane fade"
+                    id="entry-requirements"
+                    role="tabpanel"
+                    aria-labelledby="entry-requirements-tab"
+                  >
+                    <div class="it-course-info-content-box">
+                      <h3 class="it-course-info-title mb-25">
+                        Am I eligible for this programme?
+                      </h3>
+                      <div class="it-course-info-text">
+                        <p class="mb-20">
+                          To enrol in our Level 3 course, you must be at least 16
+                          years old and have a full secondary education.
+                        </p>
+
+                        <p class="mb-30">
+                          If you don't have a full secondary education or the
+                          equivalent, you may also be able to enrol based on your
+                          work experience. To find out more, talk to one of our
+                          helpful team members at:
+                          <a href="tel:03337721158" class="it-course-info-link"
+                            >0333 772 1158</a
+                          >
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+
+                  <!-- Cost & payments -->
+                  <div
+                    class="tab-pane fade"
+                    id="cost-payments"
+                    role="tabpanel"
+                    aria-labelledby="cost-payments-tab"
+                  >
+                    <div class="it-course-info-content-box">
+                      <h3 class="it-course-info-title mb-25">
+                        Cost and payments
+                      </h3>
+                      <div class="it-course-info-text">
+                        <div class="it-course-price-box mb-30">
+                          <h4 class="mb-10">
+                            Foundation Diploma in Business Management (120
+                            credits):
+                            <span class="it-price-amount">£2,600</span>
+                          </h4>
+                          <p class="mb-0">
+                            Enrol with a <strong>£20 deposit</strong> and then
+                            <strong>£103.33 a month for 24 months</strong>, 0%
+                            interest-free.
+                          </p>
+                        </div>
+
+                        <p class="mb-20">
+                          Students can make payment using one of the following
+                          methods:
+                        </p>
+
+                        <div class="it-payment-methods-list">
+                          <ul class="it-course-info-list">
+                            <li>Credit or debit card</li>
+                            <li>Bank transfer</li>
+                            <li>Interest-free monthly instalments</li>
+                            <li>PayPal</li>
+                            <li>Western Union</li>
+                            <li>ELCAS funding</li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <!-- Career progression -->
+                  <div
+                    class="tab-pane fade"
+                    id="career-progression"
+                    role="tabpanel"
+                    aria-labelledby="career-progression-tab"
+                  >
+                    <div class="it-course-info-content-box">
+                      <h3 class="it-course-info-title mb-25">
+                        Career Progression
+                      </h3>
+                      <div class="it-course-info-text">
+                        <p class="mb-25">
+                          Studying Employability and Workplace skills can lead to
+                          careers such as a Human Resources Specialist or Career
+                          Coach, where you assist with recruitment and career
+                          development. You might become an Office Manager, overseeing
+                          administrative functions, or a Training and Development
+                          Coordinator, designing employee training programs.
+                        </p>
+
+                        <p class="mb-30">
+                          Roles like Project Manager and Customer Service Manager are
+                          also viable, focusing on project execution and customer
+                          relations, respectively. Additionally, you could work as a
+                          Corporate Trainer, Recruitment Consultant, or Business
+                          Development Officer, enhancing workforce skills and company
+                          growth.
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+
+                  <!-- University progression -->
+                  <div
+                    class="tab-pane fade"
+                    id="university-progression"
+                    role="tabpanel"
+                    aria-labelledby="university-progression-tab"
+                  >
+                    <div class="it-course-info-content-box">
+                      <h3 class="it-course-info-title mb-25">
+                        University progression
+                      </h3>
+                      <div class="it-course-info-text">
+                        <p class="mb-25">
+                          Upon completing this course, students can progress to a
+                          full BA or BSc degree programme at a variety of UK
+                          universities, online or on campus.
+                        </p>
+
+                        <p class="mb-20">Some examples include:</p>
+
+                        <ul class="it-course-info-list mb-30">
+                          <li>
+                            <a
+                              href="https://www.coventry.ac.uk/"
+                              class="it-course-info-link"
+                              target="_blank"
+                              >Coventry University</a
+                            >
+                          </li>
+                          <li>
+                            <a
+                              href="https://www.aru.ac.uk/"
+                              class="it-course-info-link"
+                              target="_blank"
+                              >Anglia Ruskin University</a
+                            >
+                          </li>
+                          <li>
+                            <a
+                              href="https://www.londonmet.ac.uk/"
+                              class="it-course-info-link"
+                              target="_blank"
+                              >London Metropolitan University</a
+                            >
+                          </li>
+                          <li>
+                            <a
+                              href="https://www.derby.ac.uk/"
+                              class="it-course-info-link"
+                              target="_blank"
+                              >University of Derby</a
+                            >
+                          </li>
+                          <li>
+                            <a
+                              href="https://www.mdx.ac.uk/"
+                              class="it-course-info-link"
+                              target="_blank"
+                              >Middlesex University</a
+                            >
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+
+                  <!-- Subject Content -->
+                  <div
+                    class="tab-pane fade"
+                    id="subject-content"
+                    role="tabpanel"
+                    aria-labelledby="subject-content-tab"
+                  >
+                    <div class="it-course-info-content-box">
+                      <h3 class="it-course-info-title mb-25">
+                        Sample Certificates
+                      </h3>
+                      <div class="it-course-info-text">
+                        <p class="mb-30">
+                          <strong>OOTHM Level 3 Business Management</strong>
+                        </p>
+                        <p class="mb-30">
+                          Qualification Number: <a href="https://find-a-qualification.services.ofqual.gov.uk/qualifications/60338118">603/3811/8</a> 
+                        </p>
+                        <img src="assets/img/course/certificate-accountancy.jpg" alt="Sample Certificate" class="img-fluid" style="max-width: 800px; width: 100%; height: auto; display: block; margin: 0 auto;">
+                      </div>
+                    </div>
+                  </div>
                 </div>
+              </div>
             </div>
-        </section>
-        <!-- course-info-tabs-area-end -->
+          </div>
+        </div>
+      </section>
+      <!-- course-info-tabs-area-end -->
 
         <!-- why-enrol-area-start -->
         <section class="it-why-enrol-area pt-120 pb-120 position-relative overflow-hidden">
@@ -1542,7 +1600,7 @@
                 <div class="row">
                     <div class="col-xl-12">
                         <div class="it-why-enrol-section-title text-center mb-70">
-                            <h2 class="it-why-enrol-main-title mb-20">Why Choose Our IGCSE Employability and Workplace Skills ?</h2>
+                            <h2 class="it-why-enrol-main-title mb-20">Why Choose Our Employability and Workplace Skills ?</h2>
                             <p class="it-why-enrol-subtitle">Join thousands of successful students who have transformed
                                 their understanding of life sciences with our comprehensive and flexible learning
                                 approach.</p>

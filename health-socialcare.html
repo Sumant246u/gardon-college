@@ -157,6 +157,11 @@
             color: #F8C62F;
         }
 
+        .it-course-info-item-7 .it-course-info-icon {
+            background: linear-gradient(135deg, rgba(3, 89, 78, 0.1) 0%, rgba(3, 89, 78, 0.2) 100%);
+            color: #03594E;
+        }
+
         .it-course-info-icon {
             width: 60px;
             height: 60px;
@@ -175,6 +180,19 @@
 
         .it-course-info-content {
             flex: 1;
+            position: relative;
+            z-index: 1;
+        }
+
+        .it-course-info-content a {
+            color: #03594E;
+            text-decoration: underline;
+            transition: color 0.3s ease;
+            cursor: pointer;
+        }
+
+        .it-course-info-content a:hover {
+            color: #F8C62F;
         }
 
         .it-course-info-label {
@@ -960,7 +978,7 @@
                                             </div>
                                             <div class="it-course-info-content">
                                                 <span class="it-course-info-label">Includes</span>
-                                                <p class="mb-0">1-2-1 tutor support, FREE laptop*, all course materials
+                                                <p class="mb-0">1-2-1 tutor support, all course materials
                                                     and more</p>
                                             </div>
                                         </div>
@@ -972,14 +990,22 @@
                                                 <svg width="28" height="28" viewBox="0 0 24 24" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path
-                                                        d="M9 12L11 14L15 10M21 12C21 16.9706 16.9706 21 12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3C16.9706 3 21 7.02944 21 12Z"
+                                                        d="M10 13C10.4295 13.5741 10.9774 14.0491 11.6066 14.3929C12.2357 14.7367 12.9315 14.9411 13.6466 14.9923C14.3618 15.0435 15.0796 14.9403 15.7513 14.6897C16.4231 14.4392 17.0331 14.047 17.54 13.54L20.54 10.54C21.4508 9.59695 21.9548 8.33394 21.9434 7.02296C21.932 5.71198 21.4061 4.45791 20.4791 3.53087C19.5521 2.60383 18.298 2.07799 16.987 2.0666C15.676 2.0552 14.413 2.55918 13.47 3.46997L11.75 5.17997"
+                                                        stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                                        stroke-linejoin="round" />
+                                                    <path
+                                                        d="M14 11C13.5705 10.4259 13.0226 9.95087 12.3934 9.60707C11.7643 9.26327 11.0685 9.05886 10.3534 9.00766C9.63824 8.95645 8.92037 9.05972 8.24863 9.31026C7.57689 9.5608 6.96688 9.95302 6.46 10.46L3.46 13.46C2.54921 14.403 2.04523 15.6661 2.05662 16.977C2.06802 18.288 2.59387 19.5421 3.52091 20.4691C4.44795 21.3962 5.70202 21.922 7.013 21.9334C8.32398 21.9448 9.58699 21.4408 10.53 20.53L12.24 18.82"
                                                         stroke="currentColor" stroke-width="2" stroke-linecap="round"
                                                         stroke-linejoin="round" />
                                                 </svg>
                                             </div>
                                             <div class="it-course-info-content">
                                                 <span class="it-course-info-label">Ofqual Link</span>
-                                                <p class="mb-0">Level 3 Foundation Diploma in Engineering – 603/7030/0
+                                                <p class="mb-0">
+                                                    <a
+                                                        href="https://find-a-qualification.services.ofqual.gov.uk/qualifications/60367763"
+                                                        target="_blank"
+                                                    >603/6776/3</a>
                                                 </p>
                                             </div>
                                         </div>
@@ -1068,18 +1094,27 @@
                                 <h4 class="it-section-title mb-20">Do you want to pursue a career in Health and Social Care?</h4>
                             </div>
                             <div class="it-course-intro-text">
-                                <p class="mb-25 fs-5">TThe Level 3 Foundation Diploma in Health and Social Care is a
-                                    60-credit qualification, equivalent to one A Level, designed to build a strong
-                                    foundation for individuals looking to begin or progress a career within the health
-                                    and social care sector.This programme focuses on developing the essential knowledge,
-                                    practical
-                                    understanding, and core skills required for entry-level and support roles, including
-                                    care assistant, support worker, and senior support worker positions across a range
-                                    of care settings.</p>
-                                <p class="mb-30">Throughout the course, students benefit from a wide range of learning
-                                    support, including one-to-one tutor guidance, interactive webinars, access to a
-                                    social learning community, and additional academic resources designed to help
-                                    learners complete their diploma with confidence and clarity.</p>
+                                <p class="mb-25 fs-5">This Level 3 Foundation diploma in health and social care is a
+                                    60-credit qualification (equivalent to one A level). The objective of the OTHM Level
+                                    3 Foundation Diploma in Health and Social Care is to equip learners with the
+                                    underpinning knowledge, understanding and skills required for a career in the health
+                                    and social care sector at a support worker, senior support worker or care assistant
+                                    level.</p>
+                                <p class="mb-25">The OTHM Level 3 Foundation Diploma in Health and Social Care consists
+                                    of 6 Modules and Assignments for a combined total of 60 credits and 120 Guided
+                                    Learning Hours for the completed qualification.</p>
+                                <p class="mb-25">While completing the Level 3 online Diploma in Health and Social Care,
+                                    students can access various study resources, such as tutor support and webinars, a
+                                    social learning forum, and additional materials to complete their graduate business
+                                    course.</p>
+                                <p class="mb-25">Upon completion of this Health and Social Care online course, students
+                                    receive an OTHM Level 3 foundation Diploma in Health and Social Care which is fully
+                                    regulated by Ofqual. Students will then have the opportunity to apply for admission
+                                    onto a full undergraduate degree programme from a range of UK universities.</p>
+                                <p class="mb-25">Alternatively, students can opt to study our Level 4/5 Diploma in
+                                    Health and Social Care and then complete an undergraduate top-up at a range of UK
+                                    universities.</p>
+                                <p class="mb-30">This course is eligible for ELCAS funding.</p>
                             </div>
                         </div>
                     </div>
@@ -1088,485 +1123,526 @@
         </section>
         <!-- course-intro-area-end -->
 
-        <!-- course-info-tabs-area-start -->
-        <section class="it-course-info-tabs-area pt-100 pb-100 position-relative">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-12">
-                        <div class="it-course-info-tabs-wrapper">
-                            <!-- Tab Navigation -->
-                            <ul class="nav nav-tabs it-course-info-nav-tabs" id="courseInfoTabs" role="tablist">
-                                <li class="nav-item" role="presentation">
-                                    <button class="nav-link active" id="how-it-works-tab" data-bs-toggle="tab"
-                                        data-bs-target="#how-it-works" type="button" role="tab"
-                                        aria-controls="how-it-works" aria-selected="true">
-                                        How it works
-                                    </button>
-                                </li>
-                                <li class="nav-item" role="presentation">
-                                    <button class="nav-link" id="sitting-exam-tab" data-bs-toggle="tab"
-                                        data-bs-target="#sitting-exam" type="button" role="tab"
-                                        aria-controls="sitting-exam" aria-selected="false">
-                                        Sitting The Exam
-                                    </button>
-                                </li>
-                                <li class="nav-item" role="presentation">
-                                    <button class="nav-link" id="entry-requirements-tab" data-bs-toggle="tab"
-                                        data-bs-target="#entry-requirements" type="button" role="tab"
-                                        aria-controls="entry-requirements" aria-selected="false">
-                                        Entry requirements
-                                    </button>
-                                </li>
-                                <li class="nav-item" role="presentation">
-                                    <button class="nav-link" id="cost-payments-tab" data-bs-toggle="tab"
-                                        data-bs-target="#cost-payments" type="button" role="tab"
-                                        aria-controls="cost-payments" aria-selected="false">
-                                        Cost & payments
-                                    </button>
-                                </li>
-                                <li class="nav-item" role="presentation">
-                                    <button class="nav-link" id="career-progression-tab" data-bs-toggle="tab"
-                                        data-bs-target="#career-progression" type="button" role="tab"
-                                        aria-controls="career-progression" aria-selected="false">
-                                        Career progression
-                                    </button>
-                                </li>
-                                <li class="nav-item" role="presentation">
-                                    <button class="nav-link" id="subject-content-tab" data-bs-toggle="tab"
-                                        data-bs-target="#subject-content" type="button" role="tab"
-                                        aria-controls="subject-content" aria-selected="false">
-                                        Subject Content
-                                    </button>
-                                </li>
-                            </ul>
+      <!-- course-info-tabs-area-start -->
+      <section class="it-course-info-tabs-area pt-100 pb-100 position-relative">
+        <div class="container">
+          <div class="row">
+            <div class="col-xl-12">
+              <div class="it-course-info-tabs-wrapper">
+                <!-- Tab Navigation -->
+                <ul
+                  class="nav nav-tabs it-course-info-nav-tabs"
+                  id="courseInfoTabs"
+                  role="tablist"
+                >
+                  <li class="nav-item" role="presentation">
+                    <button
+                      class="nav-link active"
+                      id="how-it-works-tab"
+                      data-bs-toggle="tab"
+                      data-bs-target="#how-it-works"
+                      type="button"
+                      role="tab"
+                      aria-controls="how-it-works"
+                      aria-selected="true"
+                    >
+                      How it works
+                    </button>
+                  </li>
+                  <li class="nav-item" role="presentation">
+                    <button
+                      class="nav-link"
+                      id="sitting-exam-tab"
+                      data-bs-toggle="tab"
+                      data-bs-target="#sitting-exam"
+                      type="button"
+                      role="tab"
+                      aria-controls="sitting-exam"
+                      aria-selected="false"
+                    >
+                      Course Modules
+                    </button>
+                  </li>
+                  <li class="nav-item" role="presentation">
+                    <button
+                      class="nav-link"
+                      id="entry-requirements-tab"
+                      data-bs-toggle="tab"
+                      data-bs-target="#entry-requirements"
+                      type="button"
+                      role="tab"
+                      aria-controls="entry-requirements"
+                      aria-selected="false"
+                    >
+                      Entry requirements
+                    </button>
+                  </li>
+                  <li class="nav-item" role="presentation">
+                    <button
+                      class="nav-link"
+                      id="cost-payments-tab"
+                      data-bs-toggle="tab"
+                      data-bs-target="#cost-payments"
+                      type="button"
+                      role="tab"
+                      aria-controls="cost-payments"
+                      aria-selected="false"
+                    >
+                      Cost & payments
+                    </button>
+                  </li>
+                  <li class="nav-item" role="presentation">
+                    <button
+                      class="nav-link"
+                      id="career-progression-tab"
+                      data-bs-toggle="tab"
+                      data-bs-target="#career-progression"
+                      type="button"
+                      role="tab"
+                      aria-controls="career-progression"
+                      aria-selected="false"
+                    >
+                      Career progression
+                    </button>
+                  </li>
+                  <li class="nav-item" role="presentation">
+                    <button
+                      class="nav-link"
+                      id="university-progression-tab"
+                      data-bs-toggle="tab"
+                      data-bs-target="#university-progression"
+                      type="button"
+                      role="tab"
+                      aria-controls="university-progression"
+                      aria-selected="false"
+                    >
+                      University options
+                    </button>
+                  </li>
+                  <li class="nav-item" role="presentation">
+                    <button
+                      class="nav-link"
+                      id="subject-content-tab"
+                      data-bs-toggle="tab"
+                      data-bs-target="#subject-content"
+                      type="button"
+                      role="tab"
+                      aria-controls="subject-content"
+                      aria-selected="false"
+                    >
+                      Sample Certificates
+                    </button>
+                  </li>
+                </ul>
 
-                            <!-- Tab Content -->
-                            <div class="tab-content it-course-info-tab-content" id="courseInfoTabsContent">
-                                <!-- How it works -->
-                                <div class="tab-pane fade show active" id="how-it-works" role="tabpanel"
-                                    aria-labelledby="how-it-works-tab">
-                                    <div class="it-course-info-content-box">
-                                        <h3 class="it-course-info-title mb-25">How it works</h3>
-                                        <div class="it-course-info-text">
-                                            <p class="mb-20">
-                                                Learners enrolled on our Health and Social Care online programme can
-                                                work towards an <strong>OTHM Level 3 Foundation Diploma (60 credits)</strong>,
-                                                developed to build the essential knowledge and practical skills needed
-                                                for a career within the care and support sector. The programme is fully
-                                                online, giving you the freedom to begin your studies at any time.
-                                            </p>
-                                        
-                                            <p class="mb-20">
-                                                This flexible course allows you to study at your own pace. Each module
-                                                includes <strong>40 hours of structured guided learning</strong>,
-                                                supported by an additional <strong>30–50 hours</strong> of optional
-                                                learning materials such as practice activities, recommended reading,
-                                                interactive digital resources, and self-assessment tasks to reinforce
-                                                key concepts.
-                                            </p>
-                                        
-                                            <p class="mb-20">
-                                                Assessment is completed through <strong>six online written assignments</strong>,
-                                                with each assignment typically ranging between
-                                                <strong>2,000 and 3,000 words</strong>. Upon successful completion, you
-                                                will be awarded an <strong>OTHM Foundation Diploma</strong>, which can
-                                                provide progression opportunities to <strong>bachelor’s degree
-                                                programmes</strong> at a variety of UK universities.
-                                            </p>
-                                        
-                                            <p class="mb-20">
-                                                Throughout the Level 3 Health and Social Care course, you’ll benefit
-                                                from <strong>personalised 1-to-1 tutor support</strong>, along with
-                                                access to live webinars, social learning forums, and a wide range of
-                                                additional study materials designed to help you complete your diploma
-                                                confidently. More details can be found on our
-                                                <a href="#" class="it-course-info-link">Student Resources page</a>.
-                                            </p>
-                                        
-                                            <p class="mb-30">
-                                                You can also explore the academic standards we meet and the professional
-                                                associations we are aligned with, ensuring a high-quality learning
-                                                experience. Ongoing support resources are available throughout your
-                                                studies to help prepare you for a rewarding career in health and social
-                                                care.
-                                            </p>
-                                        
-                                            <a href="#" class="it-course-info-cta-link">
-                                                <svg width="16" height="16" viewBox="0 0 16 16" fill="none"
-                                                    xmlns="http://www.w3.org/2000/svg">
-                                                    <path d="M6 12L10 8L6 4" stroke="currentColor" stroke-width="2"
-                                                        stroke-linecap="round" stroke-linejoin="round" />
-                                                </svg>
-                                                Click here to view a Sample Certificate
-                                            </a>
-                                        </div>
-                                        
-                                    </div>
-                                </div>
+                <!-- Tab Content -->
+                <div
+                  class="tab-content it-course-info-tab-content"
+                  id="courseInfoTabsContent"
+                >
+                  <!-- How it works -->
+                  <div
+                    class="tab-pane fade show active"
+                    id="how-it-works"
+                    role="tabpanel"
+                    aria-labelledby="how-it-works-tab"
+                  >
+                    <div class="it-course-info-content-box">
+                      <h3 class="it-course-info-title mb-25">How it works</h3>
+                      <div class="it-course-info-text">
+                        <p class="mb-20">
+                          Students on our Health and Social Care online course can
+                          complete a OTHM Level 3 foundation diploma in Health and
+                          Social Care (60 credits), designed to provide students with
+                          the skills needed to succeed in the care and support
+                          industry.
+                        </p>
 
-                                <!-- Sitting The Exam -->
-                                <div class="tab-pane fade" id="sitting-exam" role="tabpanel"
-                                    aria-labelledby="sitting-exam-tab">
-                                    <div class="it-course-info-content-box">
-                                        <h3 class="it-course-info-title mb-25">Sitting The Exam</h3>
-                                        <div class="it-course-info-text">
-                                            <p class="mb-20">To sit an IGCSE Biology examination, begin by finding an
-                                                approved exam centre in your country that accepts private candidates.
-                                                Once you've identified a suitable centre, complete the registration
-                                                process and pay any required examination fees.</p>
+                        <p class="mb-20">
+                          The course is completed online and you can start at any
+                          time, it's completely flexible. Each module consists of
+                          <strong>40 hours of guided online learning</strong>, with
+                          an additional <strong>30-50 hours</strong> worth of
+                          optional materials that include recommended exercises,
+                          readings, digital resources and self-test tasks.
+                        </p>
 
-                                            <p class="mb-20">Prior to your exams, carefully review your statement of
-                                                entry to ensure all details are correct. Remember to bring valid
-                                                identification to each examination session. Maintain regular
-                                                communication with your exam centre or provider regarding any
-                                                exam-related questions, including arrangements for special access
-                                                requirements.</p>
+                        <p class="mb-20">
+                          To complete the course you'll submit
+                          <strong>6 online assignments</strong> at each level, and
+                          assignments are approximately <strong>2,000-3,000 words</strong>
+                          each. Once you've passed your course, you'll be awarded
+                          with an OTHM Foundation Diploma and you'll be able to
+                          progress to a bachelor's degree at a range of UK
+                          universities.
+                        </p>
 
-                                            <p class="mb-20">After completing your examinations, inform the centre or
-                                                exam provider if you require any special consideration. Collect your
-                                                results and certificates from them when available. If needed, you can
-                                                request reviews of marking or appeals through your exam centre or
-                                                provider.</p>
+                        <p class="mb-20">
+                          During this Level 3 Health and Social Care online course
+                          you'll have access to <strong>1-2-1 tutor support</strong>
+                          and webinars, social learning forums and additional
+                          materials to complete your diploma with ease.
+                        </p>
 
-                                            <div class="it-course-info-highlight-box mt-30 mb-30">
-                                                <h5 class="mb-15">Online Business School Support</h5>
-                                                <p class="mb-15">We are committed to supporting you throughout the
-                                                    entire IGCSE exam process. Our team will assist you in locating an
-                                                    approved exam centre, help with registration procedures, and ensure
-                                                    you meet all requirements and deadlines.</p>
-                                                <p class="mb-15">We provide guidance on exam preparation strategies,
-                                                    verify your statement of entry accuracy, and clarify identification
-                                                    and access arrangement requirements.</p>
-                                                <p class="mb-0">Following your exams, we'll guide you through requesting
-                                                    special considerations, collecting results and certificates, and
-                                                    navigating the process for reviews of marking or appeals. Our
-                                                    comprehensive support ensures you have the necessary resources and
-                                                    assistance at every stage of your examination journey.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                        <p class="mb-30">
+                          You can find out more about the support you'll have
+                          available on our Student Resources page. You can also read
+                          about the academic credentials we meet and associations
+                          we're part of to make sure you have the best learning
+                          experience.
+                        </p>
 
-                                <!-- Entry requirements -->
-                                <div class="tab-pane fade" id="entry-requirements" role="tabpanel"
-                                    aria-labelledby="entry-requirements-tab">
-                                    <div class="it-course-info-content-box">
-                                        <h3 class="it-course-info-title mb-25">Am I eligible for this programme?</h3>
-                                        <div class="it-course-info-text">
-                                            <p class="mb-20">The IGCSE Biology course is typically completed by students
-                                                aged 14 to 16, however, anyone aged 14 or above is welcome to enrol.
-                                                This course is designed to be accessible to learners from diverse
-                                                educational backgrounds.</p>
-
-                                            <p class="mb-20">No prior qualifications are required to begin this course.
-                                                Whether you're looking to enhance your scientific knowledge, prepare for
-                                                further studies, or pursue a career in biology or related fields, this
-                                                program provides a solid foundation without requiring previous academic
-                                                achievements in the subject.</p>
-
-                                            <p class="mb-20">The course structure accommodates learners at various
-                                                levels, with comprehensive materials and support systems in place to
-                                                help you succeed regardless of your previous experience with biology.
-                                            </p>
-
-                                            <div class="it-course-info-feature-list mt-30">
-                                                <h5 class="mb-20">Course Accessibility Features:</h5>
-                                                <ul class="it-course-info-list">
-                                                    <li>No prerequisite qualifications needed</li>
-                                                    <li>Open to students aged 14 and above</li>
-                                                    <li>Flexible online learning format</li>
-                                                    <li>Comprehensive support materials included</li>
-                                                    <li>1-2-1 tutor guidance available</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <!-- Cost & payments -->
-                                <div class="tab-pane fade" id="cost-payments" role="tabpanel"
-                                    aria-labelledby="cost-payments-tab">
-                                    <div class="it-course-info-content-box">
-                                        <h3 class="it-course-info-title mb-25">Cost and payments</h3>
-                                        <div class="it-course-info-text">
-                                            <div class="it-course-price-box mb-30">
-                                                <h4 class="mb-10">IGCSE Biology: <span
-                                                        class="it-price-amount">£399</span></h4>
-                                                <p class="mb-0">Enrol with a <strong>£50 deposit</strong> and then
-                                                    <strong>£14.55 a month for 24 months</strong>, interest-free.
-                                                </p>
-                                            </div>
-
-                                            <p class="mb-20">We offer flexible payment options to make your education
-                                                accessible. Students can make payments using one of the following
-                                                convenient methods:</p>
-
-                                            <div class="it-payment-methods-list">
-                                                <ul class="it-course-info-list">
-                                                    <li>Credit or debit card</li>
-                                                    <li>Bank transfer</li>
-                                                    <li>Interest-free monthly instalments</li>
-                                                    <li>PayPal</li>
-                                                    <li>Western Union</li>
-                                                </ul>
-                                            </div>
-
-                                            <p class="mb-20 mt-30">Our flexible payment plans are designed to
-                                                accommodate different financial situations, allowing you to spread the
-                                                cost of your course over time without additional interest charges.</p>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <!-- Career progression -->
-                                <div class="tab-pane fade" id="career-progression" role="tabpanel"
-                                    aria-labelledby="career-progression-tab">
-                                    <div class="it-course-info-content-box">
-                                        <h3 class="it-course-info-title mb-25">Career Progression</h3>
-                                        <div class="it-course-info-text">
-                                            <p class="mb-20">Upon successful completion of the IGCSE Biology course,
-                                                you'll have acquired the essential foundations and fundamental knowledge
-                                                required to progress to A Levels or pursue a Level 3 qualification with
-                                                Online Business School.</p>
-
-                                            <p class="mb-20">This qualification serves as a stepping stone for various
-                                                educational and career pathways in the sciences. The knowledge and
-                                                skills you develop will prepare you for advanced studies in biology,
-                                                chemistry, medicine, environmental science, and other related
-                                                disciplines.</p>
-
-                                            <div class="it-career-pathways-box mt-30 mb-30">
-                                                <h5 class="mb-20">Potential Career Pathways:</h5>
-                                                <div class="row g-4">
-                                                    <div class="col-md-6">
-                                                        <div class="it-career-path-item">
-                                                            <h6 class="mb-10">Further Education</h6>
-                                                            <p class="mb-0">Progress to A Levels in Biology, Chemistry,
-                                                                or related sciences</p>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-6">
-                                                        <div class="it-career-path-item">
-                                                            <h6 class="mb-10">Higher Education</h6>
-                                                            <p class="mb-0">Foundation for university degrees in life
-                                                                sciences, medicine, or research</p>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-6">
-                                                        <div class="it-career-path-item">
-                                                            <h6 class="mb-10">Professional Careers</h6>
-                                                            <p class="mb-0">Pathway to careers in healthcare, research,
-                                                                environmental science, and biotechnology</p>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-6">
-                                                        <div class="it-career-path-item">
-                                                            <h6 class="mb-10">Level 3 Qualifications</h6>
-                                                            <p class="mb-0">Continue with advanced qualifications at
-                                                                Online Business School</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <!-- Subject Content -->
-                                <div class="tab-pane fade" id="subject-content" role="tabpanel"
-                                    aria-labelledby="subject-content-tab">
-                                    <div class="it-course-info-content-box">
-                                        <h3 class="it-course-info-title mb-25">Subject Content</h3>
-                                        <div class="it-course-info-text">
-                                            <div class="it-subject-content-list">
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">1. Characteristics and Classification of Living
-                                                        Organisms</h5>
-                                                    <p class="mb-0">This foundational section explores the fundamental
-                                                        characteristics that define living organisms and introduces the
-                                                        principles of biological classification. You'll learn about the
-                                                        diversity of life, classification systems, and how organisms are
-                                                        organized into groups based on shared characteristics and
-                                                        evolutionary relationships.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">2. Organisation of the Organism</h5>
-                                                    <p class="mb-0">Focus on cellular structure and function, examining
-                                                        how cells are organized into tissues, organs, and organ systems.
-                                                        This section covers cell biology, including cell structure,
-                                                        organelles, and their functions, providing essential knowledge
-                                                        for understanding how living organisms function at the cellular
-                                                        level.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">3. Movement In and Out of Cells</h5>
-                                                    <p class="mb-0">Explore the mechanisms of transport across cell
-                                                        membranes, including diffusion, osmosis, and active transport.
-                                                        This section covers how substances move into and out of cells,
-                                                        maintaining cellular homeostasis and supporting vital biological
-                                                        processes.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">4. Biological Molecules</h5>
-                                                    <p class="mb-0">Study the chemical basis of life, examining
-                                                        carbohydrates, proteins, lipids, and nucleic acids. Learn about
-                                                        their structure, function, and importance in biological systems,
-                                                        providing the foundation for understanding metabolism and
-                                                        cellular processes.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">5. Enzymes</h5>
-                                                    <p class="mb-0">Investigate the role of enzymes as biological
-                                                        catalysts, exploring enzyme structure, function, and factors
-                                                        affecting enzyme activity. This section covers how enzymes
-                                                        control metabolic reactions and maintain cellular processes
-                                                        essential for life.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">6. Plant Nutrition</h5>
-                                                    <p class="mb-0">Examine how plants obtain and utilize nutrients,
-                                                        covering photosynthesis, mineral nutrition, and plant growth
-                                                        requirements. Learn about the importance of plants in ecosystems
-                                                        and their role in supporting life on Earth.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">7. Human Nutrition</h5>
-                                                    <p class="mb-0">Study the human digestive system, nutritional
-                                                        requirements, and the role of different nutrients in maintaining
-                                                        health. This section covers digestion, absorption, and the
-                                                        importance of a balanced diet for human health and development.
-                                                    </p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">8. Transport in Plants</h5>
-                                                    <p class="mb-0">Explore how water, minerals, and organic compounds
-                                                        are transported throughout plants. Learn about xylem and phloem,
-                                                        transpiration, and the mechanisms that enable plants to
-                                                        distribute essential substances from roots to leaves and other
-                                                        parts.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">9. Transport in Animals</h5>
-                                                    <p class="mb-0">Investigate the circulatory system in animals,
-                                                        focusing on the human cardiovascular system. This section covers
-                                                        the heart, blood vessels, blood composition, and how oxygen,
-                                                        nutrients, and waste products are transported throughout the
-                                                        body.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">10. Diseases and Immunity</h5>
-                                                    <p class="mb-0">Examine the causes of disease, the body's defense
-                                                        mechanisms, and the immune system. Learn about pathogens, how
-                                                        diseases spread, and how the immune system protects against
-                                                        infection, including both specific and non-specific immune
-                                                        responses.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">11. Gas Exchange in Humans</h5>
-                                                    <p class="mb-0">Study the respiratory system, focusing on how humans
-                                                        obtain oxygen and remove carbon dioxide. This section covers
-                                                        lung structure, breathing mechanisms, and the process of gas
-                                                        exchange essential for cellular respiration.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">12. Respiration</h5>
-                                                    <p class="mb-0">Explore cellular respiration, the process by which
-                                                        cells release energy from food molecules. Learn about aerobic
-                                                        and anaerobic respiration, ATP production, and how organisms
-                                                        obtain the energy needed for life processes.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">13. Excretion in Humans</h5>
-                                                    <p class="mb-0">Examine how the human body removes waste products,
-                                                        focusing on the urinary system. This section covers kidney
-                                                        structure and function, urine formation, and the importance of
-                                                        excretion in maintaining homeostasis.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">14. Coordination and Response</h5>
-                                                    <p class="mb-0">Investigate how organisms detect and respond to
-                                                        changes in their environment. This section covers the nervous
-                                                        system, endocrine system, and how coordination enables organisms
-                                                        to maintain internal balance and respond to external stimuli.
-                                                    </p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">15. Drugs</h5>
-                                                    <p class="mb-0">Study the effects of drugs on the human body,
-                                                        including medicinal drugs and substances of abuse. Learn about
-                                                        how drugs affect the nervous system, the importance of
-                                                        responsible drug use, and the impact of drug abuse on health and
-                                                        society.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">16. Reproduction</h5>
-                                                    <p class="mb-0">Examine reproductive systems in plants and animals,
-                                                        covering both sexual and asexual reproduction. This section
-                                                        explores the processes of reproduction, development, and the
-                                                        continuation of species.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">17. Inheritance</h5>
-                                                    <p class="mb-0">Study the principles of genetics, including how
-                                                        characteristics are inherited from parents to offspring. Learn
-                                                        about genes, chromosomes, DNA, genetic variation, and the
-                                                        mechanisms of inheritance that determine traits in living
-                                                        organisms.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">18. Variation and Selection</h5>
-                                                    <p class="mb-0">Explore genetic variation, natural selection, and
-                                                        evolution. This section covers how variation arises, how
-                                                        selection acts on variation, and the processes that drive
-                                                        evolutionary change in populations over time.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">19. Organisms and Their Environment</h5>
-                                                    <p class="mb-0">Investigate how organisms interact with their
-                                                        environment and with each other. Learn about ecosystems, food
-                                                        chains, food webs, energy flow, and the relationships between
-                                                        organisms and their habitats.</p>
-                                                </div>
-
-                                                <div class="it-subject-topic-item mb-0">
-                                                    <h5 class="mb-15">20. Biotechnology and Genetic Engineering</h5>
-                                                    <p class="mb-0">Examine modern applications of biology, including
-                                                        genetic engineering, biotechnology, and their applications in
-                                                        medicine, agriculture, and industry. This section covers the
-                                                        techniques, benefits, and ethical considerations of
-                                                        biotechnological applications.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-
-                        </div>
+                        <!-- <a href="assets/img/course/OTHM-Level-3-Foundation-Diploma-Sample-Certificate.pdf" class="it-course-info-cta-link" target="_blank">
+                          <svg
+                            width="16"
+                            height="16"
+                            viewBox="0 0 16 16"
+                            fill="none"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <path
+                              d="M6 12L10 8L6 4"
+                              stroke="currentColor"
+                              stroke-width="2"
+                              stroke-linecap="round"
+                              stroke-linejoin="round"
+                            />
+                          </svg>
+                          Click Here to view a Sample Certificate
+                        </a> -->
+                      </div>
                     </div>
+                  </div>
+
+                  <!-- Course Modules -->
+                  <div
+                    class="tab-pane fade"
+                    id="sitting-exam"
+                    role="tabpanel"
+                    aria-labelledby="sitting-exam-tab"
+                  >
+                    <div class="it-course-info-content-box">
+                      <h3 class="it-course-info-title mb-25">
+                        Course Modules
+                      </h3>
+                      <div class="it-course-info-text">
+                        <p class="mb-25">
+                          This OTHM Level 3 Foundation Diploma in Health and Social
+                          Care has 6 Mandatory Units:
+                        </p>
+
+                        <div class="it-subject-content-list">
+                          <div class="it-subject-topic-item mb-30">
+                            <h5 class="mb-15">Responsibilities of a Health and Social
+                              Care worker (10 credits)</h5>
+                            <p class="mb-0">This unit aims to help learners understand
+                              the roles and responsibilities in various health and
+                              social care settings, as well as the knowledge needed to
+                              foster effective working relationships and partnerships
+                              in these environments.</p>
+                          </div>
+
+                          <div class="it-subject-topic-item mb-30">
+                            <h5 class="mb-15">Personal and Professional Development in
+                              Health and Social Care (10 credits)</h5>
+                            <p class="mb-0">This unit aims to help learners understand
+                              personal development and reflective practice in health
+                              and social care roles. It highlights the importance of
+                              ongoing learning and reflection to maintain skills and
+                              improve performance.</p>
+                          </div>
+
+                          <div class="it-subject-topic-item mb-30">
+                            <h5 class="mb-15">Effective Communication and Ethical
+                              Practice in Health and Social Care (10 credits)</h5>
+                            <p class="mb-0">This unit explores the importance of
+                              communication in health and social care, focusing on
+                              meeting individual needs and preferences. It also covers
+                              good practice in equality, diversity, and rights within
+                              these settings.</p>
+                          </div>
+
+                          <div class="it-subject-topic-item mb-30">
+                            <h5 class="mb-15">Health, Safety and Wellbeing in Health
+                              and Social Care Settings (10 credits)</h5>
+                            <p class="mb-0">This unit equips learners with the
+                              knowledge and skills to promote health and safety in the
+                              workplace and addresses safeguarding, including
+                              identifying types of abuse and their signs.</p>
+                          </div>
+
+                          <div class="it-subject-topic-item mb-30">
+                            <h5 class="mb-15">Person-centred Approaches in Health and
+                              Social Care Settings (10 credits)</h5>
+                            <p class="mb-0">This unit helps learners understand how to
+                              implement and promote person-centred approaches, focusing
+                              on the individual and their abilities rather than their
+                              condition or disability.</p>
+                          </div>
+
+                          <div class="it-subject-topic-item mb-30">
+                            <h5 class="mb-15">Effective Handling of Information in
+                              Health and Social Care Settings (10 credits)</h5>
+                            <p class="mb-0">This unit covers confidentiality and
+                              ethical practices in managing information, focusing on
+                              good practice in recording, sharing, storing, and
+                              accessing data.</p>
+                          </div>
+                        </div>
+
+                        <p class="mb-25">
+                          The Level 3 Diploma in Health and Social Care online course
+                          has 6 written assignments. The assignments are approximately
+                          2,000-3,000 words each. Students are provided support on the
+                          modules and assignments via the 'Tutor' section of the
+                          learning platform.
+                        </p>
+
+                        <p class="mb-25">
+                          The Assignment unit titles that students need to complete
+                          for the Level 3 course are:
+                        </p>
+
+                        <ul class="it-course-info-list mb-30">
+                          <li>Responsibilities of a Health and Social Care worker (10
+                            credits)</li>
+                          <li>Personal and Professional Development in Health and
+                            Social Care (10 credits)</li>
+                          <li>Effective Communication and Ethical Practice in Health
+                            and Social Care (10 credits)</li>
+                          <li>Health, Safety and Wellbeing in Health and Social Care
+                            Settings (10 credits)</li>
+                          <li>Person-centred Approaches in Health and Social Care
+                            Settings (10 credits)</li>
+                          <li>Effective Handling of Information in Health and Social
+                            Care Settings (10 credits)</li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+
+                  <!-- Entry requirements -->
+                  <div
+                    class="tab-pane fade"
+                    id="entry-requirements"
+                    role="tabpanel"
+                    aria-labelledby="entry-requirements-tab"
+                  >
+                    <div class="it-course-info-content-box">
+                      <h3 class="it-course-info-title mb-25">
+                        Am I eligible for this Level 3 foundation diploma in Health
+                        and Social Care programme?
+                      </h3>
+                      <div class="it-course-info-text">
+                        <p class="mb-20">
+                          To enrol in our Level 3 Health and Social Care course, you
+                          must be at least 16 years old and have a full secondary
+                          education.
+                        </p>
+
+                        <p class="mb-20">
+                          If you don't have a full secondary education or the
+                          equivalent, you may also be able to enrol based on your
+                          work experience.
+                        </p>
+
+                        <p class="mb-30">
+                          To find out more, talk to one of our helpful team members
+                          at:
+                          <a href="tel:03337721158" class="it-course-info-link"
+                            >0333 772 1158</a
+                          >
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+
+                  <!-- Cost & payments -->
+                  <div
+                    class="tab-pane fade"
+                    id="cost-payments"
+                    role="tabpanel"
+                    aria-labelledby="cost-payments-tab"
+                  >
+                    <div class="it-course-info-content-box">
+                      <h3 class="it-course-info-title mb-25">
+                        Cost and payments
+                      </h3>
+                      <div class="it-course-info-text">
+                        <div class="it-course-price-box mb-30">
+                          <h4 class="mb-10">
+                            Level 3 foundation diploma in Health and Social Care (60
+                            credits):
+                            <span class="it-price-amount">£2,500</span>
+                          </h4>
+                          <p class="mb-0">
+                            Enrol with a <strong>£20 deposit</strong> and then
+                            <strong>£103.33 a month for 24 months</strong>,
+                            interest-free.
+                          </p>
+                        </div>
+
+                        <p class="mb-20">
+                          Students can make payment using one of the following
+                          methods:
+                        </p>
+
+                        <div class="it-payment-methods-list">
+                          <ul class="it-course-info-list">
+                            <li>Credit or debit card</li>
+                            <li>Bank transfer</li>
+                            <li>Interest-free monthly instalments</li>
+                            <li>PayPal</li>
+                            <li>Western Union</li>
+                            <li>ELCAS funding</li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <!-- Career progression -->
+                  <div
+                    class="tab-pane fade"
+                    id="career-progression"
+                    role="tabpanel"
+                    aria-labelledby="career-progression-tab"
+                  >
+                    <div class="it-course-info-content-box">
+                      <h3 class="it-course-info-title mb-25">
+                        Career Progression
+                      </h3>
+                      <div class="it-course-info-text">
+                        <p class="mb-25">
+                          A OTHM Level 3 foundation Diploma in Health and Social Care
+                          plus an Undergraduate degree programme will act as a
+                          springboard to a professional career in Health & Social Care
+                          services. The course pulls together theory and practice for
+                          those who wish to work with people in a caring environment.
+                        </p>
+                        <p class="mb-25">
+                          A Health & Social Care degree covers a range of issues and
+                          helps you develop the skills to follow a career in health,
+                          social care, leisure or education. Here is a list of possible
+                          career paths you may take after completing the full degree:
+                        </p>
+                        <ul class="it-course-info-list mb-25">
+                          <li>Community development worker</li>
+                          <li>Further education teacher</li>
+                          <li>Health improvement practitioner</li>
+                          <li>Health service manager</li>
+                          <li>Medical sales representative</li>
+                          <li>Naturopath</li>
+                        </ul>
+                        <p class="mb-30">
+                          For more information on where a degree in health & social care
+                          management can take you, please visit:
+                          <a
+                            href="https://www.prospects.ac.uk/careers-advice/what-can-i-do-with-my-degree/health-studies"
+                            class="it-course-info-link"
+                            target="_blank"
+                            >www.prospects.ac.uk/careers-advice/what-can-i-do-with-my-degree/health-studies</a
+                          >
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+
+                  <!-- University progression -->
+                  <div
+                    class="tab-pane fade"
+                    id="university-progression"
+                    role="tabpanel"
+                    aria-labelledby="university-progression-tab"
+                  >
+                    <div class="it-course-info-content-box">
+                      <h3 class="it-course-info-title mb-25">
+                        University progression
+                      </h3>
+                      <div class="it-course-info-text">
+                        <p class="mb-25">
+                          Upon completing this course, students can progress to a
+                          full BA or BSc degree programme at a variety of UK
+                          universities, online or on campus.
+                        </p>
+
+                        <p class="mb-20">Some examples include:</p>
+
+                        <ul class="it-course-info-list mb-30">
+                          <li>
+                            <a
+                              href="https://www.coventry.ac.uk/"
+                              class="it-course-info-link"
+                              target="_blank"
+                              >Coventry University</a
+                            >
+                          </li>
+                          <li>
+                            <a
+                              href="https://www.aru.ac.uk/"
+                              class="it-course-info-link"
+                              target="_blank"
+                              >Anglia Ruskin University</a
+                            >
+                          </li>
+                          <li>
+                            <a
+                              href="https://www.londonmet.ac.uk/"
+                              class="it-course-info-link"
+                              target="_blank"
+                              >London Metropolitan University</a
+                            >
+                          </li>
+                          <li>
+                            <a
+                              href="https://www.derby.ac.uk/"
+                              class="it-course-info-link"
+                              target="_blank"
+                              >University of Derby</a
+                            >
+                          </li>
+                          <li>
+                            <a
+                              href="https://www.mdx.ac.uk/"
+                              class="it-course-info-link"
+                              target="_blank"
+                              >Middlesex University</a
+                            >
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+
+                  <!-- Subject Content -->
+                  <div
+                    class="tab-pane fade"
+                    id="subject-content"
+                    role="tabpanel"
+                    aria-labelledby="subject-content-tab"
+                  >
+                    <div class="it-course-info-content-box">
+                      <h3 class="it-course-info-title mb-25">
+                        Sample Certificates
+                      </h3>
+                      <div class="it-course-info-text">
+                        <p class="mb-30">
+                          <strong>OOTHM Level 3 Business Management</strong>
+                        </p>
+                        <p class="mb-30">
+                          Qualification Number: <a href="https://find-a-qualification.services.ofqual.gov.uk/qualifications/60338118">603/3811/8</a> 
+                        </p>
+                        <img src="assets/img/course/certificate-accountancy.jpg" alt="Sample Certificate" class="img-fluid" style="max-width: 800px; width: 100%; height: auto; display: block; margin: 0 auto;">
+                      </div>
+                    </div>
+                  </div>
                 </div>
+              </div>
             </div>
-        </section>
-        <!-- course-info-tabs-area-end -->
+          </div>
+        </div>
+      </section>
+      <!-- course-info-tabs-area-end -->
 
         <!-- why-enrol-area-start -->
         <section class="it-why-enrol-area pt-120 pb-120 position-relative overflow-hidden">
@@ -1576,7 +1652,7 @@
                 <div class="row">
                     <div class="col-xl-12">
                         <div class="it-why-enrol-section-title text-center mb-70">
-                            <h2 class="it-why-enrol-main-title mb-20">Why Choose Our IGCSE Health and Social Care ?</h2>
+                            <h2 class="it-why-enrol-main-title mb-20">Why Choose Our Health and Social Care ?</h2>
                             <p class="it-why-enrol-subtitle">Join thousands of successful students who have transformed
                                 their understanding of life sciences with our comprehensive and flexible learning
                                 approach.</p>
