@@ -31897,3 +31897,7 @@ input[type=radio] {
     padding: 25px 0;
   }
 }
+
+.it-footer-border{
+  display:none;
+}
