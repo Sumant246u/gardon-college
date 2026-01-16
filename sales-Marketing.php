@@ -400,7 +400,7 @@
                                                 personal commitments.
                                                 Each module across Level 4 and Level 5 includes <strong>40 hours of
                                                     guided learning</strong>, supported by an additional
-                                                <strong>30–50 hours</strong> of optional learning materials such as case
+                                                <strong>30ï¿½50 hours</strong> of optional learning materials such as case
                                                 studies, digital resources, practical exercises, and self-assessment
                                                 activities to strengthen real-world marketing skills.
                                             </p>
@@ -414,7 +414,7 @@
                                                     words</strong>.
                                                 Upon successful completion, learners are awarded a <strong>Diploma in
                                                     Sales and Marketing</strong>, which can be used to progress to
-                                                <strong>bachelor’s degree top-up programmes</strong> offered by a range
+                                                <strong>bachelorï¿½s degree top-up programmes</strong> offered by a range
                                                 of UK universities.
                                             </p>
 
@@ -547,9 +547,9 @@
                                                 <div class="it-subject-topic-item mb-30">
                                                     <h5 class="mb-15">The business environment</h5>
                                                     <p class="mb-0">What comes to mind when you think of the word
-                                                        ‘environment’? You probably think of surroundings, and the
+                                                        ï¿½environmentï¿½? You probably think of surroundings, and the
                                                         conditions and influences of the surroundings. Similarly, the
-                                                        business environment refers to an organization’s surroundings –
+                                                        business environment refers to an organizationï¿½s surroundings ï¿½
                                                         its external surroundings, as well as its internal surroundings.
                                                     </p>
                                                 </div>
@@ -614,12 +614,12 @@
                                                 <div class="it-subject-topic-item mb-30">
                                                     <h5 class="mb-15">Customers and their needs</h5>
                                                     <p class="mb-0">The aim of modern marketing is to identify and then
-                                                        satisfy each customer’s needs and wants. This is often done by
+                                                        satisfy each customerï¿½s needs and wants. This is often done by
                                                         building relationships with customers and using these
                                                         relationships to create a two-way communication between the two
                                                         parties. The customer communicates his or her preferences, and
                                                         the business communicates information about products that will
-                                                        satisfy the customer’s needs and wishes.</p>
+                                                        satisfy the customerï¿½s needs and wishes.</p>
                                                 </div>
 
                                                 <div class="it-subject-topic-item mb-30">
@@ -634,10 +634,10 @@
 
                                                 <div class="it-subject-topic-item mb-30">
                                                     <h5 class="mb-15">High performance sales</h5>
-                                                    <p class="mb-0">An organisation’s success depends on a number of
+                                                    <p class="mb-0">An organisationï¿½s success depends on a number of
                                                         factors including its operations, its marketing strategy, its
                                                         human resource management and its sales. One of the most common
-                                                        criteria used for assessing the organisation’s success is sales
+                                                        criteria used for assessing the organisationï¿½s success is sales
                                                         growth. This is an indication that the organisation manages to
                                                         maintain its existing customers but also attract interest
                                                         followed by sales from new markets.</p>
@@ -648,7 +648,7 @@
                                                     <p class="mb-0">How do organisations develop strategies in a complex
                                                         marketing environment? How do they assess opportunities and
                                                         threats? Which markets and segments do they target and why?
-                                                        Which market positions play to an organization’s strengths? What
+                                                        Which market positions play to an organizationï¿½s strengths? What
                                                         product portfolio should be maintained for long-term value?
                                                         These are some of the questions we shall address.</p>
                                                 </div>
@@ -695,7 +695,7 @@
                                                         executives.</p>
                                                 </div>
                                                 <div class="it-subject-topic-item mb-30">
-                                                    <h5 class="mb-15">Managing in today’s world</h5>
+                                                    <h5 class="mb-15">Managing in todayï¿½s world</h5>
                                                     <p class="mb-0">Business in the modern world. This module focuses on
                                                         governance and equality as a means to do right in business.</p>
                                                 </div>
@@ -772,7 +772,7 @@
                                             </p>
 
                                             <p class="mb-30">
-                                                If you don’t have 2 A-levels or the equivalent, such as NVQ Level 3, you
+                                                If you donï¿½t have 2 A-levels or the equivalent, such as NVQ Level 3, you
                                                 may also be able to enrol based on your work experience. To find out
                                                 more, talk to one of our helpful team members at:
                                                 <a href="tel: +44 2045770424" class="it-course-info-link">: 0333 772
@@ -793,11 +793,11 @@
                                             <div class="it-course-price-box mb-30">
                                                 <h4 class="mb-10">
                                                     Level 4:
-                                                    <span class="it-price-amount">£2,900</span>
+                                                    <span class="it-price-amount">ï¿½2,900</span>
                                                 </h4>
                                                 <p class="mb-0">
-                                                    Enrol with a <strong>£20 deposit</strong> and then
-                                                    <strong>£120 a month for 24 months</strong>, 0%
+                                                    Enrol with a <strong>ï¿½20 deposit</strong> and then
+                                                    <strong>ï¿½120 a month for 24 months</strong>, 0%
                                                     interest-free.
                                                 </p>
                                             </div>
@@ -805,11 +805,11 @@
                                             <div class="it-course-price-box mb-30">
                                                 <h4 class="mb-10">
                                                     Level 4:
-                                                    <span class="it-price-amount">£2,900</span>
+                                                    <span class="it-price-amount">ï¿½2,900</span>
                                                 </h4>
                                                 <p class="mb-0">
-                                                    Enrol with a <strong>£20 deposit</strong> and then
-                                                    <strong>£120 a month for 24 months</strong>, 0%
+                                                    Enrol with a <strong>ï¿½20 deposit</strong> and then
+                                                    <strong>ï¿½120 a month for 24 months</strong>, 0%
                                                     interest-free.
                                                 </p>
                                             </div>
@@ -817,11 +817,11 @@
                                             <div class="it-course-price-box mb-30">
                                                 <h4 class="mb-10">
                                                     Level 4 & 5:
-                                                    <span class="it-price-amount">£3,500</span>
+                                                    <span class="it-price-amount">ï¿½3,500</span>
                                                 </h4>
                                                 <p class="mb-0">
-                                                    Enrol with a <strong>£20 deposit</strong> and then
-                                                    <strong>£145 a month for 24 months</strong>, 0%
+                                                    Enrol with a <strong>ï¿½20 deposit</strong> and then
+                                                    <strong>ï¿½145 a month for 24 months</strong>, 0%
                                                     interest-free.
                                                 </p>
                                             </div>
@@ -895,21 +895,21 @@
                                                     class="it-course-info-link" target="_blank">
                                                     (Top Up) to MBA Business Administration
                                                 </a>
-                                                – £3400 <em>*exclusively to OBS*</em>
+                                                ï¿½ ï¿½3400 <em>*exclusively to OBS*</em>
                                             </p>
 
                                             <p class="mb-15"><strong>University of Wolverhampton</strong></p>
-                                            <p class="mb-20">MBA (Top Up) – £3,800</p>
+                                            <p class="mb-20">MBA (Top Up) ï¿½ ï¿½3,800</p>
 
                                             <p class="mb-15"><strong>University of Central Lancashire</strong></p>
-                                            <p class="mb-20">MBA (Top Up) – £3,800</p>
+                                            <p class="mb-20">MBA (Top Up) ï¿½ ï¿½3,800</p>
 
-                                            <p class="mb-15"><strong>University of Sunderland – On Campus</strong></p>
+                                            <p class="mb-15"><strong>University of Sunderland ï¿½ On Campus</strong></p>
                                             <p class="mb-20">
                                                 <a href="https://www.sunderland.ac.uk/study/business-and-management/mba-top-up/"
                                                     class="it-course-info-link" target="_blank">
                                                     MBA (Top-Up)
-                                                </a> – £5,145
+                                                </a> ï¿½ ï¿½5,145
                                             </p>
 
                                             <p class="mb-15"><strong>Anglia Ruskin University</strong></p>
@@ -961,13 +961,13 @@
                                             </p>
 
                                             <p class="mb-25">
-                                                Once you’ve completed your online Level 4 &amp; 5 diploma in Sales and
+                                                Once youï¿½ve completed your online Level 4 &amp; 5 diploma in Sales and
                                                 Marketing course you have the opportunity to complete a third-year
                                                 <a href="https://www.onlinebusinessschool.com/top-up-degree/"
                                                     class="it-course-info-link" target="_blank">
                                                     top-up degree programme
                                                 </a>,
-                                                known as a ‘BA top up’, from a wide range of UK universities.
+                                                known as a ï¿½BA top upï¿½, from a wide range of UK universities.
                                             </p>
 
                                             <p class="mb-25">
@@ -985,13 +985,13 @@
                                                 <a href="https://www.coventry.ac.uk/cul/course-structure/hnc-hnd-degree/business-management/?term=2022-23"
                                                     class="it-course-info-link" target="_blank">
                                                     Business Management and Leadership BA (Hons)
-                                                </a> – London Campus – £10,000
+                                                </a> ï¿½ London Campus ï¿½ ï¿½10,000
                                             </p>
                                             <p class="mb-20">
                                                 <a href="https://www.coventry.ac.uk/cuc/course-structure/hnc-hnd-degree/business-mgt-leadership/?term=2022-23"
                                                     class="it-course-info-link" target="_blank">
                                                     Business Management and Leadership BA (Hons)
-                                                </a> – Coventry Campus- £10,000
+                                                </a> ï¿½ Coventry Campus- ï¿½10,000
                                             </p>
                                             <p class="mb-20">
                                                 <a href="https://www.coventry.ac.uk/london/course-structure/ug/marketing-management-top-up-ba/"
@@ -1005,7 +1005,7 @@
                                                 <a href="https://www.northampton.ac.uk/study/courses/international-accounting-top-up-bsc-hons/"
                                                     class="it-course-info-link" target="_blank">
                                                     BSc (Hons) in International Accounting
-                                                </a> -£9,250
+                                                </a> -ï¿½9,250
                                             </p>
                                             <p class="mb-20">
                                                 <a href="https://www.northampton.ac.uk/courses/marketing-management-topup-ba-hons/"
@@ -1019,7 +1019,7 @@
                                                 <a href="https://www.derby.ac.uk/online/business-courses/business-and-management-top-up-bsc-hons-online/"
                                                     class="it-course-info-link" target="_blank">
                                                     BSc (Hons) Business and Management
-                                                </a> – £5,200
+                                                </a> ï¿½ ï¿½5,200
                                             </p>
 
                                             <p class="mb-15"><strong>Westcliff University</strong></p>
@@ -1027,7 +1027,7 @@
                                                 <a href="https://www.westcliff.edu/academics/college-of-business/bachelor-of-business-administration-bba/#information1"
                                                     class="it-course-info-link" target="_blank">
                                                     Business Administration
-                                                </a> – £11,655 (online) / £15,600 (on campus)
+                                                </a> ï¿½ ï¿½11,655 (online) / ï¿½15,600 (on campus)
                                             </p>
 
                                             <p class="mb-15"><strong>University of Hertfordshire</strong></p>
@@ -1035,7 +1035,7 @@
                                                 <a href="https://www.herts.ac.uk/courses/undergraduate/ba-hons-business-administration-top-up-online"
                                                     class="it-course-info-link" target="_blank">
                                                     BA (Hons) Business Administration
-                                                </a> – £6,400
+                                                </a> ï¿½ ï¿½6,400
                                             </p>
 
                                             <p class="mb-15"><strong>University of Central Lancashire (UCLAN)</strong>
@@ -1044,7 +1044,7 @@
                                                 <a href="https://www.uclan.ac.uk/undergraduate/courses/business-management-ba-top-up"
                                                     class="it-course-info-link" target="_blank">
                                                     BA (Hons) Business Management
-                                                </a> – £9,240
+                                                </a> ï¿½ ï¿½9,240
                                             </p>
 
                                             <p class="mb-15"><strong>Middlesex University</strong></p>
@@ -1060,23 +1060,23 @@
                                                 <a href="https://www.staffordglobal.org/management-courses/business-management-ba-online-edinburgh-napier"
                                                     class="it-course-info-link" target="_blank">
                                                     BA in Business Management
-                                                </a> – £4,600<br>
+                                                </a> ï¿½ ï¿½4,600<br>
                                                 <a href="https://www.staffordglobal.org/management-courses/business-enterprise-ba-online-edinburgh-napier"
                                                     class="it-course-info-link" target="_blank">
                                                     BA in Business and Enterprise
-                                                </a> – £4,600<br>
+                                                </a> ï¿½ ï¿½4,600<br>
                                                 <a href="https://www.staffordglobal.org/management-courses/sales-management-ba-online-edinburgh-napier"
                                                     class="it-course-info-link" target="_blank">
                                                     BA in Sales Management
-                                                </a> – £4,600
+                                                </a> ï¿½ ï¿½4,600
                                             </p>
 
-                                            <p class="mb-15"><strong>University of Sunderland – On Campus</strong></p>
+                                            <p class="mb-15"><strong>University of Sunderland ï¿½ On Campus</strong></p>
                                             <p class="mb-20">
                                                 <a href="https://www.sunderland.ac.uk/study/business-and-management/undergraduate-business-management-tp/"
                                                     class="it-course-info-link" target="_blank">
                                                     BA (Hons) Business and Management
-                                                </a> – £9,250
+                                                </a> ï¿½ ï¿½9,250
                                             </p>
 
                                             <p class="mb-15"><strong>University of Cumbria</strong></p>
@@ -1084,13 +1084,13 @@
                                                 <a href="https://www.cumbria.ac.uk/study/courses/undergraduate/global-business-management-top-up/"
                                                     class="it-course-info-link" target="_blank">
                                                     BA (Hons) Global Business Management
-                                                </a> – <strong>ON CAMPUS</strong> – £9,250 UK / £13,250 International
+                                                </a> ï¿½ <strong>ON CAMPUS</strong> ï¿½ ï¿½9,250 UK / ï¿½13,250 International
                                             </p>
                                             <p class="mb-25">
                                                 <a href="https://www.cumbria.ac.uk/study/courses/undergraduate/international-business-management-top-up/"
                                                     class="it-course-info-link" target="_blank">
                                                     BA (Hons) International Business Management
-                                                </a> – <strong>ON CAMPUS</strong> – £9,250 UK / £13,250 International
+                                                </a> ï¿½ <strong>ON CAMPUS</strong> ï¿½ ï¿½9,250 UK / ï¿½13,250 International
                                             </p>
 
                                             <p class="mb-30">
@@ -1202,179 +1202,39 @@
         <!-- why-enrol-area-end -->
 
         <!-- enquiry-form-area-start -->
-        <section class="it-enquiry-form-area pt-100 pb-100 position-relative overflow-hidden">
-            <div class="it-enquiry-form-shape-1"></div>
-            <div class="it-enquiry-form-shape-2"></div>
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-xl-10">
-                        <div class="it-enquiry-form-wrapper">
-                            <div class="it-enquiry-form-header text-center mb-50">
-                                <h3 class="it-enquiry-form-main-title mb-15">Discover More About Our Programme</h3>
-                                <p class="it-enquiry-form-subtitle">Request your comprehensive course prospectus and
-                                    learn how we can help you achieve your academic goals.</p>
-                            </div>
-                            <div class="it-enquiry-form-box">
-                                <div class="it-enquiry-form-icon mb-30">
-                                    <svg width="80" height="80" viewBox="0 0 80 80" fill="none"
-                                        xmlns="http://www.w3.org/2000/svg">
-                                        <circle cx="40" cy="40" r="40" fill="rgba(255, 255, 255, 0.15)" />
-                                        <path d="M40 20L50 30L40 40L30 30L40 20Z" stroke="white" stroke-width="3"
-                                            stroke-linecap="round" stroke-linejoin="round" />
-                                        <path d="M40 40L50 50L40 60L30 50L40 40Z" stroke="white" stroke-width="3"
-                                            stroke-linecap="round" stroke-linejoin="round" />
-                                    </svg>
-                                </div>
-                                <h4 class="it-enquiry-form-title text-center mb-40">Request Your Course Prospectus</h4>
-                                <form class="it-enquiry-form" action="#">
-                                    <div class="row g-4">
-                                        <div class="col-md-6">
-                                            <div class="it-enquiry-input-group">
-                                                <label for="enquiry-first-name" class="it-enquiry-label">
-                                                    <svg width="18" height="18" viewBox="0 0 18 18" fill="none"
-                                                        xmlns="http://www.w3.org/2000/svg">
-                                                        <path
-                                                            d="M9 9C11.0711 9 12.75 7.32107 12.75 5.25C12.75 3.17893 11.0711 1.5 9 1.5C6.92893 1.5 5.25 3.17893 5.25 5.25C5.25 7.32107 6.92893 9 9 9Z"
-                                                            stroke="currentColor" stroke-width="1.5"
-                                                            stroke-linecap="round" stroke-linejoin="round" />
-                                                        <path
-                                                            d="M15.75 16.5C15.75 13.2574 12.7279 10.5 9 10.5C5.27208 10.5 2.25 13.2574 2.25 16.5"
-                                                            stroke="currentColor" stroke-width="1.5"
-                                                            stroke-linecap="round" stroke-linejoin="round" />
-                                                    </svg>
-                                                    First Name
-                                                </label>
-                                                <input type="text" id="enquiry-first-name" class="it-enquiry-input"
-                                                    placeholder="Enter your first name" required>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <div class="it-enquiry-input-group">
-                                                <label for="enquiry-last-name" class="it-enquiry-label">
-                                                    <svg width="18" height="18" viewBox="0 0 18 18" fill="none"
-                                                        xmlns="http://www.w3.org/2000/svg">
-                                                        <path
-                                                            d="M9 9C11.0711 9 12.75 7.32107 12.75 5.25C12.75 3.17893 11.0711 1.5 9 1.5C6.92893 1.5 5.25 3.17893 5.25 5.25C5.25 7.32107 6.92893 9 9 9Z"
-                                                            stroke="currentColor" stroke-width="1.5"
-                                                            stroke-linecap="round" stroke-linejoin="round" />
-                                                        <path
-                                                            d="M15.75 16.5C15.75 13.2574 12.7279 10.5 9 10.5C5.27208 10.5 2.25 13.2574 2.25 16.5"
-                                                            stroke="currentColor" stroke-width="1.5"
-                                                            stroke-linecap="round" stroke-linejoin="round" />
-                                                    </svg>
-                                                    Last Name
-                                                </label>
-                                                <input type="text" id="enquiry-last-name" class="it-enquiry-input"
-                                                    placeholder="Enter your last name" required>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <div class="it-enquiry-input-group">
-                                                <label for="enquiry-email" class="it-enquiry-label">
-                                                    <svg width="18" height="18" viewBox="0 0 18 18" fill="none"
-                                                        xmlns="http://www.w3.org/2000/svg">
-                                                        <path
-                                                            d="M15.75 3.75H2.25C1.42157 3.75 0.75 4.42157 0.75 5.25V12.75C0.75 13.5784 1.42157 14.25 2.25 14.25H15.75C16.5784 14.25 17.25 13.5784 17.25 12.75V5.25C17.25 4.42157 16.5784 3.75 15.75 3.75Z"
-                                                            stroke="currentColor" stroke-width="1.5"
-                                                            stroke-linecap="round" stroke-linejoin="round" />
-                                                        <path d="M0.75 5.25L9 9.75L17.25 5.25" stroke="currentColor"
-                                                            stroke-width="1.5" stroke-linecap="round"
-                                                            stroke-linejoin="round" />
-                                                    </svg>
-                                                    Email Address
-                                                </label>
-                                                <input type="email" id="enquiry-email" class="it-enquiry-input"
-                                                    placeholder="your.email@example.com" required>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <div class="it-enquiry-input-group">
-                                                <label for="enquiry-phone" class="it-enquiry-label">
-                                                    <svg width="18" height="18" viewBox="0 0 18 18" fill="none"
-                                                        xmlns="http://www.w3.org/2000/svg">
-                                                        <path
-                                                            d="M15.75 12.75V15.75C15.75 16.1642 15.5858 16.5625 15.2929 16.8554C14.9999 17.1483 14.6016 17.3125 14.1875 17.3125C7.5 17.3125 2.0625 11.875 2.0625 5.1875C2.0625 4.77337 2.22668 4.37505 2.51958 4.08215C2.81248 3.78925 3.2108 3.625 3.625 3.625H6.625C7.03916 3.625 7.43748 3.78925 7.73038 4.08215C8.02328 4.37505 8.1875 4.77337 8.1875 5.1875C8.1875 6.01562 8.35168 6.82812 8.66406 7.57812C8.97644 8.32812 9.42969 8.99937 9.99219 9.5625C10.5547 10.1256 11.226 10.5789 11.976 10.8913C12.726 11.2037 13.5385 11.3679 14.3666 11.3679C14.7808 11.3679 15.1791 11.5321 15.472 11.825C15.7649 12.1179 15.9291 12.5162 15.9291 12.9304L15.75 12.75Z"
-                                                            stroke="currentColor" stroke-width="1.5"
-                                                            stroke-linecap="round" stroke-linejoin="round" />
-                                                    </svg>
-                                                    Phone Number
-                                                </label>
-                                                <input type="tel" id="enquiry-phone" class="it-enquiry-input"
-                                                    placeholder="+44 123 456 7890" required>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <div class="it-enquiry-input-group">
-                                                <label for="enquiry-country" class="it-enquiry-label">
-                                                    <svg width="18" height="18" viewBox="0 0 18 18" fill="none"
-                                                        xmlns="http://www.w3.org/2000/svg">
-                                                        <path
-                                                            d="M9 1.5C5.27208 1.5 2.25 4.52208 2.25 8.25C2.25 11.9779 5.27208 15 9 15C12.7279 15 15.75 11.9779 15.75 8.25C15.75 4.52208 12.7279 1.5 9 1.5Z"
-                                                            stroke="currentColor" stroke-width="1.5"
-                                                            stroke-linecap="round" stroke-linejoin="round" />
-                                                        <path
-                                                            d="M9 1.5V15M9 1.5C11.4853 1.5 13.5 4.52208 13.5 8.25C13.5 11.9779 11.4853 15 9 15M9 1.5C6.51472 1.5 4.5 4.52208 4.5 8.25C4.5 11.9779 6.51472 15 9 15"
-                                                            stroke="currentColor" stroke-width="1.5"
-                                                            stroke-linecap="round" stroke-linejoin="round" />
-                                                    </svg>
-                                                    Country
-                                                </label>
-                                                <select id="enquiry-country" class="it-enquiry-select" required>
-                                                    <option value="">Select your country</option>
-                                                    <option value="uk">United Kingdom</option>
-                                                    <option value="us">United States</option>
-                                                    <option value="ca">Canada</option>
-                                                    <option value="au">Australia</option>
-                                                    <option value="nz">New Zealand</option>
-                                                    <option value="ie">Ireland</option>
-                                                    <option value="other">Other</option>
-                                                </select>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <div class="it-enquiry-input-group">
-                                                <label for="enquiry-course" class="it-enquiry-label">
-                                                    <svg width="18" height="18" viewBox="0 0 18 18" fill="none"
-                                                        xmlns="http://www.w3.org/2000/svg">
-                                                        <path
-                                                            d="M9 1.5L11.25 6.75L17.25 7.5L13.125 11.25L14.25 17.25L9 14.25L3.75 17.25L4.875 11.25L0.75 7.5L6.75 6.75L9 1.5Z"
-                                                            stroke="currentColor" stroke-width="1.5"
-                                                            stroke-linecap="round" stroke-linejoin="round" />
-                                                    </svg>
-                                                    Course Interest
-                                                </label>
-                                                <select id="enquiry-course" class="it-enquiry-select" required>
-                                                    <option value="">Select your course</option>
-                                                    <option value="igcse-biology">IGCSE Biology</option>
-                                                    <option value="igcse-chemistry">IGCSE Chemistry</option>
-                                                    <option value="igcse-physics">IGCSE Physics</option>
-                                                    <option value="a-level-biology">A Level Biology</option>
-                                                    <option value="other">Other Courses</option>
-                                                </select>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="it-enquiry-form-submit text-center mt-40">
-                                        <button type="submit" class="it-enquiry-submit-btn">
-                                            <span class="it-enquiry-btn-text">Get My Prospectus</span>
-                                            <span class="it-enquiry-btn-icon">
-                                                <svg width="20" height="20" viewBox="0 0 20 20" fill="none"
-                                                    xmlns="http://www.w3.org/2000/svg">
-                                                    <path
-                                                        d="M4.16667 10H15.8333M15.8333 10L10.8333 5M15.8333 10L10.8333 15"
-                                                        stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                                                        stroke-linejoin="round" />
-                                                </svg>
-                                            </span>
-                                        </button>
-                                    </div>
-                                </form>
-                            </div>
+             <section class="it-enquiry-form-area pt-100 pb-100 position-relative overflow-hidden">
+         <div class="it-enquiry-form-shape-1"></div>
+         <div class="it-enquiry-form-shape-2"></div>
+         <div class="container">
+            <div class="row justify-content-center">
+               <div class="col-xl-10">
+                  <div class="it-enquiry-form-wrapper">
+                     <div class="it-enquiry-form-header text-center mb-50">
+                        <h3 class="it-enquiry-form-main-title mb-15">Discover More About Our Programme</h3>
+                        <p class="it-enquiry-form-subtitle">Request your comprehensive course prospectus and learn how
+                           we can help you achieve your academic goals.</p>
+                     </div>
+                     <div class="it-enquiry-form-box">
+                        <div class="it-enquiry-form-icon mb-30">
+                           <svg width="80" height="80" viewBox="0 0 80 80" fill="none"
+                              xmlns="http://www.w3.org/2000/svg">
+                              <circle cx="40" cy="40" r="40" fill="rgba(255, 255, 255, 0.15)" />
+                              <path d="M40 20L50 30L40 40L30 30L40 20Z" stroke="white" stroke-width="3"
+                                 stroke-linecap="round" stroke-linejoin="round" />
+                              <path d="M40 40L50 50L40 60L30 50L40 40Z" stroke="white" stroke-width="3"
+                                 stroke-linecap="round" stroke-linejoin="round" />
+                           </svg>
                         </div>
-                    </div>
-                </div>
+                        <h4 class="it-enquiry-form-title text-center mb-40">Request Your Course Prospectus</h4>
+                        <div class="crm-iframe-wrapper">
+                           <iframe src="https://crm.gordon-college.com/forms/wtl/3949e37e3a3212e662ce116f0b2eb669" frameborder="0" allowfullscreen style="width: 100%; height: 100%; pointer-events: auto; position: relative; z-index: 100;"></iframe>
+                        </div>
+                     </div>
+                  </div>
+               </div>
             </div>
-        </section>
+         </div>
+      </section>
         <!-- enquiry-form-area-end -->
 
         <!-- faq-area-start -->
@@ -1385,7 +1245,7 @@
                     <div class="col-xl-7 col-lg-6 wow itfadeLeft" data-wow-duration=".9s" data-wow-delay=".5s">
                         <div class="it-faq-left">
                             <div class="it-faq-section-title-box mb-40">
-                                <span class="it-section-subtitle">Faq’s</span>
+                                <span class="it-section-subtitle">Faqï¿½s</span>
                                 <h4 class="it-section-title">Frequently Asked <br>
                                     <span class="z-index-1">
                                         Questions
@@ -1417,7 +1277,7 @@
                                             aria-labelledby="headingOne2" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
                                                 <p>Our experienced advisers understand all our programmes and guide you
-                                                    based on your goals, career plans, and future study options. </p>
+                                                    based on your goals, career plans, and future study options.ï¿½</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1432,8 +1292,8 @@
                                         <div id="collapseTwo3" class="accordion-collapse collapse"
                                             aria-labelledby="headingTwo3" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
-                                                <p>We assist you at every step — from course selection to enrolment and
-                                                    choosing suitable finance options. </p>
+                                                <p>We assist you at every step ï¿½ from course selection to enrolment and
+                                                    choosing suitable finance options.ï¿½</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1449,7 +1309,7 @@
                                             aria-labelledby="headingFour4" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
                                                 <p>The QMB ensures high academic standards by regularly reviewing course
-                                                    quality, assessments, content, and student feedback. </p>
+                                                    quality, assessments, content, and student feedback.ï¿½</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1465,7 +1325,7 @@
                                             aria-labelledby="headingFour5" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
                                                 <p>Yes. Our programmes are aligned with OFQUAL standards and verified by
-                                                    OFQUAL-recognised awarding organisations. </p>
+                                                    OFQUAL-recognised awarding organisations.ï¿½</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1577,7 +1437,7 @@
                                         </svg>
                                     </span>
                                 </span>
-                                <br>Let’s Talk To Us Today
+                                <br>Letï¿½s Talk To Us Today
                             </h4>
                             <a href="contact-us.php" class="it-btn-yellow white-bg">
                                 <span>

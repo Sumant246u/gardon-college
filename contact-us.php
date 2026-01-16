@@ -198,9 +198,9 @@
          </div>
       </div>
    </section> -->
-   <section class="it-map-area container pb-70">
+   <!-- <section class="it-map-area container pb-70">
      <iframe width="600" height="850" src="https://crm.gordon-college.com/forms/wtl/3949e37e3a3212e662ce116f0b2eb669" frameborder="0" sandbox="allow-top-navigation allow-forms allow-scripts allow-same-origin allow-popups" allowfullscreen></iframe>
-   </section>
+   </section> -->
    <!-- map-area-end -->
 
    <!-- cta-area-start -->

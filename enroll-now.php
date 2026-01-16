@@ -47,156 +47,40 @@
 
 
    <!-- enroll-area-start -->
-   <div class="it-enroll-area pt-130 pb-130">
-      <div class="container">
-         <div class="row justify-content-center">
-            <div class="col-lg-10">
-               <div class="it-enroll-form-wrapper">
-                  <div class="it-enroll-form-header text-center mb-50">
-                     <h4 class="it-section-title mb-15">Enrollment Form</h4>
-                     <p class="mb-0">Please fill in all the required information to complete your enrollment.</p>
+   <section class="it-enquiry-form-area pt-100 pb-100 position-relative overflow-hidden">
+         <div class="it-enquiry-form-shape-1"></div>
+         <div class="it-enquiry-form-shape-2"></div>
+         <div class="container">
+            <div class="row justify-content-center">
+               <div class="col-xl-10">
+                  <div class="it-enquiry-form-wrapper">
+                     <!-- <div class="it-enquiry-form-header text-center mb-50">
+                        <h3 class="it-enquiry-form-main-title mb-15">Discover More About Our Programme</h3>
+                        <p class="it-enquiry-form-subtitle">Request your comprehensive course prospectus and learn how
+                           we can help you achieve your academic goals.</p>
+                     </div> -->
+                     <div class="it-enquiry-form-box">
+                        <div class="it-enquiry-form-icon mb-30">
+                           <svg width="80" height="80" viewBox="0 0 80 80" fill="none"
+                              xmlns="http://www.w3.org/2000/svg">
+                              <circle cx="40" cy="40" r="40" fill="rgba(255, 255, 255, 0.15)" />
+                              <path d="M40 20L50 30L40 40L30 30L40 20Z" stroke="white" stroke-width="3"
+                                 stroke-linecap="round" stroke-linejoin="round" />
+                              <path d="M40 40L50 50L40 60L30 50L40 40Z" stroke="white" stroke-width="3"
+                                 stroke-linecap="round" stroke-linejoin="round" />
+                           </svg>
+                        </div>
+                        <h4 class="it-enquiry-form-title text-center mb-40">Enrollment Form
+                        </h4>
+                        <div class="crm-iframe-wrapper">
+                           <iframe src="https://crm.gordon-college.com/forms/wtl/3949e37e3a3212e662ce116f0b2eb669" frameborder="0" allowfullscreen style="width: 100%; height: 100%; pointer-events: auto; position: relative; z-index: 100;"></iframe>
+                        </div>
+                     </div>
                   </div>
-                  <form class="it-enroll-form" action="#" method="POST">
-                     <!-- Personal Information Section -->
-                     <div class="it-enroll-form-section mb-40">
-                        <h5 class="it-enroll-section-title mb-30">Personal Information</h5>
-                        <div class="row">
-                           <div class="col-md-6">
-                              <div class="it-signup-input mb-30">
-                                 <label>First Name <span class="text-danger">*</span></label>
-                                 <input type="text" name="first_name" placeholder="First Name" required>
-                              </div>
-                           </div>
-                           <div class="col-md-6">
-                              <div class="it-signup-input mb-30">
-                                 <label>Last Name <span class="text-danger">*</span></label>
-                                 <input type="text" name="last_name" placeholder="Last Name" required>
-                              </div>
-                           </div>
-                           <div class="col-md-6">
-                              <div class="it-signup-input mb-30">
-                                 <label>Email Address <span class="text-danger">*</span></label>
-                                 <input type="email" name="email" placeholder="Email Address" required>
-                              </div>
-                           </div>
-                           <div class="col-md-6">
-                              <div class="it-signup-input mb-30">
-                                 <label>Phone Number <span class="text-danger">*</span></label>
-                                 <input type="tel" name="phone" placeholder="Phone Number" required>
-                              </div>
-                           </div>
-                           <!-- <div class="col-md-6">
-                              <div class="it-signup-input mb-30">
-                                 <label>Date of Birth <span class="text-danger">*</span></label>
-                                 <input type="date" name="date_of_birth" required>
-                              </div>
-                           </div>
-                           <div class="col-md-6">
-                              <div class="it-signup-input mb-30">
-                                 <label>Country <span class="text-danger">*</span></label>
-                                 <select name="country" id="enquiry-country" class="it-enroll-select" required>
-                                    <option value="">Select your country</option>
-                                 </select>
-                              </div>
-                           </div> -->
-                          
-                           <div class="col-md-6">
-                              <div class="it-signup-input mb-30">
-                                 <label>City <span class="text-danger">*</span></label>
-                                 <input type="text" name="city" placeholder="City" required>
-                              </div>
-                           </div>
-                           <div class="col-md-6">
-                              <div class="it-signup-input mb-30">
-                                 <label>Postal Code <span class="text-danger">*</span></label>
-                                 <input type="text" name="postal_code" placeholder="Postal Code" required>
-                              </div>
-                           </div>
-                           <div class="col-md-6">
-                              <div class="it-signup-input mb-30">
-                                 <label>Address <span class="text-danger"></span></label>
-                                 <input type="text" name="address" placeholder="Street Address" required>
-                              </div>
-                           </div>
-                           <div class="col-md-6">
-                              <div class="it-signup-input mb-30">
-                                 <label>Messages <span class="text-danger"></span></label>
-                                 <input type="text" name="address" placeholder="Messages" required>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-
-                     <!-- Course Selection Section -->
-                     <!-- <div class="it-enroll-form-section mb-40">
-                        <h5 class="it-enroll-section-title mb-30">Course Selection</h5>
-                        <div class="row">
-                           <div class="col-12">
-                              <div class="it-signup-input mb-30">
-                                 <label>Select Course <span class="text-danger">*</span></label>
-                                 <select name="course" id="enquiry-course" class="it-enroll-select" required>
-                                    <option value="">Select your course</option>
-                                 </select>
-                              </div>
-                           </div>
-                        </div>
-                     </div> -->
-
-                     <!-- Payment Method Section -->
-                     <!-- <div class="it-enroll-form-section mb-40">
-                        <h5 class="it-enroll-section-title mb-30">Payment Method</h5>
-                        <div class="it-enroll-payment-options">
-                           <div class="it-radio-box">
-                              <label class="it-radio-label">
-                                 <input type="radio" name="payment_method" value="full_payment" required>
-                                 <span>Full Payment</span>
-                              </label>
-                              <label class="it-radio-label">
-                                 <input type="radio" name="payment_method" value="monthly_installments" required>
-                                 <span>Monthly Installments</span>
-                              </label>
-                              <label class="it-radio-label">
-                                 <input type="radio" name="payment_method" value="bank_transfer" required>
-                                 <span>Bank Transfer</span>
-                              </label>
-                              <label class="it-radio-label">
-                                 <input type="radio" name="payment_method" value="elcas_funding" required>
-                                 <span>ELCAS Funding</span>
-                              </label>
-                           </div>
-                        </div>
-                     </div> -->
-
-                     <!-- Terms and Conditions -->
-                     <!-- <div class="it-enroll-form-section mb-40">
-                        <div class="it-enroll-checkbox">
-                           <label class="it-checkbox-label">
-                              <input type="checkbox" name="terms" required>
-                              <span>I agree to the <a href="#" class="it-enroll-link">Terms and Conditions</a> and <a href="#" class="it-enroll-link">Privacy Policy</a> <span class="text-danger">*</span></span>
-                           </label>
-                        </div>
-                     </div> -->
-
-                     <!-- Submit Button -->
-                     <div class="it-enroll-form-submit text-center">
-                        <button type="submit" class="it-btn-yellow theme-bg">
-                           <span>
-                              <span class="text-1">Submit Enrollment</span>
-                              <span class="text-2">Submit Enrollment</span>
-                           </span>
-                           <i>
-                              <svg width="16" height="15" viewBox="0 0 16 15" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M15.0544 8.1364C15.4058 7.78492 15.4058 7.21508 15.0544 6.8636L9.3268 1.13604C8.97533 0.784567 8.40548 0.784567 8.05401 1.13604C7.70254 1.48751 7.70254 2.05736 8.05401 2.40883L13.1452 7.5L8.05401 12.5912C7.70254 12.9426 7.70254 13.5125 8.05401 13.864C8.40548 14.2154 8.97533 14.2154 9.3268 13.864L15.0544 8.1364ZM0.417969 7.5V8.4H14.418V7.5V6.6H0.417969V7.5Z" fill="currentcolor" />
-                              </svg>
-                           </i>
-                        </button>
-                     </div>
-                  </form>
                </div>
             </div>
          </div>
-      </div>
-   </div>
+      </section>
    <!-- enroll-area-end -->
 
 

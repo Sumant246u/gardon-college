@@ -217,11 +217,11 @@
                                             <div class="it-course-info-content">
                                                 <span class="it-course-info-label">Ofqual Link</span>
                                                 <p class="mb-0">
-                                                    Level 4 Diploma in Tourism and Hospitality Management –
+                                                    Level 4 Diploma in Tourism and Hospitality Management ï¿½
                                                     <a href="https://find-a-qualification.services.ofqual.gov.uk/qualifications/61007833"
                                                         target="_blank"> 610/0783/3</a>
                                                     <br>
-                                                    Level 5 Diploma in Tourism and Hospitality Management –
+                                                    Level 5 Diploma in Tourism and Hospitality Management ï¿½
                                                     <a href="https://find-a-qualification.services.ofqual.gov.uk/qualifications/61015222"
                                                         target="_blank">610/1522/2</a>
                                                 </p>
@@ -434,7 +434,7 @@
                                             </p>
 
                                             <p class="mb-20">
-                                                To complete this online Tourism and Hospitality Management course you'll submit <strong>6 online assignments at each level</strong>, and assignments are approximately <strong>2,000 – 3,000 words</strong> each. Once you've passed your online Hospitality and Hotel Management course, you'll be awarded with a <strong>OTHM diploma in Tourism and Hospitality Management</strong> and you'll be able to top up your qualification to a bachelor's degree at a range of UK universities.
+                                                To complete this online Tourism and Hospitality Management course you'll submit <strong>6 online assignments at each level</strong>, and assignments are approximately <strong>2,000 ï¿½ 3,000 words</strong> each. Once you've passed your online Hospitality and Hotel Management course, you'll be awarded with a <strong>OTHM diploma in Tourism and Hospitality Management</strong> and you'll be able to top up your qualification to a bachelor's degree at a range of UK universities.
                                             </p>
 
                                             <p class="mb-20">
@@ -519,7 +519,7 @@
                                             <p class="mb-20"><strong>Assessments</strong></p>
 
                                             <p class="mb-20">
-                                                The OTHM Level 4 & 5 diploma in Hospitality and Tourism Management is made up of <strong>12 modules</strong>, with <strong>6 written assignments</strong> at each level. Once you've completed the modules, you'll be given access to the assignments and each assignment is approximately <strong>2,000 – 3,000 words</strong>. Your assignment will then be submitted to your personal tutor for marking and feedback.
+                                                The OTHM Level 4 & 5 diploma in Hospitality and Tourism Management is made up of <strong>12 modules</strong>, with <strong>6 written assignments</strong> at each level. Once you've completed the modules, you'll be given access to the assignments and each assignment is approximately <strong>2,000 ï¿½ 3,000 words</strong>. Your assignment will then be submitted to your personal tutor for marking and feedback.
                                             </p>
 
                                             <p class="mb-20"><strong>The assignment titles for the Level 4 Diploma in Tourism and Hospitality Management course are:</strong></p>
@@ -575,18 +575,18 @@
                                         <h3 class="it-course-info-title mb-25">Cost and payments</h3>
                                         <div class="it-course-info-text">
                                             <div class="it-course-price-box mb-30">
-                                                <h4 class="mb-10">Level 4: <span class="it-price-amount">£2,900</span></h4>
-                                                <p class="mb-20">Enrol with a <strong>£20 deposit</strong> and then <strong>£120 a month for 24 months</strong>, interest free.</p>
+                                                <h4 class="mb-10">Level 4: <span class="it-price-amount">ï¿½2,900</span></h4>
+                                                <p class="mb-20">Enrol with a <strong>ï¿½20 deposit</strong> and then <strong>ï¿½120 a month for 24 months</strong>, interest free.</p>
                                             </div>
 
                                             <div class="it-course-price-box mb-30">
-                                                <h4 class="mb-10">Level 5: <span class="it-price-amount">£2,900</span></h4>
-                                                <p class="mb-20">Enrol with a <strong>£20 deposit</strong> and then <strong>£120 a month for 24 months</strong>, interest free.</p>
+                                                <h4 class="mb-10">Level 5: <span class="it-price-amount">ï¿½2,900</span></h4>
+                                                <p class="mb-20">Enrol with a <strong>ï¿½20 deposit</strong> and then <strong>ï¿½120 a month for 24 months</strong>, interest free.</p>
                                             </div>
 
                                             <div class="it-course-price-box mb-30">
-                                                <h4 class="mb-10">Level 4 & 5: <span class="it-price-amount">£3,500</span></h4>
-                                                <p class="mb-20">Enrol with a <strong>£20 deposit</strong> and then <strong>£145 a month for 24 months</strong>, interest free.</p>
+                                                <h4 class="mb-10">Level 4 & 5: <span class="it-price-amount">ï¿½3,500</span></h4>
+                                                <p class="mb-20">Enrol with a <strong>ï¿½20 deposit</strong> and then <strong>ï¿½145 a month for 24 months</strong>, interest free.</p>
                                             </div>
 
                                             <p class="mb-20">Students can make payment using one of the following methods:</p>
@@ -641,7 +641,7 @@
                                             <ul class="it-course-info-list">
                                                 <li><strong>University of Derby: </strong><a href="https://www.derby.ac.uk/online/hospitality-management-courses/international-hospitality-business-management-top-up-ba-hons-online/" class="it-course-info-link" target="_blank" rel="noopener">International Hospitality Business Management (Top-Up)</a></li>
                                                 <li><strong>Bournemouth University: </strong><a href="https://www1.bournemouth.ac.uk/study/courses/ba-hons-international-hospitality-tourism-management-0" class="it-course-info-link" target="_blank" rel="noopener">BA (Hons) International Hospitality & Tourism Management</a></li>
-                                                <li><strong>University of Central Lancashire: </strong><a href="http://www.uclan.ac.uk/courses/ba_hons_management_in_hospitality_final_year_top_up.php" class="it-course-info-link" target="_blank" rel="noopener">Management in Hospitality BA – Top up</a></li>
+                                                <li><strong>University of Central Lancashire: </strong><a href="http://www.uclan.ac.uk/courses/ba_hons_management_in_hospitality_final_year_top_up.php" class="it-course-info-link" target="_blank" rel="noopener">Management in Hospitality BA ï¿½ Top up</a></li>
                                                 <li><strong>University of Sunderland: </strong><a href="http://london.sunderland.ac.uk/courses/tourismandevents/international-tourism-hospitality-management-topup/" class="it-course-info-link" target="_blank" rel="noopener">International Tourism and Hospitality Management (Top-Up) BSc (Hons)</a></li>
                                                 <li><strong>University of Northampton: </strong><a href="https://www.northampton.ac.uk/study/courses/international-tourism-management-topup-ba-hons/" class="it-course-info-link" target="_blank" rel="noopener">International Tourism Management (Top-Up) BA </a></li>
                                                 <li><strong>Middlesex University London: </strong><a href="https://www.mdx.ac.uk/courses/undergraduate/international-hospitality-and-tourism-management-top-up" class="it-course-info-link" target="_blank" rel="noopener">BSc Honours International Hospitality and Tourism Management top-up</a></li>
@@ -770,179 +770,39 @@
         <!-- why-enrol-area-end -->
 
         <!-- enquiry-form-area-start -->
-        <section class="it-enquiry-form-area pt-100 pb-100 position-relative overflow-hidden">
-            <div class="it-enquiry-form-shape-1"></div>
-            <div class="it-enquiry-form-shape-2"></div>
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-xl-10">
-                        <div class="it-enquiry-form-wrapper">
-                            <div class="it-enquiry-form-header text-center mb-50">
-                                <h3 class="it-enquiry-form-main-title mb-15">Discover More About Our Programme</h3>
-                                <p class="it-enquiry-form-subtitle">Request your comprehensive course prospectus and
-                                    learn how we can help you achieve your academic..</p>
-                            </div>
-                            <div class="it-enquiry-form-box">
-                                <div class="it-enquiry-form-icon mb-30">
-                                    <svg width="80" height="80" viewBox="0 0 80 80" fill="none"
-                                        xmlns="http://www.w3.org/2000/svg">
-                                        <circle cx="40" cy="40" r="40" fill="rgba(255, 255, 255, 0.15)" />
-                                        <path d="M40 20L50 30L40 40L30 30L40 20Z" stroke="white" stroke-width="3"
-                                            stroke-linecap="round" stroke-linejoin="round" />
-                                        <path d="M40 40L50 50L40 60L30 50L40 40Z" stroke="white" stroke-width="3"
-                                            stroke-linecap="round" stroke-linejoin="round" />
-                                    </svg>
-                                </div>
-                                <h4 class="it-enquiry-form-title text-center mb-40">Request Your Course Prospectus</h4>
-                                <form class="it-enquiry-form" action="#">
-                                    <div class="row g-4">
-                                        <div class="col-md-6">
-                                            <div class="it-enquiry-input-group">
-                                                <label for="enquiry-first-name" class="it-enquiry-label">
-                                                    <svg width="18" height="18" viewBox="0 0 18 18" fill="none"
-                                                        xmlns="http://www.w3.org/2000/svg">
-                                                        <path
-                                                            d="M9 9C11.0711 9 12.75 7.32107 12.75 5.25C12.75 3.17893 11.0711 1.5 9 1.5C6.92893 1.5 5.25 3.17893 5.25 5.25C5.25 7.32107 6.92893 9 9 9Z"
-                                                            stroke="currentColor" stroke-width="1.5"
-                                                            stroke-linecap="round" stroke-linejoin="round" />
-                                                        <path
-                                                            d="M15.75 16.5C15.75 13.2574 12.7279 10.5 9 10.5C5.27208 10.5 2.25 13.2574 2.25 16.5"
-                                                            stroke="currentColor" stroke-width="1.5"
-                                                            stroke-linecap="round" stroke-linejoin="round" />
-                                                    </svg>
-                                                    First Name
-                                                </label>
-                                                <input type="text" id="enquiry-first-name" class="it-enquiry-input"
-                                                    placeholder="Enter your first name" required>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <div class="it-enquiry-input-group">
-                                                <label for="enquiry-last-name" class="it-enquiry-label">
-                                                    <svg width="18" height="18" viewBox="0 0 18 18" fill="none"
-                                                        xmlns="http://www.w3.org/2000/svg">
-                                                        <path
-                                                            d="M9 9C11.0711 9 12.75 7.32107 12.75 5.25C12.75 3.17893 11.0711 1.5 9 1.5C6.92893 1.5 5.25 3.17893 5.25 5.25C5.25 7.32107 6.92893 9 9 9Z"
-                                                            stroke="currentColor" stroke-width="1.5"
-                                                            stroke-linecap="round" stroke-linejoin="round" />
-                                                        <path
-                                                            d="M15.75 16.5C15.75 13.2574 12.7279 10.5 9 10.5C5.27208 10.5 2.25 13.2574 2.25 16.5"
-                                                            stroke="currentColor" stroke-width="1.5"
-                                                            stroke-linecap="round" stroke-linejoin="round" />
-                                                    </svg>
-                                                    Last Name
-                                                </label>
-                                                <input type="text" id="enquiry-last-name" class="it-enquiry-input"
-                                                    placeholder="Enter your last name" required>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <div class="it-enquiry-input-group">
-                                                <label for="enquiry-email" class="it-enquiry-label">
-                                                    <svg width="18" height="18" viewBox="0 0 18 18" fill="none"
-                                                        xmlns="http://www.w3.org/2000/svg">
-                                                        <path
-                                                            d="M15.75 3.75H2.25C1.42157 3.75 0.75 4.42157 0.75 5.25V12.75C0.75 13.5784 1.42157 14.25 2.25 14.25H15.75C16.5784 14.25 17.25 13.5784 17.25 12.75V5.25C17.25 4.42157 16.5784 3.75 15.75 3.75Z"
-                                                            stroke="currentColor" stroke-width="1.5"
-                                                            stroke-linecap="round" stroke-linejoin="round" />
-                                                        <path d="M0.75 5.25L9 9.75L17.25 5.25" stroke="currentColor"
-                                                            stroke-width="1.5" stroke-linecap="round"
-                                                            stroke-linejoin="round" />
-                                                    </svg>
-                                                    Email Address
-                                                </label>
-                                                <input type="email" id="enquiry-email" class="it-enquiry-input"
-                                                    placeholder="your.email@example.com" required>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <div class="it-enquiry-input-group">
-                                                <label for="enquiry-phone" class="it-enquiry-label">
-                                                    <svg width="18" height="18" viewBox="0 0 18 18" fill="none"
-                                                        xmlns="http://www.w3.org/2000/svg">
-                                                        <path
-                                                            d="M15.75 12.75V15.75C15.75 16.1642 15.5858 16.5625 15.2929 16.8554C14.9999 17.1483 14.6016 17.3125 14.1875 17.3125C7.5 17.3125 2.0625 11.875 2.0625 5.1875C2.0625 4.77337 2.22668 4.37505 2.51958 4.08215C2.81248 3.78925 3.2108 3.625 3.625 3.625H6.625C7.03916 3.625 7.43748 3.78925 7.73038 4.08215C8.02328 4.37505 8.1875 4.77337 8.1875 5.1875C8.1875 6.01562 8.35168 6.82812 8.66406 7.57812C8.97644 8.32812 9.42969 8.99937 9.99219 9.5625C10.5547 10.1256 11.226 10.5789 11.976 10.8913C12.726 11.2037 13.5385 11.3679 14.3666 11.3679C14.7808 11.3679 15.1791 11.5321 15.472 11.825C15.7649 12.1179 15.9291 12.5162 15.9291 12.9304L15.75 12.75Z"
-                                                            stroke="currentColor" stroke-width="1.5"
-                                                            stroke-linecap="round" stroke-linejoin="round" />
-                                                    </svg>
-                                                    Phone Number
-                                                </label>
-                                                <input type="tel" id="enquiry-phone" class="it-enquiry-input"
-                                                    placeholder="+44 123 456 7890" required>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <div class="it-enquiry-input-group">
-                                                <label for="enquiry-country" class="it-enquiry-label">
-                                                    <svg width="18" height="18" viewBox="0 0 18 18" fill="none"
-                                                        xmlns="http://www.w3.org/2000/svg">
-                                                        <path
-                                                            d="M9 1.5C5.27208 1.5 2.25 4.52208 2.25 8.25C2.25 11.9779 5.27208 15 9 15C12.7279 15 15.75 11.9779 15.75 8.25C15.75 4.52208 12.7279 1.5 9 1.5Z"
-                                                            stroke="currentColor" stroke-width="1.5"
-                                                            stroke-linecap="round" stroke-linejoin="round" />
-                                                        <path
-                                                            d="M9 1.5V15M9 1.5C11.4853 1.5 13.5 4.52208 13.5 8.25C13.5 11.9779 11.4853 15 9 15M9 1.5C6.51472 1.5 4.5 4.52208 4.5 8.25C4.5 11.9779 6.51472 15 9 15"
-                                                            stroke="currentColor" stroke-width="1.5"
-                                                            stroke-linecap="round" stroke-linejoin="round" />
-                                                    </svg>
-                                                    Country
-                                                </label>
-                                                <select id="enquiry-country" class="it-enquiry-select" required>
-                                                    <option value="">Select your country</option>
-                                                    <option value="uk">United Kingdom</option>
-                                                    <option value="us">United States</option>
-                                                    <option value="ca">Canada</option>
-                                                    <option value="au">Australia</option>
-                                                    <option value="nz">New Zealand</option>
-                                                    <option value="ie">Ireland</option>
-                                                    <option value="other">Other</option>
-                                                </select>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <div class="it-enquiry-input-group">
-                                                <label for="enquiry-course" class="it-enquiry-label">
-                                                    <svg width="18" height="18" viewBox="0 0 18 18" fill="none"
-                                                        xmlns="http://www.w3.org/2000/svg">
-                                                        <path
-                                                            d="M9 1.5L11.25 6.75L17.25 7.5L13.125 11.25L14.25 17.25L9 14.25L3.75 17.25L4.875 11.25L0.75 7.5L6.75 6.75L9 1.5Z"
-                                                            stroke="currentColor" stroke-width="1.5"
-                                                            stroke-linecap="round" stroke-linejoin="round" />
-                                                    </svg>
-                                                    Course Interest
-                                                </label>
-                                                <select id="enquiry-course" class="it-enquiry-select" required>
-                                                    <option value="">Select your course</option>
-                                                    <option value="igcse-biology">IGCSE Biology</option>
-                                                    <option value="igcse-chemistry">IGCSE Chemistry</option>
-                                                    <option value="igcse-physics">IGCSE Physics</option>
-                                                    <option value="a-level-biology">A Level Biology</option>
-                                                    <option value="other">Other Courses</option>
-                                                </select>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="it-enquiry-form-submit text-center mt-40">
-                                        <button type="submit" class="it-enquiry-submit-btn">
-                                            <span class="it-enquiry-btn-text">Get My Prospectus</span>
-                                            <span class="it-enquiry-btn-icon">
-                                                <svg width="20" height="20" viewBox="0 0 20 20" fill="none"
-                                                    xmlns="http://www.w3.org/2000/svg">
-                                                    <path
-                                                        d="M4.16667 10H15.8333M15.8333 10L10.8333 5M15.8333 10L10.8333 15"
-                                                        stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                                                        stroke-linejoin="round" />
-                                                </svg>
-                                            </span>
-                                        </button>
-                                    </div>
-                                </form>
-                            </div>
+            <section class="it-enquiry-form-area pt-100 pb-100 position-relative overflow-hidden">
+         <div class="it-enquiry-form-shape-1"></div>
+         <div class="it-enquiry-form-shape-2"></div>
+         <div class="container">
+            <div class="row justify-content-center">
+               <div class="col-xl-10">
+                  <div class="it-enquiry-form-wrapper">
+                     <div class="it-enquiry-form-header text-center mb-50">
+                        <h3 class="it-enquiry-form-main-title mb-15">Discover More About Our Programme</h3>
+                        <p class="it-enquiry-form-subtitle">Request your comprehensive course prospectus and learn how
+                           we can help you achieve your academic goals.</p>
+                     </div>
+                     <div class="it-enquiry-form-box">
+                        <div class="it-enquiry-form-icon mb-30">
+                           <svg width="80" height="80" viewBox="0 0 80 80" fill="none"
+                              xmlns="http://www.w3.org/2000/svg">
+                              <circle cx="40" cy="40" r="40" fill="rgba(255, 255, 255, 0.15)" />
+                              <path d="M40 20L50 30L40 40L30 30L40 20Z" stroke="white" stroke-width="3"
+                                 stroke-linecap="round" stroke-linejoin="round" />
+                              <path d="M40 40L50 50L40 60L30 50L40 40Z" stroke="white" stroke-width="3"
+                                 stroke-linecap="round" stroke-linejoin="round" />
+                           </svg>
                         </div>
-                    </div>
-                </div>
+                        <h4 class="it-enquiry-form-title text-center mb-40">Request Your Course Prospectus</h4>
+                        <div class="crm-iframe-wrapper">
+                           <iframe src="https://crm.gordon-college.com/forms/wtl/3949e37e3a3212e662ce116f0b2eb669" frameborder="0" allowfullscreen style="width: 100%; height: 100%; pointer-events: auto; position: relative; z-index: 100;"></iframe>
+                        </div>
+                     </div>
+                  </div>
+               </div>
             </div>
-        </section>
+         </div>
+      </section>
         <!-- enquiry-form-area-end -->
 
         <!-- faq-area-start -->
@@ -953,7 +813,7 @@
                     <div class="col-xl-7 col-lg-6 wow itfadeLeft" data-wow-duration=".9s" data-wow-delay=".5s">
                         <div class="it-faq-left">
                             <div class="it-faq-section-title-box mb-40">
-                                <span class="it-section-subtitle">Faq’s</span>
+                                <span class="it-section-subtitle">Faqï¿½s</span>
                                 <h4 class="it-section-title">Frequently Asked <br>
                                     <span class="z-index-1">
                                         Questions
@@ -985,7 +845,7 @@
                                             aria-labelledby="headingOne2" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
                                                 <p>Our experienced advisers understand all our programmes and guide you
-                                                    based on your goals, career plans, and future study options. </p>
+                                                    based on your goals, career plans, and future study options.ï¿½</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1000,8 +860,8 @@
                                         <div id="collapseTwo3" class="accordion-collapse collapse"
                                             aria-labelledby="headingTwo3" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
-                                                <p>We assist you at every step — from course selection to enrolment and
-                                                    choosing suitable finance options. </p>
+                                                <p>We assist you at every step ï¿½ from course selection to enrolment and
+                                                    choosing suitable finance options.ï¿½</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1017,7 +877,7 @@
                                             aria-labelledby="headingFour4" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
                                                 <p>The QMB ensures high academic standards by regularly reviewing course
-                                                    quality, assessments, content, and student feedback. </p>
+                                                    quality, assessments, content, and student feedback.ï¿½</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1033,7 +893,7 @@
                                             aria-labelledby="headingFour5" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
                                                 <p>Yes. Our programmes are aligned with OFQUAL standards and verified by
-                                                    OFQUAL-recognised awarding organisations. </p>
+                                                    OFQUAL-recognised awarding organisations.ï¿½</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1145,7 +1005,7 @@
                                         </svg>
                                     </span>
                                 </span>
-                                <br>Let’s Talk To Us Today
+                                <br>Letï¿½s Talk To Us Today
                             </h4>
                             <a href="contact-us.php" class="it-btn-yellow white-bg">
                                 <span>
