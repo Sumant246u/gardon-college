@@ -71,8 +71,8 @@
                                 </p>
                                 <p>
                                     This valuable scheme supports serving personnel during their military career and 
-                                    remains accessible for a decade following discharge. Funding ranges from £1,000 
-                                    to £3,000 annually, depending on individual circumstances. To qualify, you must 
+                                    remains accessible for a decade following discharge. Funding ranges from 1,000 
+                                    to 3,000 annually, depending on individual circumstances. To qualify, you must 
                                     have completed at least six years of eligible service.
                                 </p>
                                 <p class="mb-0">
@@ -200,16 +200,16 @@
                                     To access Enhanced Learning Credits (ELC) funding, applicants must have completed 
                                     a minimum of six years of military service. The scheme provides financial support 
                                     covering 80% of your selected course fees, with a maximum contribution cap of 
-                                    £2,000. The remaining 20% of the course cost becomes your responsibility and can 
+                                    Â£2,000. The remaining 20% of the course cost becomes your responsibility and can 
                                     be settled either through a single payment or via our flexible, interest-free 
                                     payment arrangements.
                                 </p>
-                                <p><strong>Six years of service:</strong> Eligible for up to £1,000 per annum</p>
-                                <p><strong>Eight or more years of service:</strong> Eligible for up to £2,000 per annum
+                                <p><strong>Six years of service:</strong> Eligible for up to Â£1,000 per annum</p>
+                                <p><strong>Eight or more years of service:</strong> Eligible for up to Â£2,000 per annum
                                 </p>
                                 <p> <strong>Enhanced single payment option:</strong> Those with six or more years of 
                                     qualifying service completed on or after 1st April 2016 may be eligible for 
-                                    a one-time payment of up to £3,000</p>
+                                    a one-time payment of up to Â£3,000</p>
                               
                                 <p>
                                     Comprehensive information regarding ELC eligibility criteria and application procedures 
@@ -305,7 +305,7 @@
                                         </svg>
                                     </span>
                                 </span>
-                                <br>Let’s Talk To Us Today
+                                <br>Let's Talk To Us Today
                             </h4>
                             <a href="contact-us.php" class="it-btn-yellow white-bg">
                                 <span>

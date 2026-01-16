@@ -113,7 +113,7 @@
                                         <div id="collapseFees" class="accordion-collapse collapse" aria-labelledby="headingFees"
                                             data-bs-parent="#englishCourseAccordion">
                                             <div class="accordion-body">
-                                                <p>The Total cost of the course is <strong>�999</strong></p>
+                                                <p>The Total cost of the course is <strong>£999</strong></p>
                                                 <p>Students can make payment using one of the following methods:</p>
                                                 <ul class="it-course-details-list">
                                                     <li>Credit or debit card</li>
@@ -252,7 +252,7 @@
                                         <div class="it-course-option-content">
                                             <h4 class="it-course-option-title">English Language Course</h4>
                                             <div class="it-course-option-price">
-                                                <span class="price-amount">�999</span>
+                                                <span class="price-amount">£999</span>
                                             </div>
                                             <div class="it-course-option-includes">
                                                 <p class="includes-label">Package includes:</p>
@@ -559,7 +559,7 @@
                     <div class="col-xl-7 col-lg-6 wow itfadeLeft" data-wow-duration=".9s" data-wow-delay=".5s">
                         <div class="it-faq-left">
                             <div class="it-faq-section-title-box mb-40">
-                                <span class="it-section-subtitle">Faq�s</span>
+                                <span class="it-section-subtitle">Faq's</span>
                                 <h4 class="it-section-title">Frequently Asked <br>
                                     <span class="z-index-1">
                                         Questions
@@ -591,7 +591,7 @@
                                             aria-labelledby="headingOne2" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
                                                 <p>Our experienced advisers understand all our programmes and guide you
-                                                    based on your goals, career plans, and future study options.�</p>
+                                                    based on your goals, career plans, and future study options.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -606,8 +606,8 @@
                                         <div id="collapseTwo3" class="accordion-collapse collapse"
                                             aria-labelledby="headingTwo3" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
-                                                <p>We assist you at every step � from course selection to enrolment and
-                                                    choosing suitable finance options.�</p>
+                                                <p>We assist you at every step  from course selection to enrolment and
+                                                    choosing suitable finance options.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -623,7 +623,7 @@
                                             aria-labelledby="headingFour4" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
                                                 <p>The QMB ensures high academic standards by regularly reviewing course
-                                                    quality, assessments, content, and student feedback.�</p>
+                                                    quality, assessments, content, and student feedback.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -639,7 +639,7 @@
                                             aria-labelledby="headingFour5" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
                                                 <p>Yes. Our programmes are aligned with OFQUAL standards and verified by
-                                                    OFQUAL-recognised awarding organisations.�</p>
+                                                    OFQUAL-recognised awarding organisations.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -749,7 +749,7 @@
                                         </svg>
                                     </span>
                                 </span>
-                                <br>Let�s Talk To Us Today
+                                <br>Let's Talk To Us Today
                             </h4>
                             <a href="contact-us.php" class="it-btn-yellow white-bg">
                                 <span>

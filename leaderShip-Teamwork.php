@@ -278,7 +278,7 @@
                             </div>
                             <div class="it-course-intro-text">
                                 <p class="mb-25 fs-5">
-                                    Dream of leading successful teams and driving organisational success? From strategic leadership and team dynamics to conflict resolution and project management – our Leadership and Teamwork Course can set you on the path to success.
+                                    Dream of leading successful teams and driving organisational success? From strategic leadership and team dynamics to conflict resolution and project management . our Leadership and Teamwork Course can set you on the path to success.
                                 </p>
 
                                 <p class="mb-25">
@@ -505,7 +505,7 @@
     
                               <div class="it-subject-topic-item mb-30">
                                 <h5 class="mb-15">Culture and the organisation</h5>
-                                <p class="mb-0">What is culture? What do you associate with culture? Perhaps art and music, perhaps values and beliefs, language and communication, behaviour – in fact, culture is a collection of all of these things. Terpstra and David (1991) define culture as 'a learned, shared, interrelated set of symbols which unite and identify members of a society'.</p>
+                                <p class="mb-0">What is culture? What do you associate with culture? Perhaps art and music, perhaps values and beliefs, language and communication, behaviour , in fact, culture is a collection of all of these things. Terpstra and David (1991) define culture as 'a learned, shared, interrelated set of symbols which unite and identify members of a society'.</p>
                               </div>
     
                               <div class="it-subject-topic-item mb-30">
@@ -525,12 +525,12 @@
     
                               <div class="it-subject-topic-item mb-30">
                                 <h5 class="mb-15">Performance management</h5>
-                                <p class="mb-0">The people in an organisation determine whether the organisation is successful or not. Think for a moment about any organisation – in doing this you will also be thinking about people. Every organisation has people within it, and the success of the organisation is largely due to those people.</p>
+                                <p class="mb-0">The people in an organisation determine whether the organisation is successful or not. Think for a moment about any organisation  in doing this you will also be thinking about people. Every organisation has people within it, and the success of the organisation is largely due to those people.</p>
                               </div>
     
                               <div class="it-subject-topic-item mb-30">
                                 <h5 class="mb-15">Strategic human resource management</h5>
-                                <p class="mb-0">Human Resource Management is the management of a key resource in the organisation – people. Without people there is a limit to what the organisation can achieve. The machines cannot operate without people to work them (even if they are automatic machines there needs to be a person who programmes them). The raw materials need to be turned into something that can be sold: this requires people. The computers need people to operate them.</p>
+                                <p class="mb-0">Human Resource Management is the management of a key resource in the organisation  people. Without people there is a limit to what the organisation can achieve. The machines cannot operate without people to work them (even if they are automatic machines there needs to be a person who programmes them). The raw materials need to be turned into something that can be sold: this requires people. The computers need people to operate them.</p>
                               </div>
     
                               <div class="it-subject-topic-item mb-30">
@@ -660,33 +660,33 @@
                             <div class="it-course-price-box mb-25">
                               <h4 class="mb-10">
                                 Level 4:
-                                <span class="it-price-amount">£2,900</span>
+                                <span class="it-price-amount">Â£2,900</span>
                               </h4>
                               <p class="mb-0">
-                                Enrol with a <strong>£20 deposit</strong> and then
-                                <strong>£120 a month for 24 months</strong>, interest free.
+                                Enrol with a <strong>Â£20 deposit</strong> and then
+                                <strong>Â£120 a month for 24 months</strong>, interest free.
                               </p>
                             </div>
     
                             <div class="it-course-price-box mb-25">
                               <h4 class="mb-10">
                                 Level 5:
-                                <span class="it-price-amount">£2,900</span>
+                                <span class="it-price-amount">Â£2,900</span>
                               </h4>
                               <p class="mb-0">
-                                Enrol with a <strong>£20 deposit</strong> and then
-                                <strong>£120 a month for 24 months</strong>, interest free.
+                                Enrol with a <strong>Â£20 deposit</strong> and then
+                                <strong>Â£120 a month for 24 months</strong>, interest free.
                               </p>
                             </div>
     
                             <div class="it-course-price-box mb-30">
                               <h4 class="mb-10">
                                 Level 4 & 5:
-                                <span class="it-price-amount">£3,500</span>
+                                <span class="it-price-amount">Â£3,500</span>
                               </h4>
                               <p class="mb-0">
-                                Enrol with a <strong>£20 deposit</strong> and then
-                                <strong>£145 a month for 24 months</strong>, interest free.
+                                Enrol with a <strong>Â£20 deposit</strong> and then
+                                <strong>Â£145 a month for 24 months</strong>, interest free.
                               </p>
                             </div>
     
@@ -770,14 +770,14 @@
                                 target="_blank"
                                 >Business Management and Leadership BA (Hons)</a
                               >
-                              – London Campus – £10,000<br>
+                              - London Campus - Â£10,000<br>
                               <a
                                 href="https://www.coventry.ac.uk/cuc/course-structure/hnc-hnd-degree/business-mgt-leadership/?term=2022-23"
                                 class="it-course-info-link"
                                 target="_blank"
                                 >Business Management and Leadership BA (Hons)</a
                               >
-                              – Coventry Campus- £10,000
+                              - Coventry Campus- Â£10,000
                             </p>
     
                             <p class="mb-15"><strong>Northampton University</strong></p>
@@ -788,7 +788,7 @@
                                 target="_blank"
                                 >BSc (Hons) in International Accounting</a
                               >
-                              -£9,250
+                              -Â£9,250
                             </p>
     
                             <p class="mb-15"><strong>University of Derby</strong></p>
@@ -799,7 +799,7 @@
                                 target="_blank"
                                 >BSc (Hons) Business and Management</a
                               >
-                              – £5,200
+                              - Â£5,200
                             </p>
     
                             <p class="mb-15"><strong>Westcliff University</strong></p>
@@ -810,7 +810,7 @@
                                 target="_blank"
                                 >Business Administration</a
                               >
-                              – £11,655 (online) / £15,600 (on campus)
+                              - Â£11,655 (online) / Â£15,600 (on campus)
                             </p>
     
                             <p class="mb-15"><strong>University of Hertfordshire</strong></p>
@@ -821,7 +821,7 @@
                                 target="_blank"
                                 >BA (Hons) Business Administration</a
                               >
-                              – £6,400
+                              - Â£6,400
                             </p>
     
                             <p class="mb-15"><strong>University of Central Lancashire (UCLAN)</strong></p>
@@ -832,7 +832,7 @@
                                 target="_blank"
                                 >BA (Hons) Business Management</a
                               >
-                              – £9,240
+                              - Â£9,240
                             </p>
     
                             <p class="mb-15"><strong>University of Hertfordshire</strong></p>
@@ -853,24 +853,24 @@
                                 target="_blank"
                                 >BA in Business Management</a
                               >
-                              – £4,600<br>
+                              - Â£4,600<br>
                               <a
                                 href="https://www.staffordglobal.org/management-courses/business-enterprise-ba-online-edinburgh-napier"
                                 class="it-course-info-link"
                                 target="_blank"
                                 >BA in Business and Enterprise</a
                               >
-                              – £4,600<br>
+                              - Â£4,600<br>
                               <a
                                 href="https://www.staffordglobal.org/management-courses/sales-management-ba-online-edinburgh-napier"
                                 class="it-course-info-link"
                                 target="_blank"
                                 >BA in Sales Management</a
                               >
-                              – £4,600
+                              - Â£4,600
                             </p>
     
-                            <p class="mb-15"><strong>University of Sunderland – On Campus</strong></p>
+                            <p class="mb-15"><strong>University of Sunderland - On Campus</strong></p>
                             <p class="mb-20">
                               <a
                                 href="https://www.sunderland.ac.uk/study/business-and-management/undergraduate-business-management-tp/"
@@ -878,7 +878,7 @@
                                 target="_blank"
                                 >BA (Hons) Business and Management</a
                               >
-                              – £9,250
+                              - Â£9,250
                             </p>
     
                             <p class="mb-15"><strong>University of Bolton</strong></p>
@@ -899,14 +899,14 @@
                                 target="_blank"
                                 >BA (Hons) Global Business Management</a
                               >
-                              – <strong>ON CAMPUS</strong>– £9,250 UK/ £13,250 International<br>
+                              - <strong>ON CAMPUS</strong>- Â£9,250 UK/ Â£13,250 International<br>
                               <a
                                 href="https://www.cumbria.ac.uk/study/courses/undergraduate/international-business-management-top-up/"
                                 class="it-course-info-link"
                                 target="_blank"
                                 >BA (Hons) International Business Management</a
                               >
-                              – <strong>ON CAMPUS</strong>– £9,250 UK/ £13,250 International
+                              - <strong>ON CAMPUS</strong>- Â£9,250 UK/ Â£13,250 International
                             </p>
     
                             <p class="mb-30">
@@ -1233,7 +1233,7 @@
                     <div class="col-xl-7 col-lg-6 wow itfadeLeft" data-wow-duration=".9s" data-wow-delay=".5s">
                         <div class="it-faq-left">
                             <div class="it-faq-section-title-box mb-40">
-                                <span class="it-section-subtitle">Faq’s</span>
+                                <span class="it-section-subtitle">Faq's</span>
                                 <h4 class="it-section-title">Frequently Asked <br>
                                     <span class="z-index-1">
                                         Questions
@@ -1265,7 +1265,7 @@
                                             aria-labelledby="headingOne2" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
                                                 <p>Our experienced advisers understand all our programmes and guide you
-                                                    based on your goals, career plans, and future study options. </p>
+                                                    based on your goals, career plans, and future study options.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1280,8 +1280,8 @@
                                         <div id="collapseTwo3" class="accordion-collapse collapse"
                                             aria-labelledby="headingTwo3" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
-                                                <p>We assist you at every step — from course selection to enrolment and
-                                                    choosing suitable finance options. </p>
+                                                <p>We assist you at every step  from course selection to enrolment and
+                                                    choosing suitable finance options.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1297,7 +1297,7 @@
                                             aria-labelledby="headingFour4" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
                                                 <p>The QMB ensures high academic standards by regularly reviewing course
-                                                    quality, assessments, content, and student feedback. </p>
+                                                    quality, assessments, content, and student feedback.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1313,7 +1313,7 @@
                                             aria-labelledby="headingFour5" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
                                                 <p>Yes. Our programmes are aligned with OFQUAL standards and verified by
-                                                    OFQUAL-recognised awarding organisations. </p>
+                                                    OFQUAL-recognised awarding organisations.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1423,7 +1423,7 @@
                                         </svg>
                                     </span>
                                 </span>
-                                <br>Let’s Talk To Us Today
+                                <br>Let's Talk To Us Today
                             </h4>
                             <a href="contact-us.php" class="it-btn-yellow white-bg">
                                 <span>

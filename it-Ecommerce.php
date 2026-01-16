@@ -213,11 +213,11 @@
                                             <div class="it-course-info-content">
                                                 <span class="it-course-info-label">Ofqual Link</span>
                                                 <p class="mb-0">
-                                                    Level 4 Diploma in Information Technology –
+                                                    Level 4 Diploma in Information Technology -
                                                     <a href="https://find-a-qualification.services.ofqual.gov.uk/qualifications/60347818"
                                                         target="_blank">603/4781/8</a>
                                                     <br>
-                                                    Level 5 Diploma in IT E-Commerce –
+                                                    Level 5 Diploma in IT E-Commerce -
                                                     <a href="https://find-a-qualification.services.ofqual.gov.uk/qualifications/60347946"
                                                         target="_blank">603/4794/6</a>
                                                 </p>
@@ -700,33 +700,33 @@
                                             <div class="it-course-price-box mb-25">
                                                 <h4 class="mb-10">
                                                     Level 4:
-                                                    <span class="it-price-amount">£2,900</span>
+                                                    <span class="it-price-amount">Â£2,900</span>
                                                 </h4>
                                                 <p class="mb-0">
-                                                    Enrol with a <strong>£20 deposit</strong> and then
-                                                    <strong>£120 a month for 24 months</strong>, interest free.
+                                                    Enrol with a <strong>Â£20 deposit</strong> and then
+                                                    <strong>Â£120 a month for 24 months</strong>, interest free.
                                                 </p>
                                             </div>
 
                                             <div class="it-course-price-box mb-25">
                                                 <h4 class="mb-10">
                                                     Level 5:
-                                                    <span class="it-price-amount">£2,900</span>
+                                                    <span class="it-price-amount">Â£2,900</span>
                                                 </h4>
                                                 <p class="mb-0">
-                                                    Enrol with a <strong>£20 deposit</strong> and then
-                                                    <strong>£120 a month for 24 months</strong>, interest free.
+                                                    Enrol with a <strong>Â£20 deposit</strong> and then
+                                                    <strong>Â£120 a month for 24 months</strong>, interest free.
                                                 </p>
                                             </div>
 
                                             <div class="it-course-price-box mb-30">
                                                 <h4 class="mb-10">
                                                     Level 4 & 5:
-                                                    <span class="it-price-amount">£3,500</span>
+                                                    <span class="it-price-amount">Â£3,500</span>
                                                 </h4>
                                                 <p class="mb-0">
-                                                    Enrol with a <strong>£20 deposit</strong> and then
-                                                    <strong>£145 a month for 24 months</strong>, interest free.
+                                                    Enrol with a <strong>Â£20 deposit</strong> and then
+                                                    <strong>Â£145 a month for 24 months</strong>, interest free.
                                                 </p>
                                             </div>
 
@@ -811,11 +811,11 @@
                                                 <a href="https://www.mdx.ac.uk/courses/undergraduate/information-systems-top-up"
                                                     class="it-course-info-link" target="_blank">BSc Information Systems
                                                     (Top-up)</a>
-                                                – £6,000<br>
+                                                - Â£6,000<br>
                                                 <a href="https://www.mdx.ac.uk/courses/undergraduate/information-technology-and-business-information-systems-degree"
                                                     class="it-course-info-link" target="_blank">BSc (Hons) Information
                                                     Technology and Business Information Systems (Top-up)</a>
-                                                – <strong>ON CAMPUS</strong>– £9,250 (UK)/ £14,700 (INT/EU)
+                                                - <strong>ON CAMPUS</strong>- Â£9,250 (UK)/ Â£14,700 (INT/EU)
                                             </p>
 
                                             <p class="mb-15"><strong>University of Derby</strong></p>
@@ -823,7 +823,7 @@
                                                 <a href="https://www.derby.ac.uk/online/course/online-computing-information-technology-it-bsc-top-up-degree-course"
                                                     class="it-course-info-link" target="_blank">BSc (Hons) Computing and
                                                     Information Technology</a>
-                                                – £5,250
+                                                - Â£5,250
                                             </p>
 
                                             <p class="mb-15"><strong>University of Huddersfield</strong></p>
@@ -831,7 +831,7 @@
                                                 <a href="https://courses.hud.ac.uk/full-time/undergraduate/information-technology-top-up-bsc-hons#_ga=2.215255639.1342961060.1637655153-1481979239.1630401144"
                                                     class="it-course-info-link" target="_blank">BSc (Hons) Information
                                                     Technology (Top-up)</a>
-                                                – <strong>ON CAMPUS</strong>– £9,250
+                                                - <strong>ON CAMPUS</strong>- Â£9,250
                                             </p>
 
                                             <p class="mb-30">
@@ -1165,7 +1165,7 @@
                     <div class="col-xl-7 col-lg-6 wow itfadeLeft" data-wow-duration=".9s" data-wow-delay=".5s">
                         <div class="it-faq-left">
                             <div class="it-faq-section-title-box mb-40">
-                                <span class="it-section-subtitle">Faq’s</span>
+                                <span class="it-section-subtitle">Faq's</span>
                                 <h4 class="it-section-title">Frequently Asked <br>
                                     <span class="z-index-1">
                                         Questions
@@ -1197,7 +1197,7 @@
                                             aria-labelledby="headingOne2" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
                                                 <p>Our experienced advisers understand all our programmes and guide you
-                                                    based on your goals, career plans, and future study options. </p>
+                                                    based on your goals, career plans, and future study options.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1212,8 +1212,8 @@
                                         <div id="collapseTwo3" class="accordion-collapse collapse"
                                             aria-labelledby="headingTwo3" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
-                                                <p>We assist you at every step — from course selection to enrolment and
-                                                    choosing suitable finance options. </p>
+                                                <p>We assist you at every step  from course selection to enrolment and
+                                                    choosing suitable finance options.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1229,7 +1229,7 @@
                                             aria-labelledby="headingFour4" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
                                                 <p>The QMB ensures high academic standards by regularly reviewing course
-                                                    quality, assessments, content, and student feedback. </p>
+                                                    quality, assessments, content, and student feedback.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1245,7 +1245,7 @@
                                             aria-labelledby="headingFour5" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
                                                 <p>Yes. Our programmes are aligned with OFQUAL standards and verified by
-                                                    OFQUAL-recognised awarding organisations. </p>
+                                                    OFQUAL-recognised awarding organisations.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1357,7 +1357,7 @@
                                         </svg>
                                     </span>
                                 </span>
-                                <br>Let’s Talk To Us Today
+                                <br>Let's Talk To Us Today
                             </h4>
                             <a href="contact-us.php" class="it-btn-yellow white-bg">
                                 <span>

@@ -211,10 +211,10 @@
                                             </div>
                                             <div class="it-course-info-content">
                                                 <span class="it-course-info-label">Ofqual Link</span>
-                                                <p class="mb-0">Level 4 Diploma in Business Management � <a
+                                                <p class="mb-0">Level 4 Diploma in Business Management - <a
                                                         href="https://find-a-qualification.services.ofqual.gov.uk/qualifications/61007638"
                                                         target="_blank">610/0763/8</a><br>
-                                                    Level 5 Diploma in Business Management � <a
+                                                    Level 5 Diploma in Business Management - <a
                                                         href="https://find-a-qualification.services.ofqual.gov.uk/qualifications/61015271"
                                                         target="_blank">610/1527/1</a></p>
                                             </div>
@@ -436,7 +436,7 @@
                                                 Assessment is completed through <strong>six online written assignments
                                                     per level</strong>,
                                                 with each assignment typically between
-                                                <strong>2,000 and 3,000 words</strong>. On successful completion,
+                                                <strong>2,000 - 3,000 words</strong>. On successful completion,
                                                 learners are
                                                 awarded an <strong>OTHM Business Management Diploma</strong>, which can
                                                 be used to
@@ -632,7 +632,7 @@
                                                 education, meaning you must have a minimum of 2 A-levels or equivalent.
                                             </p>
 
-                                            <p class="mb-20">If you don�t have 2 A-levels or the equivalent, such as NVQ
+                                            <p class="mb-20">If you don't have 2 A-levels or the equivalent, such as NVQ
                                                 Level 3, you may also be able to enrol based on your work experience. To
                                                 find out more, talk to one of our helpful team members at: +44 2045770424
                                             </p>
@@ -656,33 +656,33 @@
                                             <div class="it-course-price-box mb-25">
                                                 <h4 class="mb-10">
                                                     Level 4 Diploma in Business Management:
-                                                    <span class="it-price-amount">�2,900</span>
+                                                    <span class="it-price-amount">£2,900</span>
                                                 </h4>
                                                 <p class="mb-0">
-                                                    Enrol with a <strong>�20 deposit</strong> and then
-                                                    <strong>�120 a month for 24 months</strong>, interest free.
+                                                    Enrol with a <strong>£20 deposit</strong> and then
+                                                    <strong>£120 a month for 24 months</strong>, interest free.
                                                 </p>
                                             </div>
 
                                             <div class="it-course-price-box mb-25">
                                                 <h4 class="mb-10">
                                                     Level 5 Diploma in Business Management:
-                                                    <span class="it-price-amount">�2,900</span>
+                                                    <span class="it-price-amount">£2,900</span>
                                                 </h4>
                                                 <p class="mb-0">
-                                                    Enrol with a <strong>�20 deposit</strong> and then
-                                                    <strong>�120 a month for 24 months</strong>, interest free.
+                                                    Enrol with a <strong>£20 deposit</strong> and then
+                                                    <strong>£120 a month for 24 months</strong>, interest free.
                                                 </p>
                                             </div>
 
                                             <div class="it-course-price-box mb-30">
                                                 <h4 class="mb-10">
                                                     Level 4 & 5 Diploma in Business Management:
-                                                    <span class="it-price-amount">�3,500</span>
+                                                    <span class="it-price-amount">£3,500</span>
                                                 </h4>
                                                 <p class="mb-0">
-                                                    Enrol with a <strong>�20 deposit</strong> and then
-                                                    <strong>�145 a month for 24 months</strong>, interest free.
+                                                    Enrol with a <strong>£20 deposit</strong> and then
+                                                    <strong>£145 a month for 24 months</strong>, interest free.
                                                 </p>
                                             </div>
 
@@ -775,11 +775,11 @@
                                                 <a href="https://www.coventry.ac.uk/cul/course-structure/hnc-hnd-degree/business-management/?term=2022-23"
                                                     class="it-course-info-link" target="_blank">Business Management and
                                                     Leadership BA (Hons)</a>
-                                                � London Campus � �10,000<br>
+                                                - London Campus - £10,000<br>
                                                 <a href="https://www.coventry.ac.uk/cuc/course-structure/hnc-hnd-degree/business-mgt-leadership/?term=2022-23"
                                                     class="it-course-info-link" target="_blank">Business Management and
                                                     Leadership BA (Hons)</a>
-                                                � Coventry Campus- �10,000
+                                                £ Coventry Campus- £10,000
                                             </p>
 
                                             <p class="mb-15"><strong>Northampton University</strong></p>
@@ -787,7 +787,7 @@
                                                 <a href="https://www.northampton.ac.uk/study/courses/international-accounting-top-up-bsc-hons/"
                                                     class="it-course-info-link" target="_blank">BSc (Hons) in
                                                     International Accounting</a>
-                                                -�9,250
+                                                -£9,250
                                             </p>
 
                                             <p class="mb-15"><strong>University of Derby</strong></p>
@@ -795,15 +795,15 @@
                                                 <a href="https://www.derby.ac.uk/online/business-courses/business-and-management-top-up-bsc-hons-online/"
                                                     class="it-course-info-link" target="_blank">BSc (Hons) Business and
                                                     Management</a>
-                                                � �5,200
+                                                - £5,200
                                             </p>
 
                                             <p class="mb-15"><strong>Westcliff University</strong></p>
                                             <p class="mb-20">
                                                 <a href="https://www.westcliff.edu/academics/college-of-business/bachelor-of-business-administration-bba/#information1"
                                                     class="it-course-info-link" target="_blank">Business Administration
-                                                    �</a>
-                                                �11,655 (online) / �15,600 (on campus)
+                                                    -</a>
+                                                £11,655 (online) / £15,600 (on campus)
                                             </p>
 
                                             <p class="mb-15"><strong>University of Hertfordshire</strong></p>
@@ -811,7 +811,7 @@
                                                 <a href="https://www.herts.ac.uk/courses/undergraduate/ba-hons-business-administration-top-up-online"
                                                     class="it-course-info-link" target="_blank">BA (Hons) Business
                                                     Administration</a>
-                                                � �6,400<br>
+                                                - £6,400<br>
                                                 <a href="https://www.herts.ac.uk/courses/undergraduate/ba-hons-business-administration-top-up-online"
                                                     class="it-course-info-link" target="_blank">BA (Hons) Business
                                                     Administration (top-up) (Online)</a>
@@ -823,7 +823,7 @@
                                                 <a href="https://www.uclan.ac.uk/undergraduate/courses/business-management-ba-top-up"
                                                     class="it-course-info-link" target="_blank">BA (Hons) Business
                                                     Management</a>
-                                                � �9,240
+                                                - £9,240
                                             </p>
 
                                             <p class="mb-15"><strong>Edinburgh Napier University</strong></p>
@@ -831,23 +831,23 @@
                                                 <a href="https://www.staffordglobal.org/management-courses/business-management-ba-online-edinburgh-napier"
                                                     class="it-course-info-link" target="_blank">BA in Business
                                                     Management</a>
-                                                � �4,600<br>
+                                                - £4,600<br>
                                                 <a href="https://www.staffordglobal.org/management-courses/business-enterprise-ba-online-edinburgh-napier"
                                                     class="it-course-info-link" target="_blank">BA in Business and
                                                     Enterprise</a>
-                                                � �4,600<br>
+                                                - £4,600<br>
                                                 <a href="https://www.staffordglobal.org/management-courses/sales-management-ba-online-edinburgh-napier"
                                                     class="it-course-info-link" target="_blank">BA in Sales
                                                     Management</a>
-                                                � �4,600
+                                                - £4,600
                                             </p>
 
-                                            <p class="mb-15"><strong>University of Sunderland � On Campus</strong></p>
+                                            <p class="mb-15"><strong>University of Sunderland - On Campus</strong></p>
                                             <p class="mb-20">
                                                 <a href="https://www.sunderland.ac.uk/study/business-and-management/undergraduate-business-management-tp/"
                                                     class="it-course-info-link" target="_blank">BA (Hons) Business and
                                                     Management</a>
-                                                � �9,250
+                                                - £9,250
                                             </p>
 
                                             <p class="mb-15"><strong>University of Bolton</strong></p>
@@ -862,11 +862,11 @@
                                                 <a href="https://www.cumbria.ac.uk/study/courses/undergraduate/global-business-management-top-up/"
                                                     class="it-course-info-link" target="_blank">BA (Hons) Global
                                                     Business Management</a>
-                                                � <strong>ON CAMPUS</strong>� �9,250 UK/ �13,250 International<br>
+                                                - <strong>ON CAMPUS</strong>- £9,250 UK/ £13,250 International<br>
                                                 <a href="https://www.cumbria.ac.uk/study/courses/undergraduate/international-business-management-top-up/"
                                                     class="it-course-info-link" target="_blank">BA (Hons) International
                                                     Business Management</a>
-                                                � <strong>ON CAMPUS</strong>� �9,250 UK/ �13,250 International
+                                                - <strong>ON CAMPUS</strong>- £9,250 UK/ £13,250 International
                                             </p>
 
                                             <p class="mb-30">
@@ -1185,7 +1185,7 @@
                     <div class="col-xl-7 col-lg-6 wow itfadeLeft" data-wow-duration=".9s" data-wow-delay=".5s">
                         <div class="it-faq-left">
                             <div class="it-faq-section-title-box mb-40">
-                                <span class="it-section-subtitle">Faq�s</span>
+                                <span class="it-section-subtitle">Faq's</span>
                                 <h4 class="it-section-title">Frequently Asked <br>
                                     <span class="z-index-1">
                                         Questions
@@ -1217,7 +1217,7 @@
                                             aria-labelledby="headingOne2" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
                                                 <p>Our experienced advisers understand all our programmes and guide you
-                                                    based on your goals, career plans, and future study options.�</p>
+                                                    based on your goals, career plans, and future study options.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1232,8 +1232,8 @@
                                         <div id="collapseTwo3" class="accordion-collapse collapse"
                                             aria-labelledby="headingTwo3" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
-                                                <p>We assist you at every step � from course selection to enrolment and
-                                                    choosing suitable finance options.�</p>
+                                                <p>We assist you at every step  from course selection to enrolment and
+                                                    choosing suitable finance options.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1249,7 +1249,7 @@
                                             aria-labelledby="headingFour4" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
                                                 <p>The QMB ensures high academic standards by regularly reviewing course
-                                                    quality, assessments, content, and student feedback.�</p>
+                                                    quality, assessments, content, and student feedback.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1265,7 +1265,7 @@
                                             aria-labelledby="headingFour5" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
                                                 <p>Yes. Our programmes are aligned with OFQUAL standards and verified by
-                                                    OFQUAL-recognised awarding organisations.�</p>
+                                                    OFQUAL-recognised awarding organisations.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1378,7 +1378,7 @@
                                         </svg>
                                     </span>
                                 </span>
-                                <br>Let�s Talk To Us Today
+                                <br>Let's Talk To Us Today
                             </h4>
                             <a href="contact-us.php" class="it-btn-yellow white-bg">
                                 <span>

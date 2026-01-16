@@ -276,7 +276,7 @@
                             </div>
                             <div class="it-course-intro-text">
                                 <p class="mb-25 fs-5">
-                                    IGCSE English � First Language is designed for learners who use English as
+                                    IGCSE English - First Language is designed for learners who use English as
                                     their primary language and want to refine their communication skills for
                                     academic and real-world success. The course focuses on developing confident,
                                     accurate, and expressive use of English in both written and spoken forms.
@@ -489,9 +489,9 @@
                                         <div class="it-course-info-text">
                                             <div class="it-course-price-box mb-30">
                                                 <h4 class="mb-10">IGCSE English-First Language: <span
-                                                        class="it-price-amount">�399</span></h4>
-                                                <p class="mb-0">Enrol with a <strong>�50 deposit</strong> and then
-                                                    <strong>�14.55 a month for 24 months</strong>, interest-free.
+                                                        class="it-price-amount">£399</span></h4>
+                                                <p class="mb-0">Enrol with a <strong>£50 deposit</strong> and then
+                                                    <strong>£14.55 a month for 24 months</strong>, interest-free.
                                                 </p>
                                             </div>
 
@@ -557,7 +557,7 @@
                                                         twenty-first centuries, including literature, fiction and
                                                         non-fiction, and other forms of writing, such as discursive
                                                         essays, reviews and articles.<br><br>
-                                                        This study should include focus on writers� use of language and
+                                                        This study should include focus on writers use of language and
                                                         style and the ways in which writers achieve effects and
                                                         influence readers.<br><br>
                                                         Candidates should study how influence may include fact, ideas,
@@ -879,7 +879,7 @@
                     <div class="col-xl-7 col-lg-6 wow itfadeLeft" data-wow-duration=".9s" data-wow-delay=".5s">
                         <div class="it-faq-left">
                             <div class="it-faq-section-title-box mb-40">
-                                <span class="it-section-subtitle">Faq�s</span>
+                                <span class="it-section-subtitle">Faq's</span>
                                 <h4 class="it-section-title">Frequently Asked <br>
                                     <span class="z-index-1">
                                         Questions
@@ -911,7 +911,7 @@
                                             aria-labelledby="headingOne2" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
                                                 <p>Our experienced advisers understand all our programmes and guide you
-                                                    based on your goals, career plans, and future study options.�</p>
+                                                    based on your goals, career plans, and future study options.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -926,8 +926,8 @@
                                         <div id="collapseTwo3" class="accordion-collapse collapse"
                                             aria-labelledby="headingTwo3" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
-                                                <p>We assist you at every step � from course selection to enrolment and
-                                                    choosing suitable finance options.�</p>
+                                                <p>We assist you at every step  from course selection to enrolment and
+                                                    choosing suitable finance options.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -943,7 +943,7 @@
                                             aria-labelledby="headingFour4" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
                                                 <p>The QMB ensures high academic standards by regularly reviewing course
-                                                    quality, assessments, content, and student feedback.�</p>
+                                                    quality, assessments, content, and student feedback.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -959,7 +959,7 @@
                                             aria-labelledby="headingFour5" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
                                                 <p>Yes. Our programmes are aligned with OFQUAL standards and verified by
-                                                    OFQUAL-recognised awarding organisations.�</p>
+                                                    OFQUAL-recognised awarding organisations.</p>
                                             </div>
                                         </div>
                                     </div>

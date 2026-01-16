@@ -216,11 +216,11 @@
                                             <div class="it-course-info-content">
                                                 <span class="it-course-info-label">Ofqual Link</span>
                                                 <p class="mb-0">
-                                                    Level 4 Diploma in Health and Social Care �
+                                                    Level 4 Diploma in Health and Social Care -
                                                     <a href="https://find-a-qualification.services.ofqual.gov.uk/qualifications/61007845"
                                                         target="_blank">610/0784/5</a>
                                                     <br>
-                                                    Level 5 Diploma in Health and Social Care �
+                                                    Level 5 Diploma in Health and Social Care -
                                                     <a href="https://find-a-qualification.services.ofqual.gov.uk/qualifications/61015374"
                                                         target="_blank">610/1537/4</a>
                                                 </p>
@@ -443,7 +443,7 @@
                                                 <strong>6 online written assignments</strong> at Level 4, and
                                                 <strong>6 online written assignments</strong> at Level 5. Assignments
                                                 are
-                                                approximately <strong>2,000 � 3,000 words</strong> each. Once you've
+                                                approximately <strong>2,000 - 3,000 words</strong> each. Once you've
                                                 passed
                                                 your course, you'll be awarded with an OTHM Health and Social Care
                                                 Management
@@ -646,33 +646,33 @@
                                             <div class="it-course-price-box mb-25">
                                                 <h4 class="mb-10">
                                                     Level 4:
-                                                    <span class="it-price-amount">�2,900</span>
+                                                    <span class="it-price-amount">£2,900</span>
                                                 </h4>
                                                 <p class="mb-0">
-                                                    Enrol with a <strong>�20 deposit</strong> and then
-                                                    <strong>�120 a month for 24 months</strong>, interest free.
+                                                    Enrol with a <strong>£20 deposit</strong> and then
+                                                    <strong>£120 a month for 24 months</strong>, interest free.
                                                 </p>
                                             </div>
 
                                             <div class="it-course-price-box mb-25">
                                                 <h4 class="mb-10">
                                                     Level 5:
-                                                    <span class="it-price-amount">�2,900</span>
+                                                    <span class="it-price-amount">£2,900</span>
                                                 </h4>
                                                 <p class="mb-0">
-                                                    Enrol with a <strong>�20 deposit</strong> and then
-                                                    <strong>�120 a month for 24 months</strong>, interest free.
+                                                    Enrol with a <strong>£20 deposit</strong> and then
+                                                    <strong>£120 a month for 24 months</strong>, interest free.
                                                 </p>
                                             </div>
 
                                             <div class="it-course-price-box mb-30">
                                                 <h4 class="mb-10">
                                                     Level 4 & 5:
-                                                    <span class="it-price-amount">�3,500</span>
+                                                    <span class="it-price-amount">£3,500</span>
                                                 </h4>
                                                 <p class="mb-0">
-                                                    Enrol with a <strong>�20 deposit</strong> and then
-                                                    <strong>�145 a month for 24 months</strong>, interest free.
+                                                    Enrol with a <strong>£20 deposit</strong> and then
+                                                    <strong>£145 a month for 24 months</strong>, interest free.
                                                 </p>
                                             </div>
 
@@ -747,9 +747,9 @@
                                         </h3>
                                         <div class="it-course-info-text">
                                             <p class="mb-25">
-                                                Once you�ve completed your online Level 4 & 5 Diploma in Health and
+                                                Once you've completed your online Level 4 & 5 Diploma in Health and
                                                 Social Care course you have the opportunity to complete a third-year
-                                                top-up degree programme, known as a �BA top up�, from a wide range of UK
+                                                top-up degree programme, known as a BA top up, from a wide range of UK
                                                 universities.
                                             </p>
                                             <p class="mb-25">
@@ -804,7 +804,7 @@
                                         </h3>
                                         <div class="it-course-info-text">
                                             <p class="mb-30">
-                                                <strong>OTHM Diploma � Sample Certificate </strong>
+                                                <strong>OTHM Diploma  Sample Certificate </strong>
                                             </p>
                                          
                                             <div
@@ -1096,7 +1096,7 @@
                     <div class="col-xl-7 col-lg-6 wow itfadeLeft" data-wow-duration=".9s" data-wow-delay=".5s">
                         <div class="it-faq-left">
                             <div class="it-faq-section-title-box mb-40">
-                                <span class="it-section-subtitle">Faq�s</span>
+                                <span class="it-section-subtitle">Faq's</span>
                                 <h4 class="it-section-title">Frequently Asked <br>
                                     <span class="z-index-1">
                                         Questions
@@ -1128,7 +1128,7 @@
                                             aria-labelledby="headingOne2" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
                                                 <p>Our experienced advisers understand all our programmes and guide you
-                                                    based on your goals, career plans, and future study options.�</p>
+                                                    based on your goals, career plans, and future study options.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1143,8 +1143,8 @@
                                         <div id="collapseTwo3" class="accordion-collapse collapse"
                                             aria-labelledby="headingTwo3" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
-                                                <p>We assist you at every step � from course selection to enrolment and
-                                                    choosing suitable finance options.�</p>
+                                                <p>We assist you at every step  from course selection to enrolment and
+                                                    choosing suitable finance options.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1160,7 +1160,7 @@
                                             aria-labelledby="headingFour4" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
                                                 <p>The QMB ensures high academic standards by regularly reviewing course
-                                                    quality, assessments, content, and student feedback.�</p>
+                                                    quality, assessments, content, and student feedback.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1176,7 +1176,7 @@
                                             aria-labelledby="headingFour5" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
                                                 <p>Yes. Our programmes are aligned with OFQUAL standards and verified by
-                                                    OFQUAL-recognised awarding organisations.�</p>
+                                                    OFQUAL-recognised awarding organisations.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1288,7 +1288,7 @@
                                         </svg>
                                     </span>
                                 </span>
-                                <br>Let�s Talk To Us Today
+                                <br>Let's Talk To Us Today
                             </h4>
                             <a href="contact-us.php" class="it-btn-yellow white-bg">
                                 <span>

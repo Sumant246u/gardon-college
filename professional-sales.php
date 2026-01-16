@@ -209,8 +209,8 @@
                                             </div>
                                             <div class="it-course-info-content">
                                                 <span class="it-course-info-label">Ofqual Link</span>
-                                                <p class="mb-0">Level 4 Diploma in Business Management – 610/0763/8<br>
-                                                    Level 5 Diploma in Business Management – 610/1527/1</p>
+                                                <p class="mb-0">Level 4 Diploma in Business Management ï¿½ 610/0763/8<br>
+                                                    Level 5 Diploma in Business Management ï¿½ 610/1527/1</p>
                                             </div>
                                         </div>
                                     </div> -->
@@ -407,7 +407,7 @@
                                                 will work towards an
                                                 <strong>OTHM Level 6 Diploma</strong>, designed to equip students with
                                                 the advanced skills and
-                                                knowledge required to succeed in today’s competitive business and sales
+                                                knowledge required to succeed in today's competitive business and sales
                                                 environments.
                                             </p>
 
@@ -417,7 +417,7 @@
                                                 complete flexibility. Each module includes approximately
                                                 <strong>40 hours of guided online learning</strong>, supported by an
                                                 additional
-                                                <strong>30–50 hours</strong> of optional study materials such as
+                                                <strong>30-50 hours</strong> of optional study materials such as
                                                 practical activities,
                                                 recommended reading, digital resources, and self-assessment tasks.
                                             </p>
@@ -430,7 +430,7 @@
                                                 the course, learners are
                                                 awarded an <strong>OTHM Level 6 Diploma</strong>, which can be used to
                                                 progress to a
-                                                <strong>bachelor’s degree top-up programme</strong> at a selection of UK
+                                                <strong>bachelor's degree top-up programme</strong> at a selection of UK
                                                 universities.
                                             </p>
 
@@ -513,7 +513,7 @@
                                                 assignments. Each assignment
                                                 is approximately <strong>5,000 words</strong>. Students receive support
                                                 for both modules and
-                                                assignments through the ‘Tutor’ section of the learning platform.
+                                                assignments through the Tutor section of the learning platform.
                                             </p>
 
                                             <p class="mb-25">
@@ -566,11 +566,11 @@
                                             <div class="it-course-price-box mb-30">
                                                 <h4 class="mb-10">
                                                     Level 6:
-                                                    <span class="it-price-amount">£2,900</span>
+                                                    <span class="it-price-amount">Â£2,900</span>
                                                 </h4>
                                                 <p class="mb-0">
-                                                    Enrol with a <strong>£20 deposit</strong> and then
-                                                    <strong>£120 a month for 24 months</strong>, 0%
+                                                    Enrol with a <strong>Â£20 deposit</strong> and then
+                                                    <strong>Â£120 a month for 24 months</strong>, 0%
                                                     interest-free.
                                                 </p>
                                             </div>
@@ -1105,7 +1105,7 @@
                     <div class="col-xl-7 col-lg-6 wow itfadeLeft" data-wow-duration=".9s" data-wow-delay=".5s">
                         <div class="it-faq-left">
                             <div class="it-faq-section-title-box mb-40">
-                                <span class="it-section-subtitle">Faq’s</span>
+                                <span class="it-section-subtitle">Faq's</span>
                                 <h4 class="it-section-title">Frequently Asked <br>
                                     <span class="z-index-1">
                                         Questions
@@ -1137,7 +1137,7 @@
                                             aria-labelledby="headingOne2" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
                                                 <p>Our experienced advisers understand all our programmes and guide you
-                                                    based on your goals, career plans, and future study options. </p>
+                                                    based on your goals, career plans, and future study options.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1152,8 +1152,8 @@
                                         <div id="collapseTwo3" class="accordion-collapse collapse"
                                             aria-labelledby="headingTwo3" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
-                                                <p>We assist you at every step — from course selection to enrolment and
-                                                    choosing suitable finance options. </p>
+                                                <p>We assist you at every step  from course selection to enrolment and
+                                                    choosing suitable finance options.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1169,7 +1169,7 @@
                                             aria-labelledby="headingFour4" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
                                                 <p>The QMB ensures high academic standards by regularly reviewing course
-                                                    quality, assessments, content, and student feedback. </p>
+                                                    quality, assessments, content, and student feedback.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1185,7 +1185,7 @@
                                             aria-labelledby="headingFour5" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
                                                 <p>Yes. Our programmes are aligned with OFQUAL standards and verified by
-                                                    OFQUAL-recognised awarding organisations. </p>
+                                                    OFQUAL-recognised awarding organisations.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1297,7 +1297,7 @@
                                         </svg>
                                     </span>
                                 </span>
-                                <br>Let’s Talk To Us Today
+                                <br>Let's Talk To Us Today
                             </h4>
                             <a href="contact-us.php" class="it-btn-yellow white-bg">
                                 <span>

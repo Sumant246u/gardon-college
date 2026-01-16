@@ -138,7 +138,7 @@
                                     <div class="it-enquiry-form-header text-center mb-50">
                                         <h3 class="it-enquiry-form-main-title mb-15">Discover More About Our Programme</h3>
                                         <p class="it-enquiry-form-subtitle">Request your comprehensive course prospectus and
-                                            learn how we can help you achieve your academic..</p>
+                                            learn how we can help you achieve your academic goals.</p>
                                     </div>
                                     <div class="it-enquiry-form-box">
                                         <div class="it-enquiry-form-icon mb-30">

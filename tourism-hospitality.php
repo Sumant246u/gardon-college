@@ -217,11 +217,11 @@
                                             <div class="it-course-info-content">
                                                 <span class="it-course-info-label">Ofqual Link</span>
                                                 <p class="mb-0">
-                                                    Level 4 Diploma in Tourism and Hospitality Management –
+                                                    Level 4 Diploma in Tourism and Hospitality Management -
                                                     <a href="https://find-a-qualification.services.ofqual.gov.uk/qualifications/61007833"
                                                         target="_blank"> 610/0783/3</a>
                                                     <br>
-                                                    Level 5 Diploma in Tourism and Hospitality Management –
+                                                    Level 5 Diploma in Tourism and Hospitality Management -
                                                     <a href="https://find-a-qualification.services.ofqual.gov.uk/qualifications/61015222"
                                                         target="_blank">610/1522/2</a>
                                                 </p>
@@ -434,7 +434,7 @@
                                             </p>
 
                                             <p class="mb-20">
-                                                To complete this online Tourism and Hospitality Management course you'll submit <strong>6 online assignments at each level</strong>, and assignments are approximately <strong>2,000 – 3,000 words</strong> each. Once you've passed your online Hospitality and Hotel Management course, you'll be awarded with a <strong>OTHM diploma in Tourism and Hospitality Management</strong> and you'll be able to top up your qualification to a bachelor's degree at a range of UK universities.
+                                                To complete this online Tourism and Hospitality Management course you'll submit <strong>6 online assignments at each level</strong>, and assignments are approximately <strong>2,000 - 3,000 words</strong> each. Once you've passed your online Hospitality and Hotel Management course, you'll be awarded with a <strong>OTHM diploma in Tourism and Hospitality Management</strong> and you'll be able to top up your qualification to a bachelor's degree at a range of UK universities.
                                             </p>
 
                                             <p class="mb-20">
@@ -519,7 +519,7 @@
                                             <p class="mb-20"><strong>Assessments</strong></p>
 
                                             <p class="mb-20">
-                                                The OTHM Level 4 & 5 diploma in Hospitality and Tourism Management is made up of <strong>12 modules</strong>, with <strong>6 written assignments</strong> at each level. Once you've completed the modules, you'll be given access to the assignments and each assignment is approximately <strong>2,000 – 3,000 words</strong>. Your assignment will then be submitted to your personal tutor for marking and feedback.
+                                                The OTHM Level 4 & 5 diploma in Hospitality and Tourism Management is made up of <strong>12 modules</strong>, with <strong>6 written assignments</strong> at each level. Once you've completed the modules, you'll be given access to the assignments and each assignment is approximately <strong>2,000 - 3,000 words</strong>. Your assignment will then be submitted to your personal tutor for marking and feedback.
                                             </p>
 
                                             <p class="mb-20"><strong>The assignment titles for the Level 4 Diploma in Tourism and Hospitality Management course are:</strong></p>
@@ -575,18 +575,18 @@
                                         <h3 class="it-course-info-title mb-25">Cost and payments</h3>
                                         <div class="it-course-info-text">
                                             <div class="it-course-price-box mb-30">
-                                                <h4 class="mb-10">Level 4: <span class="it-price-amount">£2,900</span></h4>
-                                                <p class="mb-20">Enrol with a <strong>£20 deposit</strong> and then <strong>£120 a month for 24 months</strong>, interest free.</p>
+                                                <h4 class="mb-10">Level 4: <span class="it-price-amount">Â£2,900</span></h4>
+                                                <p class="mb-20">Enrol with a <strong>Â£20 deposit</strong> and then <strong>Â£120 a month for 24 months</strong>, interest free.</p>
                                             </div>
 
                                             <div class="it-course-price-box mb-30">
-                                                <h4 class="mb-10">Level 5: <span class="it-price-amount">£2,900</span></h4>
-                                                <p class="mb-20">Enrol with a <strong>£20 deposit</strong> and then <strong>£120 a month for 24 months</strong>, interest free.</p>
+                                                <h4 class="mb-10">Level 5: <span class="it-price-amount">Â£2,900</span></h4>
+                                                <p class="mb-20">Enrol with a <strong>Â£20 deposit</strong> and then <strong>Â£120 a month for 24 months</strong>, interest free.</p>
                                             </div>
 
                                             <div class="it-course-price-box mb-30">
-                                                <h4 class="mb-10">Level 4 & 5: <span class="it-price-amount">£3,500</span></h4>
-                                                <p class="mb-20">Enrol with a <strong>£20 deposit</strong> and then <strong>£145 a month for 24 months</strong>, interest free.</p>
+                                                <h4 class="mb-10">Level 4 & 5: <span class="it-price-amount">Â£3,500</span></h4>
+                                                <p class="mb-20">Enrol with a <strong>Â£20 deposit</strong> and then <strong>Â£145 a month for 24 months</strong>, interest free.</p>
                                             </div>
 
                                             <p class="mb-20">Students can make payment using one of the following methods:</p>
@@ -641,7 +641,7 @@
                                             <ul class="it-course-info-list">
                                                 <li><strong>University of Derby: </strong><a href="https://www.derby.ac.uk/online/hospitality-management-courses/international-hospitality-business-management-top-up-ba-hons-online/" class="it-course-info-link" target="_blank" rel="noopener">International Hospitality Business Management (Top-Up)</a></li>
                                                 <li><strong>Bournemouth University: </strong><a href="https://www1.bournemouth.ac.uk/study/courses/ba-hons-international-hospitality-tourism-management-0" class="it-course-info-link" target="_blank" rel="noopener">BA (Hons) International Hospitality & Tourism Management</a></li>
-                                                <li><strong>University of Central Lancashire: </strong><a href="http://www.uclan.ac.uk/courses/ba_hons_management_in_hospitality_final_year_top_up.php" class="it-course-info-link" target="_blank" rel="noopener">Management in Hospitality BA – Top up</a></li>
+                                                <li><strong>University of Central Lancashire: </strong><a href="http://www.uclan.ac.uk/courses/ba_hons_management_in_hospitality_final_year_top_up.php" class="it-course-info-link" target="_blank" rel="noopener">Management in Hospitality BA  Top up</a></li>
                                                 <li><strong>University of Sunderland: </strong><a href="http://london.sunderland.ac.uk/courses/tourismandevents/international-tourism-hospitality-management-topup/" class="it-course-info-link" target="_blank" rel="noopener">International Tourism and Hospitality Management (Top-Up) BSc (Hons)</a></li>
                                                 <li><strong>University of Northampton: </strong><a href="https://www.northampton.ac.uk/study/courses/international-tourism-management-topup-ba-hons/" class="it-course-info-link" target="_blank" rel="noopener">International Tourism Management (Top-Up) BA </a></li>
                                                 <li><strong>Middlesex University London: </strong><a href="https://www.mdx.ac.uk/courses/undergraduate/international-hospitality-and-tourism-management-top-up" class="it-course-info-link" target="_blank" rel="noopener">BSc Honours International Hospitality and Tourism Management top-up</a></li>
@@ -953,7 +953,7 @@
                     <div class="col-xl-7 col-lg-6 wow itfadeLeft" data-wow-duration=".9s" data-wow-delay=".5s">
                         <div class="it-faq-left">
                             <div class="it-faq-section-title-box mb-40">
-                                <span class="it-section-subtitle">Faq’s</span>
+                                <span class="it-section-subtitle">Faq's</span>
                                 <h4 class="it-section-title">Frequently Asked <br>
                                     <span class="z-index-1">
                                         Questions
@@ -985,7 +985,7 @@
                                             aria-labelledby="headingOne2" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
                                                 <p>Our experienced advisers understand all our programmes and guide you
-                                                    based on your goals, career plans, and future study options. </p>
+                                                    based on your goals, career plans, and future study options.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1000,8 +1000,8 @@
                                         <div id="collapseTwo3" class="accordion-collapse collapse"
                                             aria-labelledby="headingTwo3" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
-                                                <p>We assist you at every step — from course selection to enrolment and
-                                                    choosing suitable finance options. </p>
+                                                <p>We assist you at every step  from course selection to enrolment and
+                                                    choosing suitable finance options.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1017,7 +1017,7 @@
                                             aria-labelledby="headingFour4" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
                                                 <p>The QMB ensures high academic standards by regularly reviewing course
-                                                    quality, assessments, content, and student feedback. </p>
+                                                    quality, assessments, content, and student feedback.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1033,7 +1033,7 @@
                                             aria-labelledby="headingFour5" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
                                                 <p>Yes. Our programmes are aligned with OFQUAL standards and verified by
-                                                    OFQUAL-recognised awarding organisations. </p>
+                                                    OFQUAL-recognised awarding organisations.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1145,7 +1145,7 @@
                                         </svg>
                                     </span>
                                 </span>
-                                <br>Let’s Talk To Us Today
+                                <br>Let's Talk To Us Today
                             </h4>
                             <a href="contact-us.php" class="it-btn-yellow white-bg">
                                 <span>

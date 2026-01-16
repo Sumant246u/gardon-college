@@ -209,7 +209,7 @@
                                             <div class="it-course-info-content">
                                                 <span class="it-course-info-label">Ofqual Link</span>
                                                 <p class="mb-0"> Level 7 Diploma in Strategic Management and Leadership
-                                                    – <a href="https://find-a-qualification.services.ofqual.gov.uk/qualifications/603/2181/7">603/2181/7</a><br>
+                                                    - <a href="https://find-a-qualification.services.ofqual.gov.uk/qualifications/603/2181/7">603/2181/7</a><br>
                                                 </p>
                                             </div>
                                         </div>
@@ -415,7 +415,7 @@
                                                 allowing learners to begin at any time and study around professional or
                                                 personal commitments. Each module includes <strong>40 hours of guided
                                                     online learning</strong>, supported by an additional
-                                                <strong>30–50 hours</strong> of optional study materials such as case
+                                                <strong>30-50 hours</strong> of optional study materials such as case
                                                 studies, recommended readings, digital resources, and self-assessment
                                                 activities to deepen strategic and leadership understanding.
                                             </p>
@@ -497,7 +497,7 @@
                                                 The OTHM Level 7 Diploma in Strategic Management and Leadership course
                                                 includes 6 written assignments, each approximately 2,000 to 3,000 words
                                                 in length. Students receive support for the modules and assignments via
-                                                the ‘Tutor’ section of the learning platform.
+                                                the Tutor section of the learning platform.
                                             </p>
 
                                             <p class="mb-25">
@@ -564,11 +564,11 @@
                                             <div class="it-course-price-box mb-30">
                                                 <h4 class="mb-10">
                                                     Level 7:
-                                                    <span class="it-price-amount">£3,500</span>
+                                                    <span class="it-price-amount">Â£3,500</span>
                                                 </h4>
                                                 <p class="mb-0">
-                                                    Enrol with a <strong>£20 deposit</strong> and then
-                                                    <strong>£145 a month for 24 months</strong>, 0%
+                                                    Enrol with a <strong>Â£20 deposit</strong> and then
+                                                    <strong>Â£145 a month for 24 months</strong>, 0%
                                                     interest-free.
                                                 </p>
                                             </div>
@@ -658,20 +658,20 @@
                                             <p class="mb-20">
                                                 <a href="https://www.glos.ac.uk/courses/course/mbatop-mba-business-administration/"
                                                     class="it-course-info-link" target="_blank">(Top Up) to MBA Business
-                                                    Administration</a> - £3,400 *exclusively to OBS*
+                                                    Administration</a> - Â£3,400 *exclusively to OBS*
                                             </p>
 
                                             <p class="mb-15"><strong>University of Wolverhampton</strong></p>
-                                            <p class="mb-20">MBA (Top Up) – £3,500</p>
+                                            <p class="mb-20">MBA (Top Up) - Â£3,500</p>
 
                                             <p class="mb-15"><strong>University of Central Lancashire</strong></p>
-                                            <p class="mb-20">MBA (Top Up) – £3,500</p>
+                                            <p class="mb-20">MBA (Top Up) - Â£3,500</p>
 
-                                            <p class="mb-15"><strong>University of Sunderland – On Campus</strong></p>
+                                            <p class="mb-15"><strong>University of Sunderland On Campus</strong></p>
                                             <p class="mb-20">
                                                 <a href="https://www.sunderland.ac.uk/study/business-and-management/mba-top-up/"
-                                                    class="it-course-info-link" target="_blank">MBA (Top-Up) –
-                                                    £5,145</a>
+                                                    class="it-course-info-link" target="_blank">MBA (Top-Up) -
+                                                    Â£5,145</a>
                                             </p>
 
                                             <p class="mb-15"><strong>Buckinghamshire New University</strong></p>
@@ -986,7 +986,7 @@
                     <div class="col-xl-7 col-lg-6 wow itfadeLeft" data-wow-duration=".9s" data-wow-delay=".5s">
                         <div class="it-faq-left">
                             <div class="it-faq-section-title-box mb-40">
-                                <span class="it-section-subtitle">Faq’s</span>
+                                <span class="it-section-subtitle">Faq's</span>
                                 <h4 class="it-section-title">Frequently Asked <br>
                                     <span class="z-index-1">
                                         Questions
@@ -1018,7 +1018,7 @@
                                             aria-labelledby="headingOne2" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
                                                 <p>Our experienced advisers understand all our programmes and guide you
-                                                    based on your goals, career plans, and future study options. </p>
+                                                    based on your goals, career plans, and future study options.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1033,8 +1033,8 @@
                                         <div id="collapseTwo3" class="accordion-collapse collapse"
                                             aria-labelledby="headingTwo3" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
-                                                <p>We assist you at every step — from course selection to enrolment and
-                                                    choosing suitable finance options. </p>
+                                                <p>We assist you at every step  from course selection to enrolment and
+                                                    choosing suitable finance options.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1050,7 +1050,7 @@
                                             aria-labelledby="headingFour4" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
                                                 <p>The QMB ensures high academic standards by regularly reviewing course
-                                                    quality, assessments, content, and student feedback. </p>
+                                                    quality, assessments, content, and student feedback.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1066,7 +1066,7 @@
                                             aria-labelledby="headingFour5" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
                                                 <p>Yes. Our programmes are aligned with OFQUAL standards and verified by
-                                                    OFQUAL-recognised awarding organisations. </p>
+                                                    OFQUAL-recognised awarding organisations.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1178,7 +1178,7 @@
                                         </svg>
                                     </span>
                                 </span>
-                                <br>Let’s Talk To Us Today
+                                <br>Let's Talk To Us Today
                             </h4>
                             <a href="contact-us.php" class="it-btn-yellow white-bg">
                                 <span>

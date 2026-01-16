@@ -453,7 +453,7 @@
                                                 </h5>
                                                 <p class="mb-0">This module helps you develop essential academic skills
                                                     such as researching, referencing, critical thinking, and writing.
-                                                    You’ll learn how to structure assignments, use academic sources, and
+                                                    You'll learn how to structure assignments, use academic sources, and
                                                     communicate ideas clearly and effectively.</p>
                                             </div>
 
@@ -471,7 +471,7 @@
 
                                                 </h5>
                                                 <p class="mb-0">Gain a basic understanding of how economies function and
-                                                    how businesses manage their finances. You’ll explore topics like
+                                                    how businesses manage their finances. You'll explore topics like
                                                     supply and demand, budgeting, financial records, and profit and
                                                     loss.</p>
                                             </div>
@@ -487,7 +487,7 @@
                                             <div class="it-subject-topic-item mb-30">
                                                 <h5 class="mb-15">Introduction to Marketing</h5>
                                                 <p class="mb-0">Discover the basics of marketing, including customer
-                                                    needs, market research, branding, and promotional strategies. You’ll
+                                                    needs, market research, branding, and promotional strategies. You'll
                                                     learn how businesses attract and retain customers in competitive
                                                     markets.</p>
                                             </div>
@@ -504,7 +504,7 @@
                                         <p class="mb-25">
                                             The level 3 diploma in Business Studies has 6 written assignments. The
                                             assignments are approximately 2,000-3,000 words each. Students are provided
-                                            support on the modules and assignments via the ‘Tutor’ section of the
+                                            support on the modules and assignments via the Tutor section of the
                                             learning platform.
                                         </p>
 
@@ -546,7 +546,7 @@
                                         </p>
 
                                         <p class="mb-20">
-                                            If you don’t have a full secondary education or the equivalent, you may also
+                                            If you don't have a full secondary education or the equivalent, you may also
                                             be able to enrol based on your work experience.
                                             <a href="https://www.google.com/search?q=online+business+school&oq=online+business+school&aqs=chrome.0.0i131i355i433i512j46i131i175i199i433i512j0i512j69i59j69i59i512j69i60l3.3669j0j7&sourceid=chrome&ie=UTF-8"
                                                 target="_blank" class="it-course-info-link">+44 2045770424</a>
@@ -565,9 +565,9 @@
                                     <div class="it-course-info-text">
                                         <div class="it-course-price-box mb-30">
                                             <h4 class="mb-10">Level 3 Diploma in Business Studies (60 credits): <span
-                                                    class="it-price-amount">£2500</span></h4>
-                                            <p class="mb-0">Enrol with a <strong>£20 deposit</strong> and then
-                                                <strong>£103.33 a month for 24 months</strong>, interest-free.
+                                                    class="it-price-amount">Â£2500</span></h4>
+                                            <p class="mb-0">Enrol with a <strong>v20 deposit</strong> and then
+                                                <strong>Â£103.33 a month for 24 months</strong>, interest-free.
                                             </p>
                                         </div>
 
@@ -1121,7 +1121,7 @@
                 <div class="col-xl-7 col-lg-6 wow itfadeLeft" data-wow-duration=".9s" data-wow-delay=".5s">
                     <div class="it-faq-left">
                         <div class="it-faq-section-title-box mb-40">
-                            <span class="it-section-subtitle">Faq’s</span>
+                            <span class="it-section-subtitle">Faq's</span>
                             <h4 class="it-section-title">Frequently Asked <br>
                                 <span class="z-index-1">
                                     Questions
@@ -1153,7 +1153,7 @@
                                         aria-labelledby="headingOne2" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
                                             <p>Our experienced advisers understand all our programmes and guide you
-                                                based on your goals, career plans, and future study options. </p>
+                                                based on your goals, career plans, and future study options.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -1168,8 +1168,8 @@
                                     <div id="collapseTwo3" class="accordion-collapse collapse"
                                         aria-labelledby="headingTwo3" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            <p>We assist you at every step — from course selection to enrolment and
-                                                choosing suitable finance options. </p>
+                                            <p>We assist you at every step  from course selection to enrolment and
+                                                choosing suitable finance options.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -1185,7 +1185,7 @@
                                         aria-labelledby="headingFour4" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
                                             <p>The QMB ensures high academic standards by regularly reviewing course
-                                                quality, assessments, content, and student feedback. </p>
+                                                quality, assessments, content, and student feedback.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -1201,7 +1201,7 @@
                                         aria-labelledby="headingFour5" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
                                             <p>Yes. Our programmes are aligned with OFQUAL standards and verified by
-                                                OFQUAL-recognised awarding organisations. </p>
+                                                OFQUAL-recognised awarding organisations.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -1247,7 +1247,7 @@
                                     </svg>
                                 </span>
                             </span>
-                            <br>Let’s Talk To Us Today
+                            <br>Let's Talk To Us Today
                         </h4>
                         <a href="contact-us.php" class="it-btn-yellow white-bg">
                             <span>

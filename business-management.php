@@ -539,11 +539,11 @@
                                             <div class="it-course-price-box mb-25">
                                                 <h4 class="mb-10">
                                                     Foundation Diploma in Business Management (120 credits):
-                                                    <span class="it-price-amount">2,600</span>
+                                                    <span class="it-price-amount">£2,600</span>
                                                 </h4>
                                                 <p class="mb-0">
-                                                    Enrol with a <strong>20 deposit</strong> and then
-                                                    <strong>107.50 a month for 24 months</strong>, interest free.
+                                                    Enrol with a <strong>£20 deposit</strong> and then
+                                                    <strong>£107.50 a month for 24 months</strong>, interest free.
                                                 </p>
                                             </div>
 
