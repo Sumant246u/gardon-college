@@ -32359,3 +32359,56 @@ input[type=radio] {
     right: 20px;
   }
 }
+
+/*----------------------------------------*/
+/* CRM IFRAME FORM WRAPPER CSS START
+/*----------------------------------------*/
+.it-enquiry-form-box {
+   position: relative;
+}
+
+.it-enquiry-form-box::before {
+   pointer-events: none !important;
+   z-index: 1 !important;
+}
+
+.crm-iframe-wrapper {
+   width: 100%;
+   height: 550px;
+   border: none;
+   border-radius: 10px;
+   overflow: hidden;
+   position: relative;
+   z-index: 100 !important;
+   pointer-events: auto !important;
+   background: #ffffff;
+}
+
+.crm-iframe-wrapper iframe {
+   pointer-events: auto !important;
+   position: relative;
+   z-index: 100 !important;
+   background: #ffffff;
+   margin-top: 50px;
+}
+
+.it-enquiry-form-icon,
+.it-enquiry-form-title {
+   position: relative;
+   z-index: 2;
+}
+
+@media (max-width: 991px) {
+   .crm-iframe-wrapper {
+      height: 650px;
+   }
+}
+
+@media (max-width: 767px) {
+   .crm-iframe-wrapper {
+      height: 700px;
+   }
+}
+
+
+
