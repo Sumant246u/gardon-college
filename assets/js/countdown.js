@@ -36,7 +36,7 @@
 
             if (distance < 0) {
                 clearInterval(interval);
-                $('#countdown').html("<span class='alert'>Event Expired</span>");
+                $('#countdown').php("<span class='alert'>Event Expired</span>");
             }
         }
         updateCountdown();
