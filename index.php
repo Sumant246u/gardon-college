@@ -20,7 +20,7 @@
                                  <div class="it-slider-content">
                                     <h1 class="it-slider-title">Building Brighter Futures Through Quality
                                        <span class="z-index-1">
-                                          Education
+                                          Education Sanjeeb
                                           <span class="it-title-shape">
                                              <svg width="392" height="36" viewBox="0 0 392 36" fill="none"
                                                 xmlns="http://www.w3.org/2000/svg">
