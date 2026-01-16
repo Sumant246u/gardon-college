@@ -664,9 +664,7 @@
             </div>
          </div>
       </section>
-      <!-- campus-area-end -->
 
-      <!-- choose-area-start -->
       <div class="it-choose-5-area p-relative pt-40 pb-130">
          <img class="it-choose-5-shape-1" src="assets/img/shape/choose-12-1.png" alt="">
          <div class="container container-1600">
