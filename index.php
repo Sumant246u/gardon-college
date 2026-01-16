@@ -20,7 +20,7 @@
                                  <div class="it-slider-content">
                                     <h1 class="it-slider-title">Building Brighter Futures Through Quality
                                        <span class="z-index-1">
-                                          Education
+                                          Education Sanjeeb
                                           <span class="it-title-shape">
                                              <svg width="392" height="36" viewBox="0 0 392 36" fill="none"
                                                 xmlns="http://www.w3.org/2000/svg">
@@ -664,9 +664,7 @@
             </div>
          </div>
       </section>
-      <!-- campus-area-end -->
 
-      <!-- choose-area-start -->
       <div class="it-choose-5-area p-relative pt-40 pb-130">
          <img class="it-choose-5-shape-1" src="assets/img/shape/choose-12-1.png" alt="">
          <div class="container container-1600">
